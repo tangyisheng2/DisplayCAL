@@ -1,0 +1,478 @@
+2019-04-27 20:34:53,733 ================================================================================
+2019-04-27 20:34:53,733 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-27 20:34:53,744 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-27 20:34:53,744 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-27 20:34:53,744 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-27 20:34:53,746 Faulthandler 3.0
+2019-04-27 20:34:55,214 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-27 20:34:55,220 Creating writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-04-27 20:34:55,221 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-04-27 20:34:55,229 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-27 20:34:55,229 Encoding: cp936
+2019-04-27 20:34:55,229 File system encoding: mbcs
+2019-04-27 20:34:55,562 Trying to create task 'DisplayCAL Profile Loader Launcher'...
+2019-04-27 20:34:59,471 SUCCESS: The scheduled task "DisplayCAL Profile Loader Launcher" has successfully been created.
+2019-04-27 20:34:59,477 Installing SIGINT handler
+2019-04-27 20:34:59,828 Setting up scripting host at 127.0.0.1:15411
+2019-04-27 20:34:59,917 --------------------------------------------------------------------------------
+2019-04-27 20:34:59,918 Enumerating display adapters and devices:
+2019-04-27 20:34:59,918 
+2019-04-27 20:35:00,082 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-27 20:35:00,226 Intel(R) HD Graphics 520
+2019-04-27 20:35:00,226   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-27 20:35:00,407 Caching implicit linear gamma ramps for profile sRGB IEC61966-2.1 (sRGB Color Space Profile.icm)
+2019-04-27 20:35:00,500 Loading calibration curves of current display device profile...
+2019-04-27 20:35:00,500 1. Generic PnP Monitor @ 0, 0, 1920x1080 (Primary): sRGB IEC61966-2.1 (sRGB Color Space Profile.icm)
+2019-04-27 20:35:00,535 ...ok.
+2019-04-27 20:35:03,582 Detected DisplayCAL. Calibration loading disabled.
+2019-04-27 20:36:30,673 Scripting client 127.0.0.1:56413 connected
+2019-04-27 20:36:30,674 Received scripting request from 127.0.0.1:56413: getappname
+2019-04-27 20:36:30,674 Received scripting request from 127.0.0.1:56413: setlanguage zh_cn
+2019-04-27 20:36:30,744 从 127.0.0.1:56413: notify '已检测 DisplayCAL. 校准加载已禁用。' silent sticky 收到脚本请求
+2019-04-27 20:36:30,809 脚本客户端 127.0.0.1:56413 已断开
+2019-04-27 20:38:19,539 不再检测 DisplayCAL. 校准加载已启用。
+2019-04-27 20:38:22,717 已检测 DisplayCAL. 校准加载已禁用。
+2019-04-27 20:42:04,928 不再检测 DisplayCAL. 校准加载已启用。
+2019-04-27 20:42:07,971 已检测 DisplayCAL. 校准加载已禁用。
+2019-04-27 20:43:44,038 脚本客户端 127.0.0.1:57358 已连接
+2019-04-27 20:43:44,039 从 127.0.0.1:57358: getappname 收到脚本请求
+2019-04-27 20:43:44,039 从 127.0.0.1:57358: setcfg argyll.dir "D:\Program Files\Argyll_V2.1.0\bin" force 收到脚本请求
+2019-04-27 20:43:44,042 脚本客户端 127.0.0.1:57358 已断开
+2019-04-27 20:44:51,979 脚本客户端 127.0.0.1:57464 已连接
+2019-04-27 20:44:51,980 从 127.0.0.1:57464: getappname 收到脚本请求
+2019-04-27 20:44:51,980 从 127.0.0.1:57464: setlanguage en 收到脚本请求
+2019-04-27 20:44:52,039 Received scripting request from 127.0.0.1:57464: notify 'Detected DisplayCAL. Calibration loading disabled.' silent sticky
+2019-04-27 20:44:52,099 Scripting client 127.0.0.1:57464 disconnected
+2019-04-27 20:44:59,467 Scripting client 127.0.0.1:57473 connected
+2019-04-27 20:44:59,467 Received scripting request from 127.0.0.1:57473: getappname
+2019-04-27 20:44:59,469 Received scripting request from 127.0.0.1:57473: setlanguage zh_cn
+2019-04-27 20:44:59,526 从 127.0.0.1:57473: notify '已检测 DisplayCAL. 校准加载已禁用。' silent sticky 收到脚本请求
+2019-04-27 20:44:59,588 脚本客户端 127.0.0.1:57473 已断开
+2019-04-27 21:17:04,091 SysTrayIcon.OnCommand(hwnd=131562, msg=273, wparam=117, lparam=0)
+2019-04-27 21:17:04,092 Menu command:
+2019-04-27 21:17:04,092 Set profile associations
+2019-04-27 21:17:07,114 A profile change has been detected
+2019-04-27 21:17:07,114 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY] -> ?
+2019-04-27 21:17:07,710 A profile change has been detected
+2019-04-27 21:17:07,710 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY] -> sRGB IEC61966-2.1 (sRGB Color Space Profile.icm)
+2019-04-27 21:17:07,782 Caching implicit linear gamma ramps for profile sRGB IEC61966-2.1 (sRGB Color Space Profile.icm)
+2019-04-27 21:17:07,782 加载当前显示设备配置文件校准曲线...
+2019-04-27 21:17:07,782 1. Generic PnP Monitor @ 0, 0, 1920x1080 (主要): sRGB IEC61966-2.1 (sRGB Color Space Profile.icm)
+2019-04-27 21:17:07,802 ...确定。
+2019-04-27 21:43:32,746 脚本客户端 127.0.0.1:61844 已连接
+2019-04-27 21:43:32,746 从 127.0.0.1:61844: getappname 收到脚本请求
+2019-04-27 21:43:32,746 从 127.0.0.1:61844: getcfg profile.load_on_login 收到脚本请求
+2019-04-27 21:43:32,747 脚本客户端 127.0.0.1:61844 已断开
+2019-04-27 21:43:45,322 A profile change has been detected
+2019-04-27 21:43:45,322 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY] -> Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 21:43:45,414 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 21:43:45,414 加载当前显示设备配置文件校准曲线...
+2019-04-27 21:43:45,414 1. Generic PnP Monitor @ 0, 0, 1920x1080 (主要): Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 21:43:45,440 ...确定。
+2019-04-27 21:49:39,575 SysTrayIcon.OnCommand(hwnd=131562, msg=273, wparam=159, lparam=0)
+2019-04-27 21:49:39,575 Menu command:
+2019-04-27 21:49:39,575 Set profile associations
+2019-04-27 21:54:16,740 已检测 madVR. 校准加载已禁用。
+2019-04-27 21:54:30,894 SysTrayIcon.OnCommand(hwnd=131562, msg=273, wparam=201, lparam=0)
+2019-04-27 21:54:30,895 Menu command:
+2019-04-27 21:54:30,895 Set profile associations
+2019-04-27 21:57:31,331 SysTrayIcon.OnCommand(hwnd=131562, msg=273, wparam=223, lparam=0)
+2019-04-27 21:57:31,332 Menu command: Open display settings
+2019-04-27 21:59:17,839 Received query to end session
+2019-04-27 21:59:17,841 Can veto
+2019-04-27 21:59:17,841 Trying to close main top-level application window...
+2019-04-27 21:59:17,841 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x058261C0>)
+2019-04-27 21:59:17,854 Main top-level application window processed close event
+2019-04-27 21:59:17,854 Executing BaseApp.OnExit()
+2019-04-27 21:59:17,855 Running application exit handlers
+2019-04-27 21:59:17,855 Shutting down profile loader
+2019-04-27 21:59:17,857 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-27 21:59:17,881 Display configuration monitoring thread finished
+2019-04-27 22:00:07,858 ================================================================================
+2019-04-27 22:00:07,877 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-27 22:00:07,900 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-27 22:00:07,901 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-27 22:00:07,901 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-27 22:00:07,904 Faulthandler 3.0
+2019-04-27 22:00:15,013 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-27 22:00:15,076 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-04-27 22:00:15,095 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-27 22:00:15,095 Encoding: cp936
+2019-04-27 22:00:15,098 File system encoding: mbcs
+2019-04-27 22:00:17,233 Connection to 127.0.0.1:15411 failed: [Errno 10061] No connection could be made because the target machine actively refused it
+2019-04-27 22:00:17,479 Installing SIGINT handler
+2019-04-27 22:00:17,729 配置脚本主机为 127.0.0.1:15411
+2019-04-27 22:00:17,733 --------------------------------------------------------------------------------
+2019-04-27 22:00:17,733 Enumerating display adapters and devices:
+2019-04-27 22:00:17,733 
+2019-04-27 22:00:18,006 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-27 22:00:18,187 Intel(R) HD Graphics 520
+2019-04-27 22:00:18,187   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-27 22:00:18,434 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 22:00:18,470 已检测 DisplayCAL. 校准加载已禁用。
+2019-04-27 22:02:39,645 SysTrayIcon.OnCommand(hwnd=131126, msg=273, wparam=104, lparam=0)
+2019-04-27 22:02:39,647 Menu command:
+2019-04-27 22:02:39,647 Toggle fix profile associations False
+2019-04-27 22:02:39,647 Acquired lock
+2019-04-27 22:02:39,648 Releasing lock
+2019-04-27 22:02:42,381 SysTrayIcon.OnCommand(hwnd=131126, msg=273, wparam=125, lparam=0)
+2019-04-27 22:02:42,381 Menu command:
+2019-04-27 22:02:42,381 Toggle fix profile associations True
+2019-04-27 22:02:54,921 Acquired lock
+2019-04-27 22:02:55,029 Releasing lock
+2019-04-27 22:50:08,285 SysTrayIcon.OnCommand(hwnd=131126, msg=273, wparam=160, lparam=0)
+2019-04-27 22:50:08,286 Menu command: Open display settings
+2019-04-27 22:50:47,243 已检测 madVR. 校准加载已禁用。
+2019-04-27 22:50:47,247 不再检测 DisplayCAL. 校准加载已启用。
+2019-04-27 22:51:16,296 A profile change has been detected
+2019-04-27 22:51:16,296 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY] -> ?
+2019-04-27 22:51:26,424 SysTrayIcon.OnCommand(hwnd=131126, msg=273, wparam=183, lparam=0)
+2019-04-27 22:51:26,424 Executing ProfileLoader.exit(<wx._core.CommandEvent object at 0x057B7CB0>)
+2019-04-27 22:51:27,855 Executing BaseApp.OnExit()
+2019-04-27 22:51:27,855 Running application exit handlers
+2019-04-27 22:51:27,855 Shutting down profile loader
+2019-04-27 22:51:27,858 Waiting for thread DisplayConfigurationMonitoring to exit
+2019-04-27 22:51:27,865 Display configuration monitoring thread finished
+2019-04-27 22:51:27,867 DisplayConfigurationMonitoring exited
+2019-04-27 22:51:27,867 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-27 22:51:27,937 ScriptingHost.ConnectionHandler exited
+2019-04-27 22:51:27,938 Exiting DisplayCAL-apply-profiles
+2019-04-27 22:51:27,938 Ran application exit handlers
+2019-04-27 23:45:00,848 ================================================================================
+2019-04-27 23:45:00,848 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-27 23:45:00,872 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-27 23:45:00,872 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-27 23:45:00,872 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-27 23:45:00,875 Faulthandler 3.0
+2019-04-27 23:45:01,608 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-27 23:45:01,615 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-04-27 23:45:01,622 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-27 23:45:01,622 Encoding: cp936
+2019-04-27 23:45:01,622 File system encoding: mbcs
+2019-04-27 23:45:01,663 Installing SIGINT handler
+2019-04-27 23:45:01,759 已检测 madVR. 校准加载已禁用。
+2019-04-27 23:45:01,773 配置脚本主机为 127.0.0.1:15411
+2019-04-27 23:45:01,819 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:01,821 --------------------------------------------------------------------------------
+2019-04-27 23:45:01,821 Enumerating display adapters and devices:
+2019-04-27 23:45:01,821 
+2019-04-27 23:45:01,983 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-27 23:45:02,180 Intel(R) HD Graphics 520
+2019-04-27 23:45:02,180   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-27 23:45:05,194 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:06,693 SysTrayIcon.OnCommand(hwnd=461474, msg=273, wparam=117, lparam=0)
+2019-04-27 23:45:06,693 Menu command:
+2019-04-27 23:45:06,693 Set profile associations
+2019-04-27 23:45:08,206 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:11,217 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:14,229 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:17,240 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:18,746 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:18,759 A profile change has been detected
+2019-04-27 23:45:18,759 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY] -> Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:45:18,898 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:45:21,950 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:25,019 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:28,075 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:31,148 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:34,378 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:37,513 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:40,628 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:43,697 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:43,744 不再检测 madVR. 校准加载已启用。
+2019-04-27 23:45:44,344 SysTrayIcon.OnCommand(hwnd=461474, msg=273, wparam=130, lparam=0)
+2019-04-27 23:45:44,345 Menu command: Set quantization bitdepth 8
+2019-04-27 23:45:44,368 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:44,411 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:45:44,460 加载当前显示设备配置文件校准曲线...
+2019-04-27 23:45:44,460 1. Generic PnP Monitor @ 0, 0, 1920x1080 (主要): Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:45:44,483 ...确定。
+2019-04-27 23:45:47,497 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:50,595 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:53,696 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:53,700 已检测 DisplayCAL. 校准加载已禁用。
+2019-04-27 23:45:56,736 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:45:59,757 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:02,780 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:05,802 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:08,828 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:11,849 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:14,871 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:16,111 SysTrayIcon.OnCommand(hwnd=461474, msg=273, wparam=180, lparam=0)
+2019-04-27 23:46:16,111 Menu command:
+2019-04-27 23:46:16,111 Set profile associations
+2019-04-27 23:46:17,895 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:20,920 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:21,880 SysTrayIcon.OnCommand(hwnd=461474, msg=273, wparam=202, lparam=0)
+2019-04-27 23:46:21,880 Menu command: Open display settings
+2019-04-27 23:46:23,943 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:26,967 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:29,989 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:33,012 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:36,036 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:39,062 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:42,084 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:45,105 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:48,128 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:51,148 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:54,165 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:46:57,191 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:00,216 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:03,237 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:06,259 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:09,286 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:12,312 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:15,331 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:18,354 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:21,375 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:24,404 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:27,441 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:30,473 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:33,493 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:36,516 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:39,536 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:42,559 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:43,924 SysTrayIcon.OnCommand(hwnd=461474, msg=273, wparam=220, lparam=0)
+2019-04-27 23:47:43,926 Menu command: Set exceptions
+2019-04-27 23:47:45,578 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:45,617 Cancelled setting exceptions
+2019-04-27 23:47:48,529 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:51,049 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:54,733 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:47:57,974 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:01,068 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:04,154 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:07,229 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:10,253 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:13,377 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:16,453 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:19,480 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:22,503 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:25,528 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:28,546 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:31,579 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:34,641 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:37,663 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:40,684 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:43,703 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:46,726 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:49,753 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:52,790 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:55,881 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:48:59,130 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:02,286 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:05,338 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:08,358 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:11,444 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:14,510 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:17,552 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:20,576 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:23,601 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:26,624 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:29,915 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:33,022 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:36,061 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:39,084 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:42,108 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:45,141 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:48,167 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:51,190 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:54,223 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:49:57,249 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:00,269 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:03,292 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:06,315 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:09,426 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:12,479 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:15,528 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:18,562 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:21,585 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:24,612 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:27,631 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:30,661 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:33,684 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:36,704 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:39,724 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:42,743 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:45,762 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:48,780 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:51,805 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:54,831 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:50:57,846 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:00,868 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:03,890 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:06,911 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:09,936 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:12,953 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:15,976 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:18,993 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:22,016 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:25,038 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:28,058 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:31,078 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:34,098 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:37,119 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:40,141 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:43,160 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:46,180 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:49,201 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:52,221 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:55,243 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:51:58,267 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:01,290 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:04,312 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:07,341 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:10,361 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:13,390 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:16,413 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:19,430 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:22,447 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:25,467 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:28,486 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:31,510 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:34,558 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:37,578 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:40,542 SysTrayIcon.OnCommand(hwnd=461474, msg=273, wparam=264, lparam=0)
+2019-04-27 23:52:40,542 Menu command:
+2019-04-27 23:52:40,542 Set profile associations
+2019-04-27 23:52:40,605 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:43,637 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:46,657 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:49,684 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:49,888 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:50,898 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:51,503 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:54,526 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:55,234 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:52:58,256 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:01,282 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:04,301 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:07,325 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:10,345 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:13,364 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:16,382 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:19,401 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:22,418 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:25,444 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:28,473 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:31,494 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:34,515 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:37,536 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:40,565 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:43,588 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:46,608 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:49,622 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:52,647 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:55,668 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:53:58,687 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:54:01,710 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:54:03,979 SysTrayIcon.OnCommand(hwnd=461474, msg=273, wparam=288, lparam=0)
+2019-04-27 23:54:03,979 Executing ProfileLoader.exit(<wx._core.CommandEvent object at 0x05FAEE40>)
+2019-04-27 23:54:04,732 Registry access failed: [Windows Error 5] Access is denied
+2019-04-27 23:54:05,778 Executing BaseApp.OnExit()
+2019-04-27 23:54:05,778 Running application exit handlers
+2019-04-27 23:54:05,778 Shutting down profile loader
+2019-04-27 23:54:05,782 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-27 23:54:05,842 Display configuration monitoring thread finished
+2019-04-27 23:54:05,907 ScriptingHost.ConnectionHandler exited
+2019-04-27 23:54:05,908 Exiting DisplayCAL-apply-profiles
+2019-04-27 23:54:05,908 Ran application exit handlers
+2019-04-27 23:54:15,509 ================================================================================
+2019-04-27 23:54:15,510 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-27 23:54:15,519 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-27 23:54:15,519 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-27 23:54:15,519 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-27 23:54:15,520 Faulthandler 3.0
+2019-04-27 23:54:15,907 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-27 23:54:15,915 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-04-27 23:54:15,920 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-27 23:54:15,920 Encoding: cp936
+2019-04-27 23:54:15,920 File system encoding: mbcs
+2019-04-27 23:54:16,141 Installing SIGINT handler
+2019-04-27 23:54:16,210 配置脚本主机为 127.0.0.1:15411
+2019-04-27 23:54:16,211 --------------------------------------------------------------------------------
+2019-04-27 23:54:16,211 Enumerating display adapters and devices:
+2019-04-27 23:54:16,211 
+2019-04-27 23:54:16,299 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-27 23:54:16,413 Intel(R) HD Graphics 520
+2019-04-27 23:54:16,413   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-27 23:54:16,503 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:54:16,506 已检测 DisplayCAL. 校准加载已禁用。
+2019-04-27 23:54:20,869 SysTrayIcon.OnCommand(hwnd=527448, msg=273, wparam=113, lparam=0)
+2019-04-27 23:54:20,871 Menu command: Set quantization bitdepth 16
+2019-04-27 23:54:20,948 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:54:22,767 SysTrayIcon.OnCommand(hwnd=527448, msg=273, wparam=138, lparam=0)
+2019-04-27 23:54:22,767 Menu command:
+2019-04-27 23:54:22,767 Set profile associations
+2019-04-27 23:54:26,756 Menu command:
+2019-04-27 23:54:26,756 Toggle fix profile associations False
+2019-04-27 23:54:26,756 Acquired lock
+2019-04-27 23:54:26,759 Releasing lock
+2019-04-27 23:54:27,503 Menu command:
+2019-04-27 23:54:27,503 Toggle fix profile associations True
+2019-04-27 23:54:30,102 Acquired lock
+2019-04-27 23:54:30,177 Releasing lock
+2019-04-27 23:54:39,168 SysTrayIcon.OnCommand(hwnd=527448, msg=273, wparam=202, lparam=0)
+2019-04-27 23:54:39,168 Menu command: Open display settings
+2019-04-27 23:55:23,249 Received query to end session
+2019-04-27 23:55:23,249 Can veto
+2019-04-27 23:55:23,249 Trying to close main top-level application window...
+2019-04-27 23:55:23,250 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x057708A0>)
+2019-04-27 23:55:23,430 Main top-level application window processed close event
+2019-04-27 23:55:23,433 Ending session
+2019-04-27 23:55:23,434 Executing BaseApp.OnExit()
+2019-04-27 23:55:23,434 Running application exit handlers
+2019-04-27 23:55:23,434 Shutting down profile loader
+2019-04-27 23:55:23,438 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-27 23:55:23,448 Display configuration monitoring thread finished
+2019-04-27 23:55:23,450 ScriptingHost.ConnectionHandler exited
+2019-04-27 23:55:23,451 Exiting DisplayCAL-apply-profiles
+2019-04-27 23:55:23,453 Calling sys.exit(0)
+2019-04-27 23:55:23,453 Ran application exit handlers
+2019-04-27 23:56:22,305 ================================================================================
+2019-04-27 23:56:22,878 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-27 23:56:23,167 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-27 23:56:23,167 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-27 23:56:23,167 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-27 23:56:23,170 Faulthandler 3.0
+2019-04-27 23:56:28,163 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-27 23:56:28,174 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-04-27 23:56:28,230 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-27 23:56:28,230 Encoding: cp936
+2019-04-27 23:56:28,256 File system encoding: mbcs
+2019-04-27 23:56:28,361 Installing SIGINT handler
+2019-04-27 23:56:28,846 配置脚本主机为 127.0.0.1:15411
+2019-04-27 23:56:28,947 --------------------------------------------------------------------------------
+2019-04-27 23:56:28,979 Enumerating display adapters and devices:
+2019-04-27 23:56:29,016 
+2019-04-27 23:56:30,058 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-27 23:56:30,789 <wx._core.DisplayChangedEvent object at 0x056CE9E0>
+2019-04-27 23:56:31,038 ProcessDisplayChangedEvent: Waiting to acquire lock...
+2019-04-27 23:56:31,513 Intel(R) HD Graphics 520
+2019-04-27 23:56:31,513   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-27 23:56:32,384 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:56:32,440 加载当前显示设备配置文件校准曲线...
+2019-04-27 23:56:32,440 1. Generic PnP Monitor @ 0, 0, 1920x1080 (主要): Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:56:32,575 ...确定。
+2019-04-27 23:56:32,576 ProcessDisplayChangedEvent: Acquired lock
+2019-04-27 23:56:32,578 --------------------------------------------------------------------------------
+2019-04-27 23:56:32,578 Enumerating display adapters and devices:
+2019-04-27 23:56:32,579 
+2019-04-27 23:56:32,746 DisplayConfigurationMonitoringThread: Waiting to acquire lock...
+2019-04-27 23:56:33,029 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-27 23:56:33,480 Intel(R) HD Graphics 520
+2019-04-27 23:56:33,480   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-27 23:56:33,480 ProcessDisplayChangedEvent: Releasing lock
+2019-04-27 23:56:33,482 DisplayConfigurationMonitoringThread: Acquired lock
+2019-04-27 23:56:33,561 DisplayConfigurationMonitoringThread: Releasing lock
+2019-04-27 23:56:33,561 DisplayConfigurationMonitoringThread: Released lock
+2019-04-27 23:57:06,948 TaskBarIcon.on_left_down: Waiting to acquire lock...
+2019-04-27 23:57:06,984 TaskBarIcon.on_left_down: Acquired lock
+2019-04-27 23:57:06,984 TaskBarIcon.on_left_down: Releasing lock
+2019-04-27 23:57:26,492 SysTrayIcon.OnCommand(hwnd=131562, msg=273, wparam=130, lparam=0)
+2019-04-27 23:57:26,492 Menu command: Set quantization bitdepth 8
+2019-04-27 23:57:26,599 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:57:26,642 加载当前显示设备配置文件校准曲线...
+2019-04-27 23:57:26,642 1. Generic PnP Monitor @ 0, 0, 1920x1080 (主要): Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-27 23:57:26,677 ...确定。
+2019-04-27 23:57:32,815 已检测 DisplayCAL. 校准加载已禁用。

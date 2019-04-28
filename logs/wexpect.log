@@ -1,0 +1,596 @@
+2019-04-28 00:04:23,973 ================================================================================
+2019-04-28 00:04:23,975 Buffer size: 2000
+2019-04-28 00:04:23,978 Timeout: 20s
+2019-04-28 00:04:23,980 Environment:
+2019-04-28 00:04:23,982 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:04:23,984 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:04:23,986 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:04:23,989 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:04:23,991 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:04:23,993 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:04:23,995 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:04:23,998 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:04:24,000 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:04:24,002 	PROCESSOR_REVISION=4e03
+2019-04-28 00:04:24,005 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:04:24,007 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:04:24,009 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:04:24,011 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:04:24,013 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:04:24,015 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:04:24,017 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:04:24,019 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:04:24,022 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:04:24,024 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:04:24,026 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:04:24,028 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:04:24,030 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:04:24,032 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:04:24,034 	HOMEPATH=\Users\tang-
+2019-04-28 00:04:24,036 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:04:24,040 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:04:24,045 	USERNAME=tang-
+2019-04-28 00:04:24,048 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:04:24,052 	SESSIONNAME=Console
+2019-04-28 00:04:24,055 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:04:24,059 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:04:24,062 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:04:24,066 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:04:24,069 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:04:24,072 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:04:24,075 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:04:24,079 	WINDIR=C:\WINDOWS
+2019-04-28 00:04:24,081 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:04:24,083 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:04:24,086 	HOMEDRIVE=C:
+2019-04-28 00:04:24,088 	OS=Windows_NT
+2019-04-28 00:04:24,090 	SYSTEMDRIVE=C:
+2019-04-28 00:04:24,092 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:04:24,094 	PROCESSOR_LEVEL=6
+2019-04-28 00:04:24,096 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:04:24,098 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:04:24,100 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:04:24,102 	PUBLIC=C:\Users\Public
+2019-04-28 00:04:24,105 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:04:24,107 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -d1 -c1 -yr "-P0.500395256917,0.501176470588,1.0" -Ibw -r
+2019-04-28 00:04:24,109 Code page: 936
+2019-04-28 00:04:24,111 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\dispcal.exe', '-v2', '-d1', '-c1', '-yr', '-P0.500395256917,0.501176470588,1.0', '-Ibw', '-r']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 4736, 6984, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-04-28 00:05:28,503 ================================================================================
+2019-04-28 00:05:28,505 Buffer size: 2000
+2019-04-28 00:05:28,507 Timeout: 20s
+2019-04-28 00:05:28,509 Environment:
+2019-04-28 00:05:28,511 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:05:28,513 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:05:28,515 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:05:28,517 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:05:28,519 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:05:28,521 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:05:28,524 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:05:28,526 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:05:28,528 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:05:28,530 	PROCESSOR_REVISION=4e03
+2019-04-28 00:05:28,532 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:05:28,534 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:05:28,536 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:05:28,538 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:05:28,541 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:05:28,543 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:05:28,545 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:05:28,547 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:05:28,549 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:05:28,551 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:05:28,555 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:05:28,560 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:05:28,563 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:05:28,567 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:05:28,570 	HOMEPATH=\Users\tang-
+2019-04-28 00:05:28,576 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:05:28,580 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:05:28,584 	USERNAME=tang-
+2019-04-28 00:05:28,589 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:05:28,593 	SESSIONNAME=Console
+2019-04-28 00:05:28,596 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:05:28,599 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:05:28,602 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:05:28,604 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:05:28,608 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:05:28,611 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:05:28,613 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:05:28,616 	WINDIR=C:\WINDOWS
+2019-04-28 00:05:28,618 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:05:28,620 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:05:28,623 	HOMEDRIVE=C:
+2019-04-28 00:05:28,626 	OS=Windows_NT
+2019-04-28 00:05:28,629 	SYSTEMDRIVE=C:
+2019-04-28 00:05:28,633 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:05:28,636 	PROCESSOR_LEVEL=6
+2019-04-28 00:05:28,640 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:05:28,642 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:05:28,644 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:05:28,645 	PUBLIC=C:\Users\Public
+2019-04-28 00:05:28,648 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:05:28,649 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-ool4dh
+2019-04-28 00:05:28,651 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispread.exe" -v -k "MEASUR~1.CAL" -d1 -c1 -yr "-P0.500395256917,0.501176470588,1.0" -Ibw "Measurement Report 3.8 ！ LTN133HL05902 @ 0, 0, 1920x1080 ！ 2019-04-28 00-05"
+2019-04-28 00:05:28,654 Code page: 936
+2019-04-28 00:05:28,656 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\dispread.exe', '-v', '-k', 'MEASUR~1.CAL', '-d1', '-c1', '-yr', '-P0.500395256917,0.501176470588,1.0', '-Ibw', 'Measurement Report 3.8 \xa1\xaa LTN133HL05902 @ 0, 0, 1920x1080 \xa1\xaa 2019-04-28 00-05']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 4736, 12932, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-04-28 00:10:13,978 ================================================================================
+2019-04-28 00:10:13,980 Buffer size: 2000
+2019-04-28 00:10:13,982 Timeout: 20s
+2019-04-28 00:10:13,984 Environment:
+2019-04-28 00:10:13,986 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:10:13,988 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:10:13,991 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:10:13,993 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:10:13,995 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:10:13,997 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:10:13,998 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:10:14,000 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:10:14,002 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:10:14,004 	PROCESSOR_REVISION=4e03
+2019-04-28 00:10:14,007 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:10:14,009 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:10:14,012 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:10:14,012 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:10:14,014 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:10:14,016 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:10:14,019 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:10:14,021 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:10:14,023 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:10:14,025 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:10:14,027 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:10:14,029 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:10:14,030 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:10:14,032 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:10:14,034 	HOMEPATH=\Users\tang-
+2019-04-28 00:10:14,035 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:10:14,037 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:10:14,039 	USERNAME=tang-
+2019-04-28 00:10:14,041 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:10:14,042 	SESSIONNAME=Console
+2019-04-28 00:10:14,044 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:10:14,046 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:10:14,047 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:10:14,049 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:10:14,051 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:10:14,052 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:10:14,054 	ARGYLL_NOT_INTERACTIVE=1
+2019-04-28 00:10:14,058 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:10:14,059 	ARGYLL_3D_DISP_FORMAT=VRML
+2019-04-28 00:10:14,061 	WINDIR=C:\WINDOWS
+2019-04-28 00:10:14,063 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:10:14,064 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:10:14,066 	HOMEDRIVE=C:
+2019-04-28 00:10:14,068 	OS=Windows_NT
+2019-04-28 00:10:14,070 	SYSTEMDRIVE=C:
+2019-04-28 00:10:14,072 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:10:14,073 	PROCESSOR_LEVEL=6
+2019-04-28 00:10:14,075 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:10:14,077 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:10:14,078 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:10:14,080 	PUBLIC=C:\Users\Public
+2019-04-28 00:10:14,082 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:10:14,084 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-ggso2_
+2019-04-28 00:10:14,086 Spawning "D:\Program Files\Argyll_V2.1.0\bin\collink.exe" -v -qh -G -iaw -r65 -n -3m -et -Et -b -IB:0.0:2.4 Rec709.icm "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.icm" "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4eGawt65.icm"
+2019-04-28 00:10:14,088 Code page: 936
+2019-04-28 00:10:14,090 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\collink.exe', '-v', '-qh', '-G', '-iaw', '-r65', '-n', '-3m', '-et', '-Et', '-b', '-IB:0.0:2.4', 'Rec709.icm', 'LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.icm', 'LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4eGawt65.icm']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 11868, 14700, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-04-28 00:19:37,380 ================================================================================
+2019-04-28 00:19:37,384 Buffer size: 2000
+2019-04-28 00:19:37,387 Timeout: 20s
+2019-04-28 00:19:37,391 Environment:
+2019-04-28 00:19:37,394 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:19:37,398 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:19:37,402 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:19:37,405 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:19:37,408 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:19:37,412 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:19:37,416 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:19:37,419 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:19:37,423 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:19:37,426 	PROCESSOR_REVISION=4e03
+2019-04-28 00:19:37,429 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:19:37,432 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:19:37,434 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:19:37,437 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:19:37,439 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:19:37,442 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:19:37,444 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:19:37,448 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:19:37,453 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:19:37,456 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:19:37,459 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:19:37,462 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:19:37,465 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:19:37,467 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:19:37,470 	HOMEPATH=\Users\tang-
+2019-04-28 00:19:37,473 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:19:37,476 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:19:37,479 	USERNAME=tang-
+2019-04-28 00:19:37,482 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:19:37,485 	SESSIONNAME=Console
+2019-04-28 00:19:37,488 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:19:37,491 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:19:37,493 	FPS_BROWSER_USER_PROFILE_STRING=Default
+2019-04-28 00:19:37,496 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:19:37,499 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:19:37,502 	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+2019-04-28 00:19:37,504 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:19:37,507 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:19:37,509 	WINDIR=C:\WINDOWS
+2019-04-28 00:19:37,512 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:19:37,515 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:19:37,517 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:19:37,520 	HOMEDRIVE=C:
+2019-04-28 00:19:37,522 	OS=Windows_NT
+2019-04-28 00:19:37,524 	SYSTEMDRIVE=C:
+2019-04-28 00:19:37,526 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:19:37,528 	PROCESSOR_LEVEL=6
+2019-04-28 00:19:37,530 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:19:37,533 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:19:37,535 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:19:37,537 	PUBLIC=C:\Users\Public
+2019-04-28 00:19:37,539 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:19:37,541 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-z729bo
+2019-04-28 00:19:37,543 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-19 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:19:37,546 Code page: 936
+2019-04-28 00:19:37,548 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\dispcal.exe', '-v2', '-dweb:8080', '-c1', '-yr', '-ql', '-t6500', '-g2.2', '-f1.0', '-k0', '-A4.0', '-b', 'Web 2019-04-28 00-19 D6500 2.2 F-S XYZLUT+MTX']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 5288, 13120, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-04-28 00:21:58,670 ================================================================================
+2019-04-28 00:21:58,674 Buffer size: 2000
+2019-04-28 00:21:58,677 Timeout: 20s
+2019-04-28 00:21:58,681 Environment:
+2019-04-28 00:21:58,685 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:21:58,688 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:21:58,692 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:21:58,696 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:21:58,705 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:21:58,707 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:21:58,710 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:21:58,712 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:21:58,716 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:21:58,719 	PROCESSOR_REVISION=4e03
+2019-04-28 00:21:58,722 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:21:58,724 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:21:58,727 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:21:58,729 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:21:58,732 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:21:58,735 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:21:58,737 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:21:58,740 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:21:58,742 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:21:58,746 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:21:58,749 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:21:58,752 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:21:58,755 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:21:58,758 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:21:58,760 	HOMEPATH=\Users\tang-
+2019-04-28 00:21:58,762 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:21:58,765 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:21:58,768 	USERNAME=tang-
+2019-04-28 00:21:58,771 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:21:58,773 	SESSIONNAME=Console
+2019-04-28 00:21:58,776 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:21:58,778 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:21:58,781 	FPS_BROWSER_USER_PROFILE_STRING=Default
+2019-04-28 00:21:58,785 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:21:58,788 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:21:58,790 	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+2019-04-28 00:21:58,793 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:21:58,795 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:21:58,798 	WINDIR=C:\WINDOWS
+2019-04-28 00:21:58,800 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:21:58,804 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:21:58,806 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:21:58,809 	HOMEDRIVE=C:
+2019-04-28 00:21:58,811 	OS=Windows_NT
+2019-04-28 00:21:58,813 	SYSTEMDRIVE=C:
+2019-04-28 00:21:58,815 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:21:58,818 	PROCESSOR_LEVEL=6
+2019-04-28 00:21:58,820 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:21:58,822 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:21:58,824 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:21:58,826 	PUBLIC=C:\Users\Public
+2019-04-28 00:21:58,828 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:21:58,830 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-vfn68g
+2019-04-28 00:21:58,832 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-21 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:21:58,836 Code page: 936
+2019-04-28 00:21:58,839 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\dispcal.exe', '-v2', '-dweb:8080', '-c1', '-yr', '-ql', '-t6500', '-g2.2', '-f1.0', '-k0', '-A4.0', '-b', 'Web 2019-04-28 00-21 D6500 2.2 F-S XYZLUT+MTX']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 5288, 10268, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-04-28 00:25:00,070 ================================================================================
+2019-04-28 00:25:00,073 Buffer size: 2000
+2019-04-28 00:25:00,076 Timeout: 20s
+2019-04-28 00:25:00,079 Environment:
+2019-04-28 00:25:00,081 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:25:00,084 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:25:00,086 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:25:00,089 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:25:00,091 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:25:00,093 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:25:00,095 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:25:00,097 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:25:00,100 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:25:00,101 	PROCESSOR_REVISION=4e03
+2019-04-28 00:25:00,103 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:25:00,105 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:25:00,107 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:25:00,109 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:25:00,111 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:25:00,113 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:25:00,115 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:25:00,117 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:25:00,119 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:25:00,122 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:25:00,125 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:25:00,128 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:25:00,130 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:25:00,132 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:25:00,134 	HOMEPATH=\Users\tang-
+2019-04-28 00:25:00,136 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:25:00,138 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:25:00,140 	USERNAME=tang-
+2019-04-28 00:25:00,142 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:25:00,144 	SESSIONNAME=Console
+2019-04-28 00:25:00,147 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:25:00,151 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:25:00,153 	FPS_BROWSER_USER_PROFILE_STRING=Default
+2019-04-28 00:25:00,155 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:25:00,157 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:25:00,159 	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+2019-04-28 00:25:00,161 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:25:00,163 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:25:00,165 	WINDIR=C:\WINDOWS
+2019-04-28 00:25:00,167 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:25:00,169 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:25:00,171 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:25:00,173 	HOMEDRIVE=C:
+2019-04-28 00:25:00,175 	OS=Windows_NT
+2019-04-28 00:25:00,178 	SYSTEMDRIVE=C:
+2019-04-28 00:25:00,181 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:25:00,183 	PROCESSOR_LEVEL=6
+2019-04-28 00:25:00,186 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:25:00,188 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:25:00,191 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:25:00,194 	PUBLIC=C:\Users\Public
+2019-04-28 00:25:00,197 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:25:00,199 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-waobvr
+2019-04-28 00:25:00,201 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-24 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:25:00,204 Code page: 936
+2019-04-28 00:25:00,206 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\dispcal.exe', '-v2', '-dweb:8080', '-c1', '-yr', '-ql', '-t6500', '-g2.2', '-f1.0', '-k0', '-A4.0', '-b', 'Web 2019-04-28 00-24 D6500 2.2 F-S XYZLUT+MTX']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 5288, 1364, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-04-28 00:25:51,648 ================================================================================
+2019-04-28 00:25:51,651 Buffer size: 2000
+2019-04-28 00:25:51,655 Timeout: 20s
+2019-04-28 00:25:51,659 Environment:
+2019-04-28 00:25:51,663 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:25:51,666 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:25:51,669 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:25:51,671 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:25:51,674 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:25:51,676 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:25:51,678 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:25:51,680 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:25:51,683 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:25:51,685 	PROCESSOR_REVISION=4e03
+2019-04-28 00:25:51,687 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:25:51,689 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:25:51,691 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:25:51,693 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:25:51,695 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:25:51,698 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:25:51,700 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:25:51,702 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:25:51,704 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:25:51,706 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:25:51,709 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:25:51,712 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:25:51,714 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:25:51,716 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:25:51,718 	HOMEPATH=\Users\tang-
+2019-04-28 00:25:51,720 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:25:51,723 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:25:51,725 	USERNAME=tang-
+2019-04-28 00:25:51,727 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:25:51,728 	SESSIONNAME=Console
+2019-04-28 00:25:51,731 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:25:51,733 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:25:51,735 	FPS_BROWSER_USER_PROFILE_STRING=Default
+2019-04-28 00:25:51,737 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:25:51,739 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:25:51,741 	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+2019-04-28 00:25:51,743 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:25:51,745 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:25:51,747 	WINDIR=C:\WINDOWS
+2019-04-28 00:25:51,749 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:25:51,751 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:25:51,753 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:25:51,755 	HOMEDRIVE=C:
+2019-04-28 00:25:51,757 	OS=Windows_NT
+2019-04-28 00:25:51,759 	SYSTEMDRIVE=C:
+2019-04-28 00:25:51,762 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:25:51,765 	PROCESSOR_LEVEL=6
+2019-04-28 00:25:51,767 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:25:51,769 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:25:51,771 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:25:51,773 	PUBLIC=C:\Users\Public
+2019-04-28 00:25:51,775 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:25:51,777 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-5copgi
+2019-04-28 00:25:51,779 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-25 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:25:51,781 Code page: 936
+2019-04-28 00:25:51,783 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\dispcal.exe', '-v2', '-dweb:8080', '-c1', '-yr', '-ql', '-t6500', '-g2.2', '-f1.0', '-k0', '-A4.0', '-b', 'Web 2019-04-28 00-25 D6500 2.2 F-S XYZLUT+MTX']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 5288, 17336, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-04-28 00:27:10,655 ================================================================================
+2019-04-28 00:27:10,659 Buffer size: 2000
+2019-04-28 00:27:10,662 Timeout: 20s
+2019-04-28 00:27:10,666 Environment:
+2019-04-28 00:27:10,670 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:27:10,673 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:27:10,676 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:27:10,678 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:27:10,680 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:27:10,683 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:27:10,686 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:27:10,688 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:27:10,690 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:27:10,693 	PROCESSOR_REVISION=4e03
+2019-04-28 00:27:10,695 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:27:10,697 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:27:10,699 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:27:10,701 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:27:10,703 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:27:10,705 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:27:10,707 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:27:10,709 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:27:10,711 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:27:10,714 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:27:10,717 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:27:10,719 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:27:10,721 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:27:10,723 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:27:10,726 	HOMEPATH=\Users\tang-
+2019-04-28 00:27:10,728 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:27:10,729 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:27:10,731 	USERNAME=tang-
+2019-04-28 00:27:10,733 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:27:10,735 	SESSIONNAME=Console
+2019-04-28 00:27:10,737 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:27:10,739 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:27:10,741 	FPS_BROWSER_USER_PROFILE_STRING=Default
+2019-04-28 00:27:10,744 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:27:10,746 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:27:10,748 	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+2019-04-28 00:27:10,750 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:27:10,752 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:27:10,754 	WINDIR=C:\WINDOWS
+2019-04-28 00:27:10,756 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:27:10,758 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:27:10,761 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:27:10,762 	HOMEDRIVE=C:
+2019-04-28 00:27:10,765 	OS=Windows_NT
+2019-04-28 00:27:10,767 	SYSTEMDRIVE=C:
+2019-04-28 00:27:10,769 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:27:10,772 	PROCESSOR_LEVEL=6
+2019-04-28 00:27:10,774 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:27:10,776 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:27:10,778 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:27:10,780 	PUBLIC=C:\Users\Public
+2019-04-28 00:27:10,782 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:27:10,784 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-p_thsz
+2019-04-28 00:27:10,787 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:27:10,789 Code page: 936
+2019-04-28 00:27:10,792 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\dispcal.exe', '-v2', '-dweb:8080', '-c1', '-yr', '-ql', '-t6500', '-g2.2', '-f1.0', '-k0', '-A4.0', '-b', 'Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 5288, 10044, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-04-28 00:36:44,676 ================================================================================
+2019-04-28 00:36:44,678 Buffer size: 2000
+2019-04-28 00:36:44,681 Timeout: 20s
+2019-04-28 00:36:44,683 Environment:
+2019-04-28 00:36:44,685 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:36:44,687 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:36:44,690 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:36:44,693 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:36:44,697 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:36:44,700 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:36:44,702 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:36:44,704 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:36:44,706 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:36:44,708 	PROCESSOR_REVISION=4e03
+2019-04-28 00:36:44,710 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:36:44,713 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:36:44,718 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:36:44,722 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:36:44,725 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:36:44,727 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:36:44,730 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:36:44,732 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:36:44,735 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:36:44,737 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:36:44,741 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:36:44,744 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:36:44,746 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:36:44,748 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:36:44,750 	HOMEPATH=\Users\tang-
+2019-04-28 00:36:44,752 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:36:44,754 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:36:44,758 	USERNAME=tang-
+2019-04-28 00:36:44,761 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:36:44,763 	SESSIONNAME=Console
+2019-04-28 00:36:44,765 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:36:44,767 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:36:44,769 	FPS_BROWSER_USER_PROFILE_STRING=Default
+2019-04-28 00:36:44,772 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:36:44,775 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:36:44,778 	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+2019-04-28 00:36:44,781 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:36:44,782 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:36:44,785 	WINDIR=C:\WINDOWS
+2019-04-28 00:36:44,788 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:36:44,790 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:36:44,792 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:36:44,794 	HOMEDRIVE=C:
+2019-04-28 00:36:44,796 	OS=Windows_NT
+2019-04-28 00:36:44,798 	SYSTEMDRIVE=C:
+2019-04-28 00:36:44,800 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:36:44,801 	PROCESSOR_LEVEL=6
+2019-04-28 00:36:44,803 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:36:44,806 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:36:44,809 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:36:44,811 	PUBLIC=C:\Users\Public
+2019-04-28 00:36:44,813 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:36:44,815 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-p_thsz
+2019-04-28 00:36:44,817 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispread.exe" -v -dweb:8080 -c1 -yr -K "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.cal" "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:36:44,819 Code page: 936
+2019-04-28 00:36:44,823 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\dispread.exe', '-v', '-dweb:8080', '-c1', '-yr', '-K', 'Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.cal', 'Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 5288, 4864, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-04-28 00:42:34,337 ================================================================================
+2019-04-28 00:42:34,340 Buffer size: 2000
+2019-04-28 00:42:34,342 Timeout: 20s
+2019-04-28 00:42:34,344 Environment:
+2019-04-28 00:42:34,347 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:42:34,349 	ONEDRIVECONSUMER=D:\tang-\OneDrive
+2019-04-28 00:42:34,352 	COMPUTERNAME=EASON-LAPTOP
+2019-04-28 00:42:34,354 	USERDOMAIN=EASON-LAPTOP
+2019-04-28 00:42:34,356 	INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+2019-04-28 00:42:34,358 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+2019-04-28 00:42:34,360 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-04-28 00:42:34,363 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2019-04-28 00:42:34,365 	PROGRAMFILES=C:\Program Files (x86)
+2019-04-28 00:42:34,367 	PROCESSOR_REVISION=4e03
+2019-04-28 00:42:34,370 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Miniconda3;C:\Miniconda3\Library\mingw-w64\bin;C:\Miniconda3\Library\usr\bin;C:\Miniconda3\Library\bin;C:\Miniconda3\Scripts;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\php;C:\msys64\mingw64\bin;;C:\Users\tang-\AppData\Local\Programs\Microsoft VS Code\bin
+2019-04-28 00:42:34,373 	SYSTEMROOT=C:\WINDOWS
+2019-04-28 00:42:34,375 	PHP_PEAR_INSTALL_DIR=D:\Program Files\php\pear
+2019-04-28 00:42:34,377 	MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+2019-04-28 00:42:34,380 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-04-28 00:42:34,383 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-04-28 00:42:34,385 	PHP_PEAR_SYSCONF_DIR=D:\Program Files\php
+2019-04-28 00:42:34,388 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-04-28 00:42:34,391 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-04-28 00:42:34,393 	PROCESSOR_ARCHITECTURE=x86
+2019-04-28 00:42:34,395 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-04-28 00:42:34,399 	ALLUSERSPROFILE=C:\ProgramData
+2019-04-28 00:42:34,405 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-04-28 00:42:34,408 	PHP_PEAR_BIN_DIR=D:\Program Files\php
+2019-04-28 00:42:34,411 	HOMEPATH=\Users\tang-
+2019-04-28 00:42:34,415 	USERDOMAIN_ROAMINGPROFILE=EASON-LAPTOP
+2019-04-28 00:42:34,423 	PROGRAMW6432=C:\Program Files
+2019-04-28 00:42:34,435 	USERNAME=tang-
+2019-04-28 00:42:34,438 	LOGONSERVER=\\EASON-LAPTOP
+2019-04-28 00:42:34,441 	SESSIONNAME=Console
+2019-04-28 00:42:34,445 	PROGRAMDATA=C:\ProgramData
+2019-04-28 00:42:34,449 	PYTHONPATH=C:\Miniconda3\Lib\site-packages vspipe --version
+2019-04-28 00:42:34,453 	FPS_BROWSER_USER_PROFILE_STRING=Default
+2019-04-28 00:42:34,456 	ONEDRIVE=D:\tang-\OneDrive
+2019-04-28 00:42:34,459 	PHP_PEAR_DATA_DIR=D:\Program Files\php\data
+2019-04-28 00:42:34,462 	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+2019-04-28 00:42:34,465 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:42:34,469 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-04-28 00:42:34,472 	ARGYLL_3D_DISP_FORMAT=VRML
+2019-04-28 00:42:34,474 	WINDIR=C:\WINDOWS
+2019-04-28 00:42:34,479 	PHP_PEAR_TEST_DIR=D:\Program Files\php\tests
+2019-04-28 00:42:34,482 	PHP_PEAR_PHP_BIN=D:\Program Files\php\php.exe
+2019-04-28 00:42:34,485 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-04-28 00:42:34,488 	HOMEDRIVE=C:
+2019-04-28 00:42:34,490 	OS=Windows_NT
+2019-04-28 00:42:34,493 	SYSTEMDRIVE=C:
+2019-04-28 00:42:34,497 	NUMBER_OF_PROCESSORS=4
+2019-04-28 00:42:34,500 	PROCESSOR_LEVEL=6
+2019-04-28 00:42:34,502 	PROCESSOR_ARCHITEW6432=AMD64
+2019-04-28 00:42:34,504 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-04-28 00:42:34,507 	PHP_PEAR_DOC_DIR=D:\Program Files\php\docs
+2019-04-28 00:42:34,509 	PUBLIC=C:\Users\Public
+2019-04-28 00:42:34,511 	USERPROFILE=C:\Users\tang-
+2019-04-28 00:42:34,514 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-daprhx
+2019-04-28 00:42:34,516 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispread.exe" -v -K "C:\Program Files (x86)\DisplayCAL\linear.cal" -dweb:8080 -c1 -yr "Measurement Report 3.8 ！ Web @ localhost ！ 2019-04-28 00-42"
+2019-04-28 00:42:34,518 Code page: 936
+2019-04-28 00:42:34,521 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['D:\\Program Files\\Argyll_V2.1.0\\bin\\dispread.exe', '-v', '-K', 'C:\\Program Files (x86)\\DisplayCAL\\linear.cal', '-dweb:8080', '-c1', '-yr', 'Measurement Report 3.8 \xa1\xaa Web @ localhost \xa1\xaa 2019-04-28 00-42']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 5288, 5820, cp=936, c=160, r=None, logdir='DisplayCAL')"

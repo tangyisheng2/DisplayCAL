@@ -1,0 +1,205 @@
+2019-04-28 00:03:29,273 SysTrayIcon.OnCommand(hwnd=131562, msg=273, wparam=183, lparam=0)
+2019-04-28 00:03:29,276 Executing ProfileLoader.exit(<wx._core.CommandEvent object at 0x056CEA30>)
+2019-04-28 00:03:33,229 Cancelled ProfileLoader.exit(<wx._core.CommandEvent object at 0x056CEA30>)
+2019-04-28 00:03:46,542 SysTrayIcon.OnCommand(hwnd=131562, msg=273, wparam=197, lparam=0)
+2019-04-28 00:03:46,542 Menu command: Set quantization bitdepth 16
+2019-04-28 00:03:46,634 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-28 00:03:51,098 SysTrayIcon.OnCommand(hwnd=131562, msg=273, wparam=225, lparam=0)
+2019-04-28 00:03:51,098 Executing ProfileLoader.exit(<wx._core.CommandEvent object at 0x056CE940>)
+2019-04-28 00:03:53,257 Executing BaseApp.OnExit()
+2019-04-28 00:03:53,257 Running application exit handlers
+2019-04-28 00:03:53,259 Shutting down profile loader
+2019-04-28 00:03:53,262 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-28 00:03:53,290 Display configuration monitoring thread finished
+2019-04-28 00:03:53,434 ScriptingHost.ConnectionHandler exited
+2019-04-28 00:03:53,434 Exiting DisplayCAL-apply-profiles
+2019-04-28 00:03:53,434 Ran application exit handlers
+2019-04-28 00:04:12,105 ================================================================================
+2019-04-28 00:04:12,105 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-28 00:04:12,112 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-28 00:04:12,112 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-28 00:04:12,112 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:04:12,115 Faulthandler 3.0
+2019-04-28 00:04:12,509 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-28 00:04:12,515 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-04-28 00:04:12,517 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-28 00:04:12,519 Encoding: cp936
+2019-04-28 00:04:12,519 File system encoding: mbcs
+2019-04-28 00:04:12,710 Installing SIGINT handler
+2019-04-28 00:04:12,779 配置脚本主机为 127.0.0.1:15411
+2019-04-28 00:04:12,780 --------------------------------------------------------------------------------
+2019-04-28 00:04:12,782 Enumerating display adapters and devices:
+2019-04-28 00:04:12,782 
+2019-04-28 00:04:12,872 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 00:04:12,977 Intel(R) HD Graphics 520
+2019-04-28 00:04:12,979   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-28 00:04:13,062 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-28 00:04:13,062 已检测 DisplayCAL. 校准加载已禁用。
+2019-04-28 00:07:41,019 Received query to end session
+2019-04-28 00:07:41,019 Can veto
+2019-04-28 00:07:41,019 Trying to close main top-level application window...
+2019-04-28 00:07:41,019 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x05684670>)
+2019-04-28 00:07:41,509 Main top-level application window processed close event
+2019-04-28 00:07:41,512 Ending session
+2019-04-28 00:07:41,513 Executing BaseApp.OnExit()
+2019-04-28 00:07:41,513 Running application exit handlers
+2019-04-28 00:07:41,513 Shutting down profile loader
+2019-04-28 00:07:41,516 Waiting for thread DisplayConfigurationMonitoring to exit
+2019-04-28 00:07:41,572 Display configuration monitoring thread finished
+2019-04-28 00:07:41,572 DisplayConfigurationMonitoring exited
+2019-04-28 00:07:41,572 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-28 00:07:41,704 ScriptingHost.ConnectionHandler exited
+2019-04-28 00:07:41,706 Exiting DisplayCAL-apply-profiles
+2019-04-28 00:07:41,706 Calling sys.exit(0)
+2019-04-28 00:07:41,706 Ran application exit handlers
+2019-04-28 00:08:32,786 ================================================================================
+2019-04-28 00:08:32,862 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-28 00:08:32,907 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-28 00:08:32,911 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-28 00:08:32,911 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:08:32,914 Faulthandler 3.0
+2019-04-28 00:08:37,904 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-28 00:08:37,914 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-04-28 00:08:37,964 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-28 00:08:37,964 Encoding: cp936
+2019-04-28 00:08:37,966 File system encoding: mbcs
+2019-04-28 00:08:38,043 Installing SIGINT handler
+2019-04-28 00:08:38,266 配置脚本主机为 127.0.0.1:15411
+2019-04-28 00:08:38,321 --------------------------------------------------------------------------------
+2019-04-28 00:08:38,331 Enumerating display adapters and devices:
+2019-04-28 00:08:38,331 
+2019-04-28 00:08:38,805 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 00:08:39,473 Intel(R) HD Graphics 520
+2019-04-28 00:08:39,487   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-28 00:08:40,180 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-28 00:08:40,266 加载当前显示设备配置文件校准曲线...
+2019-04-28 00:08:40,266 1. Generic PnP Monitor @ 0, 0, 1920x1080 (主要): Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-28 00:08:40,380 ...确定。
+2019-04-28 00:08:41,773 <wx._core.DisplayChangedEvent object at 0x05659530>
+2019-04-28 00:08:41,894 ProcessDisplayChangedEvent: Acquired lock
+2019-04-28 00:08:41,898 --------------------------------------------------------------------------------
+2019-04-28 00:08:41,900 Enumerating display adapters and devices:
+2019-04-28 00:08:41,928 
+2019-04-28 00:08:41,951 DisplayConfigurationMonitoringThread: Waiting to acquire lock...
+2019-04-28 00:08:42,427 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 00:08:43,263 Intel(R) HD Graphics 520
+2019-04-28 00:08:43,266   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-28 00:08:43,266 ProcessDisplayChangedEvent: Releasing lock
+2019-04-28 00:08:43,266 DisplayConfigurationMonitoringThread: Acquired lock
+2019-04-28 00:08:43,398 DisplayConfigurationMonitoringThread: Releasing lock
+2019-04-28 00:08:43,398 DisplayConfigurationMonitoringThread: Released lock
+2019-04-28 00:09:05,950 已检测 DisplayCAL. 校准加载已禁用。
+2019-04-28 00:18:45,529 不再检测 DisplayCAL. 校准加载已启用。
+2019-04-28 00:18:58,608 已检测 DisplayCAL. 校准加载已禁用。
+2019-04-28 00:45:35,174 SysTrayIcon.OnCommand(hwnd=262220, msg=273, wparam=220, lparam=0)
+2019-04-28 00:45:35,174 Menu command: Set exceptions
+2019-04-28 00:45:44,237 Received query to end session
+2019-04-28 00:45:44,239 Can veto
+2019-04-28 00:45:44,242 Trying to close main top-level application window...
+2019-04-28 00:45:44,244 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x058093A0>)
+2019-04-28 00:45:44,256 Vetoed <wx._core.CloseEvent object at 0x058093A0>
+2019-04-28 00:45:44,257 Failed to close main top-level application window
+2019-04-28 00:45:44,257 Vetoed query to end session
+2019-04-28 00:45:47,266 不再检测 DisplayCAL. 校准加载已启用。
+2019-04-28 00:46:16,434 Ending session
+2019-04-28 00:46:16,434 Executing BaseApp.OnExit()
+2019-04-28 00:46:16,434 Running application exit handlers
+2019-04-28 00:46:16,434 Shutting down profile loader
+2019-04-28 00:46:16,434 Shutting down display configuration monitoring thread
+2019-04-28 00:46:16,434 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-28 00:46:16,450 Display configuration monitoring thread finished
+2019-04-28 00:46:16,529 ScriptingHost.ConnectionHandler exited
+2019-04-28 00:46:16,529 Exiting DisplayCAL-apply-profiles
+2019-04-28 00:46:16,529 Calling sys.exit(0)
+2019-04-28 00:46:16,529 Ran application exit handlers
+2019-04-28 00:47:04,703 ================================================================================
+2019-04-28 00:47:04,703 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-28 00:47:04,792 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-28 00:47:04,792 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-28 00:47:04,812 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:47:04,851 Faulthandler 3.0
+2019-04-28 00:47:09,579 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-28 00:47:09,592 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-04-28 00:47:09,644 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-28 00:47:09,644 Encoding: cp936
+2019-04-28 00:47:09,644 File system encoding: mbcs
+2019-04-28 00:47:09,904 Installing SIGINT handler
+2019-04-28 00:47:10,216 配置脚本主机为 127.0.0.1:15411
+2019-04-28 00:47:10,319 --------------------------------------------------------------------------------
+2019-04-28 00:47:10,321 Enumerating display adapters and devices:
+2019-04-28 00:47:10,321 
+2019-04-28 00:47:11,665 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 00:47:12,536 Intel(R) HD Graphics 520
+2019-04-28 00:47:12,551   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-28 00:47:13,032 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-28 00:47:13,095 加载当前显示设备配置文件校准曲线...
+2019-04-28 00:47:13,144 1. Generic PnP Monitor @ 0, 0, 1920x1080 (主要): Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-28 00:47:13,355 ...确定。
+2019-04-28 00:47:14,927 <wx._core.DisplayChangedEvent object at 0x0565A490>
+2019-04-28 00:47:14,957 ProcessDisplayChangedEvent: Acquired lock
+2019-04-28 00:47:14,957 --------------------------------------------------------------------------------
+2019-04-28 00:47:14,960 Enumerating display adapters and devices:
+2019-04-28 00:47:14,984 DisplayConfigurationMonitoringThread: Waiting to acquire lock...
+2019-04-28 00:47:14,984 
+2019-04-28 00:47:15,377 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 00:47:15,960 Intel(R) HD Graphics 520
+2019-04-28 00:47:16,006   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-28 00:47:16,009 ProcessDisplayChangedEvent: Releasing lock
+2019-04-28 00:47:16,009 DisplayConfigurationMonitoringThread: Acquired lock
+2019-04-28 00:47:16,141 DisplayConfigurationMonitoringThread: Releasing lock
+2019-04-28 00:47:16,141 DisplayConfigurationMonitoringThread: Released lock
+2019-04-28 00:47:43,298 SysTrayIcon.OnCommand(hwnd=66224, msg=273, wparam=109, lparam=0)
+2019-04-28 00:47:43,299 Menu command: Set quantization bitdepth 8
+2019-04-28 00:47:43,526 Caching implicit linear gamma ramps for profile Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-28 00:47:43,569 加载当前显示设备配置文件校准曲线...
+2019-04-28 00:47:43,569 1. Generic PnP Monitor @ 0, 0, 1920x1080 (主要): Rec709 ITU-R BT.709 0.3128x 0.3292y (Rec709.B0.0,2.4Gawn65.icm)
+2019-04-28 00:47:43,640 ...确定。
+2019-04-28 00:50:41,913 TaskBarIcon.on_left_down: Waiting to acquire lock...
+2019-04-28 00:50:41,933 TaskBarIcon.on_left_down: Acquired lock
+2019-04-28 00:50:41,934 TaskBarIcon.on_left_down: Releasing lock
+2019-04-28 00:52:31,841 <wx._core.DisplayChangedEvent object at 0x05815210>
+2019-04-28 00:52:31,875 ProcessDisplayChangedEvent: Acquired lock
+2019-04-28 00:52:31,875 --------------------------------------------------------------------------------
+2019-04-28 00:52:31,875 Enumerating display adapters and devices:
+2019-04-28 00:52:31,877 
+2019-04-28 00:52:31,907 <wx._core.DisplayChangedEvent object at 0x05815210>
+2019-04-28 00:52:31,907 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 00:52:31,911 EnumDisplayDevices('\\\\.\\DISPLAY1', 0) failed: [Windows Error 6] EnumDisplayDevices: The handle is invalid.
+2019-04-28 00:52:31,911 ProcessDisplayChangedEvent: Releasing lock
+2019-04-28 00:52:31,938 ProcessDisplayChangedEvent: Acquired lock
+2019-04-28 00:52:31,940 --------------------------------------------------------------------------------
+2019-04-28 00:52:31,940 Enumerating display adapters and devices:
+2019-04-28 00:52:31,940 
+2019-04-28 00:52:31,947 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 00:52:31,948 EnumDisplayDevices('\\\\.\\DISPLAY1', 0) failed: [Windows Error 6] EnumDisplayDevices: The handle is invalid.
+2019-04-28 00:52:31,948 ProcessDisplayChangedEvent: Releasing lock
+2019-04-28 00:52:31,996 检测到显示设备配置发生变化。
+2019-04-28 00:52:31,997 --------------------------------------------------------------------------------
+2019-04-28 00:52:31,997 Enumerating display adapters and devices:
+2019-04-28 00:52:31,999 
+2019-04-28 00:52:32,003 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 00:52:32,005 EnumDisplayDevices('\\\\.\\DISPLAY1', 0) failed: [Windows Error 6] EnumDisplayDevices: The handle is invalid.
+2019-04-28 00:52:32,009 A profile change has been detected
+2019-04-28 00:52:32,010 1. 未知 @ 0, 0, 1920x1080 [PRIMARY] -> ?
+2019-04-28 22:44:06,609 检测到显示设备配置发生变化。
+2019-04-28 22:44:06,611 --------------------------------------------------------------------------------
+2019-04-28 22:44:06,611 Enumerating display adapters and devices:
+2019-04-28 22:44:06,611 
+2019-04-28 22:44:08,255 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 22:44:09,573 Intel(R) HD Graphics 520
+2019-04-28 22:44:09,575   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-28 22:44:12,453 <wx._core.DisplayChangedEvent object at 0x0565A350>
+2019-04-28 22:44:12,466 ProcessDisplayChangedEvent: Acquired lock
+2019-04-28 22:44:12,467 --------------------------------------------------------------------------------
+2019-04-28 22:44:12,470 Enumerating display adapters and devices:
+2019-04-28 22:44:12,470 
+2019-04-28 22:44:13,003 DisplayConfigurationMonitoringThread: Waiting to acquire lock...
+2019-04-28 22:44:14,257 Buggy video driver detected: Intel(R) HD Graphics 520. Gamma ramp hack activated.
+2019-04-28 22:44:15,400 Intel(R) HD Graphics 520
+2019-04-28 22:44:15,401   |- 1. Generic PnP Monitor @ 0, 0, 1920x1080 [PRIMARY]
+2019-04-28 22:44:15,401 ProcessDisplayChangedEvent: Releasing lock
+2019-04-28 22:44:15,401 DisplayConfigurationMonitoringThread: Acquired lock
+2019-04-28 22:44:15,522 DisplayConfigurationMonitoringThread: Releasing lock
+2019-04-28 22:44:15,522 DisplayConfigurationMonitoringThread: Released lock
+2019-04-28 22:45:59,141 已检测 DisplayCAL. 校准加载已禁用。
+2019-04-28 22:51:15,515 不再检测 DisplayCAL. 校准加载已启用。

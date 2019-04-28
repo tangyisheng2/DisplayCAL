@@ -1,0 +1,1472 @@
+2019-04-28 00:00:05,539 Patch 54 of 54
+2019-04-28 00:00:05,542 Black drift was 0.003116 DE
+2019-04-28 00:00:05,542 White drift was 0.101903 DE
+2019-04-28 00:00:05,543 The instrument can be removed from the screen.
+2019-04-28 00:00:05,750 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:00:05,752 Written 'After-Measurement Report 3.8 — LTN133HL05902 @ 0, 0, 1920x1080 — 2019-04-27 23-58.ti3'
+2019-04-28 00:00:05,822 ...确定。
+2019-04-28 00:04:23,930 --------------------------------------------------------------------------------
+2019-04-28 00:04:23,930 已校准显示设备报告
+2019-04-28 00:04:23,956 --------------------------------------------------------------------------------
+2019-04-28 00:04:23,960 命令行：
+2019-04-28 00:04:23,960   D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe
+2019-04-28 00:04:23,963     -v2
+2019-04-28 00:04:23,963     -d1
+2019-04-28 00:04:23,963     -c1
+2019-04-28 00:04:23,964     -yr
+2019-04-28 00:04:23,966     "-P0.500395256917,0.501176470588,1.0"
+2019-04-28 00:04:23,967     -Ibw
+2019-04-28 00:04:23,967     -r
+2019-04-28 00:04:23,967 
+2019-04-28 00:04:24,582 DisplayCAL: Starting interaction with subprocess
+2019-04-28 00:04:24,585 Setting up the instrument
+2019-04-28 00:04:25,637 Product Name:      i1Display3
+2019-04-28 00:04:25,637 Serial Number:     I1-17.B-02.285149.10
+2019-04-28 00:04:25,638 Firmware Version:  v2.28
+2019-04-28 00:04:25,638 Firmware Date:     29Jan14
+2019-04-28 00:04:25,918 Place instrument on test window.
+2019-04-28 00:04:25,921 DisplayCAL: Waiting for send buffer
+2019-04-28 00:04:27,415 DisplayCAL: Skipping place instrument on screen message...
+2019-04-28 00:04:27,440 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:04:27,444 Hit Esc or Q to give up, any other key to continue:
+2019-04-28 00:04:30,048 Measured display update delay of 41 msec, using delay of 154 msec & 0 msec inst reaction
+2019-04-28 00:04:34,487 No distict refresh period
+2019-04-28 00:04:46,431 Patch 3 of 3
+2019-04-28 00:04:46,431 
+2019-04-28 00:04:46,447 Current calibration response:
+2019-04-28 00:04:46,451 Black level = 0.1638 cd/m^2
+2019-04-28 00:04:46,453 50%   level = 46.57 cd/m^2
+2019-04-28 00:04:46,453 White level = 251.80 cd/m^2
+2019-04-28 00:04:46,453 Aprox. gamma = 2.43
+2019-04-28 00:04:46,453 Contrast ratio = 1537:1
+2019-04-28 00:04:46,454 White chromaticity coordinates 0.3023, 0.3276
+2019-04-28 00:04:46,454 White    Correlated Color Temperature = 7106K, DE 2K to locus =  9.8
+2019-04-28 00:04:46,456 White Correlated Daylight Temperature = 7103K, DE 2K to locus =  6.4
+2019-04-28 00:04:46,456 White        Visual Color Temperature = 6651K, DE 2K to locus =  9.4
+2019-04-28 00:04:46,457 White     Visual Daylight Temperature = 6824K, DE 2K to locus =  6.1
+2019-04-28 00:04:46,457 Black drift was 0.000000 DE
+2019-04-28 00:04:46,457 White drift was 0.000000 DE
+2019-04-28 00:04:46,457 The instrument can be removed from the screen.
+2019-04-28 00:04:46,644 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:05:21,490 Added 3 white patch(es)
+2019-04-28 00:05:21,773 Added 1 white patch(es)
+2019-04-28 00:05:28,394 --------------------------------------------------------------------------------
+2019-04-28 00:05:28,395 测量报告...
+2019-04-28 00:05:28,474 --------------------------------------------------------------------------------
+2019-04-28 00:05:28,476 Session log: Measurement Report 3.8 — LTN133HL05902 @ 0, 0, 1920x1080 — 2019-04-28 00-05
+2019-04-28 00:05:28,476 
+2019-04-28 00:05:28,477 工作目录：
+2019-04-28 00:05:28,480   c:\
+2019-04-28 00:05:28,480    users\
+2019-04-28 00:05:28,480     tang-\
+2019-04-28 00:05:28,482      appdata\
+2019-04-28 00:05:28,483       local\
+2019-04-28 00:05:28,483        temp\
+2019-04-28 00:05:28,484         DisplayCAL-ool4dh\
+2019-04-28 00:05:28,486 
+2019-04-28 00:05:28,486 命令行：
+2019-04-28 00:05:28,490   D:\Program Files\Argyll_V2.1.0\bin\dispread.exe
+2019-04-28 00:05:28,490     -v
+2019-04-28 00:05:28,492     -k
+2019-04-28 00:05:28,493     "Measurement Report 3.8 — LTN133HL05902 @ 0, 0, 1920x1080 — 2019-04-28
+2019-04-28 00:05:28,493       00-05.cal"
+2019-04-28 00:05:28,493     -d1
+2019-04-28 00:05:28,493     -c1
+2019-04-28 00:05:28,494     -yr
+2019-04-28 00:05:28,496     "-P0.500395256917,0.501176470588,1.0"
+2019-04-28 00:05:28,496     -Ibw
+2019-04-28 00:05:28,496     "Measurement Report 3.8 — LTN133HL05902 @ 0, 0, 1920x1080 — 2019-04-28
+2019-04-28 00:05:28,496       00-05"
+2019-04-28 00:05:28,497 
+2019-04-28 00:05:29,127 DisplayCAL: Starting interaction with subprocess
+2019-04-28 00:05:29,132 Number of patches = 55
+2019-04-28 00:05:29,134 Setting up the instrument
+2019-04-28 00:05:30,177 Product Name:      i1Display3
+2019-04-28 00:05:30,177 Serial Number:     I1-17.B-02.285149.10
+2019-04-28 00:05:30,178 Firmware Version:  v2.28
+2019-04-28 00:05:30,180 Firmware Date:     29Jan14
+2019-04-28 00:05:30,457 Place instrument on test window.
+2019-04-28 00:05:30,463 DisplayCAL: Waiting for send buffer
+2019-04-28 00:05:31,957 DisplayCAL: Skipping place instrument on screen message...
+2019-04-28 00:05:31,980 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:05:31,984 Hit Esc or Q to give up, any other key to continue:
+2019-04-28 00:05:34,595 Measured display update delay of 48 msec, using delay of 164 msec & 0 msec inst reaction
+2019-04-28 00:05:39,036 No distict refresh period
+2019-04-28 00:06:56,601 Patch 55 of 55
+2019-04-28 00:06:56,605 Black drift was 0.002250 DE
+2019-04-28 00:06:56,607 White drift was 0.023781 DE
+2019-04-28 00:06:56,608 The instrument can be removed from the screen.
+2019-04-28 00:06:56,855 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:06:56,857 Written 'Measurement Report 3.8 — LTN133HL05902 @ 0, 0, 1920x1080 — 2019-04-28 00-05.ti3'
+2019-04-28 00:06:56,941 ...确定。
+2019-04-28 00:07:41,026 Received query to end session
+2019-04-28 00:07:41,607 Can veto
+2019-04-28 00:07:41,608 Trying to close main top-level application window...
+2019-04-28 00:07:41,615 Main top-level application window processed close event
+2019-04-28 00:07:41,617 Received query to end session
+2019-04-28 00:07:41,617 Can veto
+2019-04-28 00:07:41,618 Received query to end session
+2019-04-28 00:07:41,618 Can veto
+2019-04-28 00:07:41,619 Received query to end session
+2019-04-28 00:07:41,619 Can veto
+2019-04-28 00:07:41,621 Ending session
+2019-04-28 00:07:41,622 Executing BaseApp.OnExit()
+2019-04-28 00:07:41,622 Running application exit handlers
+2019-04-28 00:07:41,635 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-28 00:07:41,769 ScriptingHost.ConnectionHandler exited
+2019-04-28 00:07:41,772 Exiting DisplayCAL
+2019-04-28 00:07:41,772 Calling sys.exit(0)
+2019-04-28 00:07:42,197 Ran application exit handlers
+2019-04-28 00:09:04,378 ================================================================================
+2019-04-28 00:09:04,378 DisplayCAL.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-28 00:09:04,390 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-28 00:09:04,390 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-28 00:09:04,390 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:09:04,391 Faulthandler 3.0
+2019-04-28 00:09:05,260 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-28 00:09:05,276 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-27'
+2019-04-28 00:09:05,285 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-28 00:09:05,286 Encoding: cp936
+2019-04-28 00:09:05,286 File system encoding: mbcs
+2019-04-28 00:09:05,805 正在启动...
+2019-04-28 00:09:06,263 声音模块: pyglet 1.2.2
+2019-04-28 00:09:09,145 枚举显示设备和通信端口...
+2019-04-28 00:09:09,148 D:\Program Files\Argyll_V2.1.0\bin
+2019-04-28 00:09:11,405 ArgyllCMS 2.1.0
+2019-04-28 00:09:11,407 Argyll has virtual display support
+2019-04-28 00:09:11,408 ...确定。
+2019-04-28 00:09:12,739 检查显示器 1 的视频卡伽玛表访问...
+2019-04-28 00:09:17,838 Verify: 'test.cal' IS loaded (discrepancy 0.0%)
+2019-04-28 00:09:18,532 ...确定。
+2019-04-28 00:09:18,533 图形用户界面初始化...
+2019-04-28 00:09:21,266 
+2019-04-28 00:09:27,369 ...确定。
+2019-04-28 00:09:27,381 准备就绪。
+2019-04-28 00:09:27,693 配置脚本主机为 127.0.0.1:49750
+2019-04-28 00:09:28,072 检查更新...
+2019-04-28 00:09:29,325 DisplayCAL 已是最新版本。
+2019-04-28 00:09:30,213 ArgyllCMS 已是最新版本。
+2019-04-28 00:10:13,612 --------------------------------------------------------------------------------
+2019-04-28 00:10:13,615 创建 3D LUT...
+2019-04-28 00:10:13,928 DisplayCAL: Applying Rec. 709 TRC to Rec709.icm
+2019-04-28 00:10:13,947 Using whitepoint chromaticity 0.3128 0.3292 for input
+2019-04-28 00:10:13,953 --------------------------------------------------------------------------------
+2019-04-28 00:10:13,954 Session log: LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4eGawt65
+2019-04-28 00:10:13,954 
+2019-04-28 00:10:13,956 工作目录：
+2019-04-28 00:10:13,957   c:\
+2019-04-28 00:10:13,957    users\
+2019-04-28 00:10:13,957     tang-\
+2019-04-28 00:10:13,959      appdata\
+2019-04-28 00:10:13,959       local\
+2019-04-28 00:10:13,960        temp\
+2019-04-28 00:10:13,961         DisplayCAL-ggso2_\
+2019-04-28 00:10:13,961 
+2019-04-28 00:10:13,963 命令行：
+2019-04-28 00:10:13,963   D:\Program Files\Argyll_V2.1.0\bin\collink.exe
+2019-04-28 00:10:13,963     -v
+2019-04-28 00:10:13,964     -qh
+2019-04-28 00:10:13,966     -G
+2019-04-28 00:10:13,966     -iaw
+2019-04-28 00:10:13,967     -r65
+2019-04-28 00:10:13,967     -n
+2019-04-28 00:10:13,969     -3m
+2019-04-28 00:10:13,970     -et
+2019-04-28 00:10:13,970     -Et
+2019-04-28 00:10:13,971     -b
+2019-04-28 00:10:13,971     -IB:0.0:2.4
+2019-04-28 00:10:13,973     Rec709.icm
+2019-04-28 00:10:13,973     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-04-28 00:10:13,973     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S
+2019-04-28 00:10:13,973       XYZLUT+MTX.Rec709.B0.0,2.4eGawt65.icm"
+2019-04-28 00:10:13,974 
+2019-04-28 00:10:14,562 DisplayCAL: Waiting for EOF
+2019-04-28 00:10:14,566 Got options
+2019-04-28 00:10:14,568 Configured options
+2019-04-28 00:10:14,569 Loading input A2B table
+2019-04-28 00:10:14,569 Loading output inverse A2B table
+2019-04-28 00:10:14,571 Gamut mapping mode is 'Mapping inverse A2B'
+2019-04-28 00:10:14,572 Gamut mapping intent is 'aw - Absolute Colorimetric (in Jab) with scaling to fit white point'
+2019-04-28 00:10:14,572 
+2019-04-28 00:10:14,573 Rev cache RAM = 708 Mbytes
+2019-04-28 00:10:14,573 
+2019-04-28 00:10:14,575 Looks like an XYZ space
+2019-04-28 00:10:14,575 
+2019-04-28 00:10:14,575 Initializing nnrev arrays...
+2019-04-28 00:10:14,576 
+2019-04-28 00:10:14,576 There is 1 rev cache instance with 708 Mbytes limit
+2019-04-28 00:10:34,992 
+2019-04-28 00:10:34,993 nnrev initialization done
+2019-04-28 00:10:35,095 
+2019-04-28 00:10:35,095 Initializing nnrev arrays...
+2019-04-28 00:10:35,096 
+2019-04-28 00:10:35,098 There are 2 rev cache instances with 2501 Mbytes limit
+2019-04-28 00:11:00,111 
+2019-04-28 00:11:00,111 nnrev initialization done
+2019-04-28 00:11:00,115 Set XYZ scale factor to 0.999552
+2019-04-28 00:11:00,141 Output black PCS = 8.199121 -0.415607 -0.140952
+2019-04-28 00:11:00,141 Output black PCS pre lumscale = 8.199276 -0.415708 -0.141245
+2019-04-28 00:11:00,150 Gamma curve target out black rel XYZ = 0.000702 0.000733 0.000611, Lab 0.661881 -0.016892 -0.013023
+2019-04-28 00:11:00,151 Proportion of black output offset = 0.000000 (BT.1886)
+2019-04-28 00:11:00,151 Gamma Y input offset = 0.051967
+2019-04-28 00:11:00,151 Gamma Y power = 2.400000
+2019-04-28 00:11:00,153 Gamma Y output scale = 0.885512
+2019-04-28 00:11:00,153 Gamma Y output offset = 0.000000
+2019-04-28 00:11:00,154 bt1886 check input black point rel. XYZ 0.000702 0.000733 0.000611
+2019-04-28 00:11:00,154 BT.1886 overall rendering
+2019-04-28 00:11:00,155  In   0.0% -> XYZ in 0.000000 -> bt.1886 0.000733, log/log 0.000, Lab 0.661881 -0.016892 -0.013023
+2019-04-28 00:11:00,157  In   5.0% -> XYZ in 0.050000 -> bt.1886 0.003694, log/log 1.870, Lab 3.336816 -0.005669 -0.004370
+2019-04-28 00:11:00,157  In  10.0% -> XYZ in 0.100000 -> bt.1886 0.009625, log/log 2.017, Lab 8.674966 -0.000584 -0.000450
+2019-04-28 00:11:00,157  In  15.0% -> XYZ in 0.150000 -> bt.1886 0.019049, log/log 2.088, Lab 14.979986 -0.000033 -0.000026
+2019-04-28 00:11:00,158  In  20.0% -> XYZ in 0.200000 -> bt.1886 0.032391, log/log 2.131, Lab 20.977000 -0.000002 -0.000001
+2019-04-28 00:11:00,158  In  25.0% -> XYZ in 0.250000 -> bt.1886 0.050015, log/log 2.161, Lab 26.738988 -0.000000 -0.000000
+2019-04-28 00:11:00,160  In  30.0% -> XYZ in 0.300000 -> bt.1886 0.072244, log/log 2.183, Lab 32.312347 -0.000000 -0.000000
+2019-04-28 00:11:00,161  In  35.0% -> XYZ in 0.350000 -> bt.1886 0.099369, log/log 2.199, Lab 37.729011 -0.000000 -0.000000
+2019-04-28 00:11:00,161  In  40.0% -> XYZ in 0.400000 -> bt.1886 0.131659, log/log 2.213, Lab 43.012208 -0.000000 -0.000000
+2019-04-28 00:11:00,174  In  45.0% -> XYZ in 0.450000 -> bt.1886 0.169362, log/log 2.224, Lab 48.179538 -0.000000 -0.000000
+2019-04-28 00:11:00,174  In  50.0% -> XYZ in 0.500000 -> bt.1886 0.212709, log/log 2.233, Lab 53.244760 0.000000 0.000000
+2019-04-28 00:11:00,174  In  55.0% -> XYZ in 0.550000 -> bt.1886 0.261921, log/log 2.241, Lab 58.218906 0.000000 0.000000
+2019-04-28 00:11:00,176  In  60.0% -> XYZ in 0.600000 -> bt.1886 0.317203, log/log 2.248, Lab 63.111000 0.000000 0.000000
+2019-04-28 00:11:00,176  In  65.0% -> XYZ in 0.650000 -> bt.1886 0.378752, log/log 2.254, Lab 67.928551 0.000000 -0.000000
+2019-04-28 00:11:00,177  In  70.0% -> XYZ in 0.700000 -> bt.1886 0.446758, log/log 2.259, Lab 72.677895 0.000000 0.000000
+2019-04-28 00:11:00,177  In  75.0% -> XYZ in 0.750000 -> bt.1886 0.521400, log/log 2.264, Lab 77.364449 0.000000 0.000000
+2019-04-28 00:11:00,178  In  80.0% -> XYZ in 0.800000 -> bt.1886 0.602851, log/log 2.268, Lab 81.992886 -0.000000 0.000000
+2019-04-28 00:11:00,180  In  85.0% -> XYZ in 0.850000 -> bt.1886 0.691278, log/log 2.272, Lab 86.567280 0.000000 0.000000
+2019-04-28 00:11:00,180  In  90.0% -> XYZ in 0.900000 -> bt.1886 0.786842, log/log 2.275, Lab 91.091210 0.000000 -0.000000
+2019-04-28 00:11:00,180  In  95.0% -> XYZ in 0.950000 -> bt.1886 0.889699, log/log 2.279, Lab 95.567843 0.000000 0.000000
+2019-04-28 00:11:00,181  In 100.0% -> XYZ in 1.000000 -> bt.1886 1.000000, log/log 0.000, Lab 100.000000 0.000000 0.000000
+2019-04-28 00:11:00,183 Creating link profile
+2019-04-28 00:11:00,183 Filling in Lut table
+2019-04-28 00:11:00,184  0%
+2019-04-28 00:11:01,253  0%
+2019-04-28 00:11:03,246  1%
+2019-04-28 00:11:05,367  2%
+2019-04-28 00:11:07,661  3%
+2019-04-28 00:11:09,746  4%
+2019-04-28 00:11:12,372  5%
+2019-04-28 00:11:15,907  6%
+2019-04-28 00:11:17,877  7%
+2019-04-28 00:11:18,782  8%
+2019-04-28 00:11:21,924  9%
+2019-04-28 00:11:25,927 10%
+2019-04-28 00:11:29,628 11%
+2019-04-28 00:11:36,578 12%
+2019-04-28 00:11:41,683 13%
+2019-04-28 00:11:53,829 14%
+2019-04-28 00:11:58,082 15%
+2019-04-28 00:11:59,653 16%
+2019-04-28 00:12:01,677 17%
+2019-04-28 00:12:06,230 18%
+2019-04-28 00:12:13,000 19%
+2019-04-28 00:12:20,714 20%
+2019-04-28 00:12:29,339 21%
+2019-04-28 00:12:37,098 22%
+2019-04-28 00:12:43,220 23%
+2019-04-28 00:12:52,160 24%
+2019-04-28 00:12:58,144 25%
+2019-04-28 00:13:01,503 26%
+2019-04-28 00:13:03,545 27%
+2019-04-28 00:13:05,431 28%
+2019-04-28 00:13:08,055 29%
+2019-04-28 00:13:12,812 30%
+2019-04-28 00:13:17,295 31%
+2019-04-28 00:13:19,177 32%
+2019-04-28 00:13:22,371 33%
+2019-04-28 00:13:28,122 34%
+2019-04-28 00:13:33,062 35%
+2019-04-28 00:13:43,124 36%
+2019-04-28 00:13:52,750 37%
+2019-04-28 00:14:03,427 38%
+2019-04-28 00:14:07,765 39%
+2019-04-28 00:14:11,283 40%
+2019-04-28 00:14:15,496 41%
+2019-04-28 00:14:22,763 42%
+2019-04-28 00:14:29,644 43%
+2019-04-28 00:14:33,065 44%
+2019-04-28 00:14:39,211 45%
+2019-04-28 00:14:47,239 46%
+2019-04-28 00:14:56,358 47%
+2019-04-28 00:15:01,601 48%
+2019-04-28 00:15:06,194 49%
+2019-04-28 00:15:12,630 50%
+2019-04-28 00:15:16,082 51%
+2019-04-28 00:15:19,871 52%
+2019-04-28 00:15:23,352 53%
+2019-04-28 00:15:26,164 54%
+2019-04-28 00:15:26,737 55%
+2019-04-28 00:15:27,312 56%
+2019-04-28 00:15:30,066 57%
+2019-04-28 00:15:33,812 58%
+2019-04-28 00:15:35,487 59%
+2019-04-28 00:15:37,506 60%
+2019-04-28 00:15:40,627 61%
+2019-04-28 00:15:42,519 62%
+2019-04-28 00:15:43,769 63%
+2019-04-28 00:15:44,270 64%
+2019-04-28 00:15:46,073 65%
+2019-04-28 00:15:48,696 66%
+2019-04-28 00:15:49,733 67%
+2019-04-28 00:15:50,851 68%
+2019-04-28 00:15:53,407 69%
+2019-04-28 00:15:55,516 70%
+2019-04-28 00:15:57,578 71%
+2019-04-28 00:16:03,740 72%
+2019-04-28 00:16:10,349 73%
+2019-04-28 00:16:16,464 74%
+2019-04-28 00:16:19,891 75%
+2019-04-28 00:16:22,395 76%
+2019-04-28 00:16:26,283 77%
+2019-04-28 00:16:29,311 78%
+2019-04-28 00:16:30,459 79%
+2019-04-28 00:16:31,987 80%
+2019-04-28 00:16:36,404 81%
+2019-04-28 00:16:41,624 82%
+2019-04-28 00:16:46,673 83%
+2019-04-28 00:16:52,548 84%
+2019-04-28 00:16:57,812 85%
+2019-04-28 00:17:01,838 86%
+2019-04-28 00:17:02,914 87%
+2019-04-28 00:17:03,759 88%
+2019-04-28 00:17:07,335 89%
+2019-04-28 00:17:11,552 90%
+2019-04-28 00:17:14,454 91%
+2019-04-28 00:17:17,115 92%
+2019-04-28 00:17:20,352 93%
+2019-04-28 00:17:24,512 94%
+2019-04-28 00:17:28,730 95%
+2019-04-28 00:17:33,000 96%
+2019-04-28 00:17:36,687 97%
+2019-04-28 00:17:42,609 98%
+2019-04-28 00:17:46,262 99%
+2019-04-28 00:17:48,683 100%
+2019-04-28 00:17:48,684 Writing ICC file 'LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4eGawt65.icm'
+2019-04-28 00:17:48,693 Writing MadVR 3dLut 'LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4eGawt65.3dlut'
+2019-04-28 00:17:53,415 
+2019-04-28 00:17:53,417 There is 1 rev cache instance with 708 Mbytes limit
+2019-04-28 00:17:53,733 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:17:53,737 Finished creating 3D LUT in 459.784999847 seconds
+2019-04-28 00:18:05,473 从文件中加载校准曲线...
+2019-04-28 00:18:05,473 C:\Users\tang-\AppData\Roaming\DisplayCAL\storage\LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX\LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-04-28 00:18:05,582 About to open dispwin object on the display
+2019-04-28 00:18:05,582 About to clear the calibration
+2019-04-28 00:18:05,584 About to set display to given calibration
+2019-04-28 00:18:05,584 Calibration set
+2019-04-28 00:18:05,584 About to destroy dispwin object
+2019-04-28 00:18:05,586 ...确定。
+2019-04-28 00:18:12,434 加载当前显示设备配置文件校准曲线...
+2019-04-28 00:18:12,434 C:\WINDOWS\system32\spool\drivers\color\Rec709.B0.0,2.4Gawn65.icm
+2019-04-28 00:18:12,549 Dispwin: Warning - No vcgt tag found in profile - assuming linear
+2019-04-28 00:18:12,549 About to open dispwin object on the display
+2019-04-28 00:18:12,549 About to clear the calibration
+2019-04-28 00:18:12,549 About to set display to given calibration
+2019-04-28 00:18:12,549 Calibration set
+2019-04-28 00:18:12,549 About to destroy dispwin object
+2019-04-28 00:18:12,549 ...确定。
+2019-04-28 00:18:12,552 --------------------------------------------------------------------------------
+2019-04-28 00:18:12,553 安装 3D LUT
+2019-04-28 00:18:12,624 C:\Users\tang-\AppData\Roaming\DisplayCAL\storage\LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX\LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4eGawt65.3dlut
+2019-04-28 00:18:12,792 Input_Primaries 0.640000 0.330000 0.300000 0.600000 0.150000 0.060000 0.312800 0.329200
+2019-04-28 00:18:12,802 Installing madVR 3D LUT for calibration slot 0 (Rec. 709)...
+2019-04-28 00:18:17,674 Connected to madVR version 0.92.12.0 (D:\Program Files\madvr\madHcNet32.dll)
+2019-04-28 00:18:22,733 3D LUT 安装成功！
+2019-04-28 00:18:42,615 Executing BaseApp.OnExit()
+2019-04-28 00:18:42,617 Running application exit handlers
+2019-04-28 00:18:42,624 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-28 00:18:42,759 ScriptingHost.ConnectionHandler exited
+2019-04-28 00:18:42,763 Exiting DisplayCAL
+2019-04-28 00:18:42,993 Ran application exit handlers
+2019-04-28 00:18:54,983 ================================================================================
+2019-04-28 00:18:54,983 DisplayCAL.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-28 00:18:54,996 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-28 00:18:54,996 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-28 00:18:54,996 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 00:18:55,000 Faulthandler 3.0
+2019-04-28 00:18:55,714 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-28 00:18:55,723 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-27'
+2019-04-28 00:18:55,730 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-28 00:18:55,730 Encoding: cp936
+2019-04-28 00:18:55,730 File system encoding: mbcs
+2019-04-28 00:18:55,999 正在启动...
+2019-04-28 00:18:56,338 声音模块: pyglet 1.2.2
+2019-04-28 00:18:58,538 枚举显示设备和通信端口...
+2019-04-28 00:18:58,539 D:\Program Files\Argyll_V2.1.0\bin
+2019-04-28 00:19:00,691 ArgyllCMS 2.1.0
+2019-04-28 00:19:00,694 Argyll has virtual display support
+2019-04-28 00:19:00,694 ...确定。
+2019-04-28 00:19:00,815 检查显示器 1 的视频卡伽玛表访问...
+2019-04-28 00:19:01,334 Verify: 'test.cal' IS loaded (discrepancy 0.0%)
+2019-04-28 00:19:01,502 ...确定。
+2019-04-28 00:19:01,502 图形用户界面初始化...
+2019-04-28 00:19:02,210 
+2019-04-28 00:19:05,338 ...确定。
+2019-04-28 00:19:05,345 准备就绪。
+2019-04-28 00:19:05,668 配置脚本主机为 127.0.0.1:52429
+2019-04-28 00:19:05,992 检查更新...
+2019-04-28 00:19:06,851 DisplayCAL 已是最新版本。
+2019-04-28 00:19:07,671 ArgyllCMS 已是最新版本。
+2019-04-28 00:19:35,441 --------------------------------------------------------------------------------
+2019-04-28 00:19:35,441 校准 & 配置文件
+2019-04-28 00:19:37,348 --------------------------------------------------------------------------------
+2019-04-28 00:19:37,351 Session log: Web 2019-04-28 00-19 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:19:37,351 
+2019-04-28 00:19:37,351 工作目录：
+2019-04-28 00:19:37,352   c:\
+2019-04-28 00:19:37,354    users\
+2019-04-28 00:19:37,355     tang-\
+2019-04-28 00:19:37,355      appdata\
+2019-04-28 00:19:37,357       local\
+2019-04-28 00:19:37,358        temp\
+2019-04-28 00:19:37,358         DisplayCAL-z729bo\
+2019-04-28 00:19:37,359 
+2019-04-28 00:19:37,359 命令行：
+2019-04-28 00:19:37,361   D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe
+2019-04-28 00:19:37,362     -v2
+2019-04-28 00:19:37,362     -dweb:8080
+2019-04-28 00:19:37,365     -c1
+2019-04-28 00:19:37,365     -yr
+2019-04-28 00:19:37,365     -ql
+2019-04-28 00:19:37,367     -t6500
+2019-04-28 00:19:37,367     -g2.2
+2019-04-28 00:19:37,368     -f1.0
+2019-04-28 00:19:37,368     -k0
+2019-04-28 00:19:37,368     -A4.0
+2019-04-28 00:19:37,369     -b
+2019-04-28 00:19:37,371     "Web 2019-04-28 00-19 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:19:37,371 
+2019-04-28 00:19:38,022 DisplayCAL: Starting interaction with subprocess
+2019-04-28 00:19:38,025 Setting up the instrument
+2019-04-28 00:19:39,119 Product Name:      i1Display3
+2019-04-28 00:19:39,121 Serial Number:     I1-17.B-02.285149.10
+2019-04-28 00:19:39,121 Firmware Version:  v2.28
+2019-04-28 00:19:39,122 Firmware Date:     29Jan14
+2019-04-28 00:19:39,141 Created web server at 'http://169.254.230.50:8080/', now waiting for browser to connect
+2019-04-28 00:20:08,799 Place instrument on test window.
+2019-04-28 00:20:08,806 DisplayCAL: Waiting for send buffer
+2019-04-28 00:20:19,796 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:20:19,799 Hit Esc or Q to give up, any other key to continue:
+2019-04-28 00:20:19,812 dispcal: Warning - Unable to access to VideoLUTs so can't be sure colors are native
+2019-04-28 00:20:19,815 Display type is 'r'
+2019-04-28 00:20:19,815 Target white = 6500.000000 degrees kelvin Daylight spectrum
+2019-04-28 00:20:19,815 Target white brightness = native brightness
+2019-04-28 00:20:19,816 Target black brightness = native brightness
+2019-04-28 00:20:19,818 Black point device hack is enabled
+2019-04-28 00:20:19,819 Target advertised gamma = 2.200000
+2019-04-28 00:20:19,819 
+2019-04-28 00:20:19,821 Display adjustment menu:
+2019-04-28 00:20:19,822 Press 1 .. 7
+2019-04-28 00:20:19,822 1) Black level (CRT: Offset/Brightness)
+2019-04-28 00:20:19,823 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-28 00:20:19,825 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-28 00:20:19,825 4) Black point (R,G,B, Offset/Brightness)
+2019-04-28 00:20:19,826 5) Check all
+2019-04-28 00:20:19,841 6) Measure and set ambient for viewing condition adjustment
+2019-04-28 00:20:19,841 7) Continue on to calibration
+2019-04-28 00:20:19,842 8) Exit
+2019-04-28 00:20:19,844 DisplayCAL: Waiting for send buffer
+2019-04-28 00:20:21,058 DisplayCAL: Sending buffer: '2'
+2019-04-28 00:20:21,062 Doing some initial measurements
+2019-04-28 00:20:23,816 Measured display update delay of 17 msec, using delay of 122 msec & 0 msec inst reaction
+2019-04-28 00:20:28,319 No distict refresh period
+2019-04-28 00:20:35,759 Red   = XYZ 56.732 29.790  0.000
+2019-04-28 00:20:35,763 Green = XYZ 55.029 102.935 12.638
+2019-04-28 00:20:35,766 Blue  = XYZ 23.710  9.294 120.820
+2019-04-28 00:20:36,506 White = XYZ 135.135 142.509 134.696
+2019-04-28 00:20:36,509 
+2019-04-28 00:20:36,510 Adjust R,G & B gain to get target x,y. Press space when done.
+2019-04-28 00:20:36,510    Target Br 142.51, x 0.3128 , y 0.3292
+2019-04-28 00:21:03,078 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:21:03,308 / Current Br 143.58, x 0.3009+, y 0.3224+  DE  5.7  R++ G+  B-
+2019-04-28 00:21:03,313 
+2019-04-28 00:21:03,315 Press 1 .. 7
+2019-04-28 00:21:03,316 1) Black level (CRT: Offset/Brightness)
+2019-04-28 00:21:03,318 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-28 00:21:03,318 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-28 00:21:03,318 4) Black point (R,G,B, Offset/Brightness)
+2019-04-28 00:21:03,319 5) Check all
+2019-04-28 00:21:03,319 6) Measure and set ambient for viewing condition adjustment
+2019-04-28 00:21:03,319 7) Continue on to calibration
+2019-04-28 00:21:03,319 8) Exit
+2019-04-28 00:21:03,322 DisplayCAL: Waiting for send buffer
+2019-04-28 00:21:05,630 DisplayCAL: Trying to end subprocess gracefully...
+2019-04-28 00:21:05,654 DisplayCAL: Sending buffer: '\x1b'
+2019-04-28 00:21:05,663 Exiting
+2019-04-28 00:21:05,665 The instrument can be removed from the screen.
+2019-04-28 00:21:05,936 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:21:05,937 ...已中止。
+2019-04-28 00:21:58,493 --------------------------------------------------------------------------------
+2019-04-28 00:21:58,494 校准 & 配置文件
+2019-04-28 00:21:58,565 
+2019-04-28 00:21:58,644 --------------------------------------------------------------------------------
+2019-04-28 00:21:58,645 Session log: Web 2019-04-28 00-21 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:21:58,645 
+2019-04-28 00:21:58,648 工作目录：
+2019-04-28 00:21:58,648   c:\
+2019-04-28 00:21:58,650    users\
+2019-04-28 00:21:58,651     tang-\
+2019-04-28 00:21:58,651      appdata\
+2019-04-28 00:21:58,653       local\
+2019-04-28 00:21:58,654        temp\
+2019-04-28 00:21:58,654         DisplayCAL-vfn68g\
+2019-04-28 00:21:58,654 
+2019-04-28 00:21:58,655 命令行：
+2019-04-28 00:21:58,655   D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe
+2019-04-28 00:21:58,657     -v2
+2019-04-28 00:21:58,657     -dweb:8080
+2019-04-28 00:21:58,658     -c1
+2019-04-28 00:21:58,658     -yr
+2019-04-28 00:21:58,660     -ql
+2019-04-28 00:21:58,660     -t6500
+2019-04-28 00:21:58,661     -g2.2
+2019-04-28 00:21:58,661     -f1.0
+2019-04-28 00:21:58,661     -k0
+2019-04-28 00:21:58,661     -A4.0
+2019-04-28 00:21:58,664     -b
+2019-04-28 00:21:58,664     "Web 2019-04-28 00-21 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:21:58,664 
+2019-04-28 00:21:59,308 DisplayCAL: Starting interaction with subprocess
+2019-04-28 00:21:59,311 Setting up the instrument
+2019-04-28 00:22:00,365 Product Name:      i1Display3
+2019-04-28 00:22:00,368 Serial Number:     I1-17.B-02.285149.10
+2019-04-28 00:22:00,368 Firmware Version:  v2.28
+2019-04-28 00:22:00,369 Firmware Date:     29Jan14
+2019-04-28 00:22:00,388 Created web server at 'http://169.254.230.50:8080/', now waiting for browser to connect
+2019-04-28 00:22:04,591 Place instrument on test window.
+2019-04-28 00:22:04,595 DisplayCAL: Waiting for send buffer
+2019-04-28 00:22:06,417 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:22:06,421 Hit Esc or Q to give up, any other key to continue:
+2019-04-28 00:22:06,424 dispcal: Warning - Unable to access to VideoLUTs so can't be sure colors are native
+2019-04-28 00:22:06,426 Display type is 'r'
+2019-04-28 00:22:06,436 Target white = 6500.000000 degrees kelvin Daylight spectrum
+2019-04-28 00:22:06,438 Target white brightness = native brightness
+2019-04-28 00:22:06,440 Target black brightness = native brightness
+2019-04-28 00:22:06,440 Black point device hack is enabled
+2019-04-28 00:22:06,440 Target advertised gamma = 2.200000
+2019-04-28 00:22:06,441 
+2019-04-28 00:22:06,444 Display adjustment menu:
+2019-04-28 00:22:06,444 Press 1 .. 7
+2019-04-28 00:22:06,444 1) Black level (CRT: Offset/Brightness)
+2019-04-28 00:22:06,447 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-28 00:22:06,447 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-28 00:22:06,448 4) Black point (R,G,B, Offset/Brightness)
+2019-04-28 00:22:06,448 5) Check all
+2019-04-28 00:22:06,450 6) Measure and set ambient for viewing condition adjustment
+2019-04-28 00:22:06,451 7) Continue on to calibration
+2019-04-28 00:22:06,453 8) Exit
+2019-04-28 00:22:06,460 DisplayCAL: Waiting for send buffer
+2019-04-28 00:22:08,743 DisplayCAL: Sending buffer: '2'
+2019-04-28 00:22:08,746 Doing some initial measurements
+2019-04-28 00:22:11,457 Measured display update delay of 4 msec, using delay of 105 msec & 0 msec inst reaction
+2019-04-28 00:22:15,987 No distict refresh period
+2019-04-28 00:22:21,323 Red   = XYZ 70.860 37.686  1.452
+2019-04-28 00:22:21,325 Green = XYZ 67.690 134.933 23.373
+2019-04-28 00:22:21,325 Blue  = XYZ 37.032 14.364 191.561
+2019-04-28 00:22:22,000 White = XYZ 174.630 187.082 217.131
+2019-04-28 00:22:22,005 
+2019-04-28 00:22:22,006 Adjust R,G & B gain to get target x,y. Press space when done.
+2019-04-28 00:22:22,007    Target Br 187.08, x 0.3128 , y 0.3292
+2019-04-28 00:22:25,108 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:22:25,315 / Current Br 187.10, x 0.3017+, y 0.3232+  DE  5.4  R++ G+  B-
+2019-04-28 00:22:25,318 
+2019-04-28 00:22:25,319 Press 1 .. 7
+2019-04-28 00:22:25,319 1) Black level (CRT: Offset/Brightness)
+2019-04-28 00:22:25,321 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-28 00:22:25,321 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-28 00:22:25,325 4) Black point (R,G,B, Offset/Brightness)
+2019-04-28 00:22:25,326 5) Check all
+2019-04-28 00:22:25,328 6) Measure and set ambient for viewing condition adjustment
+2019-04-28 00:22:25,329 7) Continue on to calibration
+2019-04-28 00:22:25,332 8) Exit
+2019-04-28 00:22:25,334 DisplayCAL: Waiting for send buffer
+2019-04-28 00:22:35,453 DisplayCAL: Sending buffer: '5'
+2019-04-28 00:22:35,457 Doing check measurements
+2019-04-28 00:22:43,267 Black = XYZ 0.1078 0.1068 0.1996
+2019-04-28 00:22:43,270 Grey  = XYZ 39.836 42.589 49.720
+2019-04-28 00:22:43,270 White = XYZ 174.701 187.117 217.035
+2019-04-28 00:22:46,062 1%    = XYZ  1.867  2.003  2.348
+2019-04-28 00:22:46,072 
+2019-04-28 00:22:46,072   Current Brightness = 187.12
+2019-04-28 00:22:46,088   Target 50% Level  = 40.724, Current = 42.589 (Aprox. Gamma 2.14), error =  1.0%
+2019-04-28 00:22:46,089   Target Near Black = 1.8712, Current = 2.0242, error =  0.1%
+2019-04-28 00:22:46,089   Target white = x 0.3128, y 0.3292, Current = x 0.3018, y 0.3233, error =  5.41 DE
+2019-04-28 00:22:46,091   Target black = x 0.3128, y 0.3292, Current = x 0.3003, y 0.3221, error =  6.02 DE
+2019-04-28 00:22:46,092 
+2019-04-28 00:22:46,092 Press 1 .. 7
+2019-04-28 00:22:46,092 1) Black level (CRT: Offset/Brightness)
+2019-04-28 00:22:46,094 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-28 00:22:46,094 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-28 00:22:46,095 4) Black point (R,G,B, Offset/Brightness)
+2019-04-28 00:22:46,095 5) Check all
+2019-04-28 00:22:46,095 6) Measure and set ambient for viewing condition adjustment
+2019-04-28 00:22:46,096 7) Continue on to calibration
+2019-04-28 00:22:46,111 8) Exit
+2019-04-28 00:22:46,112 DisplayCAL: Waiting for send buffer
+2019-04-28 00:22:48,289 DisplayCAL: Sending buffer: '7'
+2019-04-28 00:22:48,293 Commencing display calibration
+2019-04-28 00:23:18,012 Patch 9 of 9
+2019-04-28 00:23:18,013 Black = XYZ 0.1080 0.1069 0.1989
+2019-04-28 00:23:18,013 Red   = XYZ 70.971 37.760  1.463
+2019-04-28 00:23:18,013 Green = XYZ 67.827 135.104 23.470
+2019-04-28 00:23:18,015 Blue  = XYZ 37.057 14.381 191.466
+2019-04-28 00:23:18,019 White = XYZ 174.773 187.193 217.035
+2019-04-28 00:24:29,747 DisplayCAL: Pausing...
+2019-04-28 00:24:30,072 DisplayCAL: Sending buffer: '\x1b'
+2019-04-28 00:24:32,007 DisplayCAL: Continuing...
+2019-04-28 00:24:34,430 DisplayCAL: Pausing...
+2019-04-28 00:24:35,318 DisplayCAL: Trying to end subprocess gracefully...
+2019-04-28 00:24:55,371 DisplayCAL: Trying to terminate subprocess...
+2019-04-28 00:24:55,473 ...subprocess terminated.
+2019-04-28 00:24:55,476 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:24:55,477 ...已中止。
+2019-04-28 00:24:55,480 Patch 9 of 48
+2019-04-28 00:24:59,894 --------------------------------------------------------------------------------
+2019-04-28 00:24:59,895 校准 & 配置文件
+2019-04-28 00:24:59,973 
+2019-04-28 00:25:00,042 --------------------------------------------------------------------------------
+2019-04-28 00:25:00,042 Session log: Web 2019-04-28 00-24 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:25:00,043 
+2019-04-28 00:25:00,045 工作目录：
+2019-04-28 00:25:00,046   c:\
+2019-04-28 00:25:00,046    users\
+2019-04-28 00:25:00,046     tang-\
+2019-04-28 00:25:00,048      appdata\
+2019-04-28 00:25:00,049       local\
+2019-04-28 00:25:00,049        temp\
+2019-04-28 00:25:00,049         DisplayCAL-waobvr\
+2019-04-28 00:25:00,051 
+2019-04-28 00:25:00,052 命令行：
+2019-04-28 00:25:00,052   D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe
+2019-04-28 00:25:00,055     -v2
+2019-04-28 00:25:00,056     -dweb:8080
+2019-04-28 00:25:00,056     -c1
+2019-04-28 00:25:00,059     -yr
+2019-04-28 00:25:00,059     -ql
+2019-04-28 00:25:00,059     -t6500
+2019-04-28 00:25:00,061     -g2.2
+2019-04-28 00:25:00,062     -f1.0
+2019-04-28 00:25:00,062     -k0
+2019-04-28 00:25:00,063     -A4.0
+2019-04-28 00:25:00,065     -b
+2019-04-28 00:25:00,065     "Web 2019-04-28 00-24 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:25:00,065 
+2019-04-28 00:25:00,677 DisplayCAL: Starting interaction with subprocess
+2019-04-28 00:25:00,681 Setting up the instrument
+2019-04-28 00:25:01,698 Product Name:      i1Display3
+2019-04-28 00:25:01,700 Serial Number:     I1-17.B-02.285149.10
+2019-04-28 00:25:01,701 Firmware Version:  v2.28
+2019-04-28 00:25:01,703 Firmware Date:     29Jan14
+2019-04-28 00:25:01,723 Created web server at 'http://169.254.230.50:8080/', now waiting for browser to connect
+2019-04-28 00:25:01,878 Place instrument on test window.
+2019-04-28 00:25:01,882 DisplayCAL: Waiting for send buffer
+2019-04-28 00:25:03,302 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:25:03,306 Hit Esc or Q to give up, any other key to continue:
+2019-04-28 00:25:03,319 dispcal: Warning -Unable to access to VideoLUTs so can't be sure colors are native
+2019-04-28 00:25:03,322 Display type is 'r'
+2019-04-28 00:25:03,323 Target white = 6500.000000 degrees kelvin Daylight spectrum
+2019-04-28 00:25:03,325 Target white brightness = native brightness
+2019-04-28 00:25:03,325 Target black brightness = native brightness
+2019-04-28 00:25:03,326 Black point device hack is enabled
+2019-04-28 00:25:03,326 Target advertised gamma = 2.200000
+2019-04-28 00:25:03,328 
+2019-04-28 00:25:03,328 Display adjustment menu:
+2019-04-28 00:25:03,328 Press 1 .. 7
+2019-04-28 00:25:03,329 1) Black level (CRT: Offset/Brightness)
+2019-04-28 00:25:03,329 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-28 00:25:03,331 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-28 00:25:03,332 4) Black point (R,G,B, Offset/Brightness)
+2019-04-28 00:25:03,332 5) Check all
+2019-04-28 00:25:03,335 6) Measure and set ambient for viewing condition adjustment
+2019-04-28 00:25:03,335 7) Continue on to calibration
+2019-04-28 00:25:03,336 8) Exit
+2019-04-28 00:25:03,348 DisplayCAL: Waiting for send buffer
+2019-04-28 00:25:03,959 DisplayCAL: Sending buffer: '7'
+2019-04-28 00:25:03,961 Commencing display calibration
+2019-04-28 00:25:27,969 DisplayCAL: Trying to end subprocess gracefully...
+2019-04-28 00:25:48,005 DisplayCAL: Trying to terminate subprocess...
+2019-04-28 00:25:48,107 ...subprocess terminated.
+2019-04-28 00:25:48,111 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:25:48,114 ...已中止。
+2019-04-28 00:25:51,474 --------------------------------------------------------------------------------
+2019-04-28 00:25:51,476 校准 & 配置文件
+2019-04-28 00:25:51,533 
+2019-04-28 00:25:51,617 --------------------------------------------------------------------------------
+2019-04-28 00:25:51,618 Session log: Web 2019-04-28 00-25 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:25:51,618 
+2019-04-28 00:25:51,619 工作目录：
+2019-04-28 00:25:51,621   c:\
+2019-04-28 00:25:51,621    users\
+2019-04-28 00:25:51,622     tang-\
+2019-04-28 00:25:51,625      appdata\
+2019-04-28 00:25:51,625       local\
+2019-04-28 00:25:51,625        temp\
+2019-04-28 00:25:51,627         DisplayCAL-5copgi\
+2019-04-28 00:25:51,628 
+2019-04-28 00:25:51,628 命令行：
+2019-04-28 00:25:51,630   D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe
+2019-04-28 00:25:51,634     -v2
+2019-04-28 00:25:51,634     -dweb:8080
+2019-04-28 00:25:51,635     -c1
+2019-04-28 00:25:51,635     -yr
+2019-04-28 00:25:51,637     -ql
+2019-04-28 00:25:51,638     -t6500
+2019-04-28 00:25:51,638     -g2.2
+2019-04-28 00:25:51,641     -f1.0
+2019-04-28 00:25:51,641     -k0
+2019-04-28 00:25:51,641     -A4.0
+2019-04-28 00:25:51,641     -b
+2019-04-28 00:25:51,642     "Web 2019-04-28 00-25 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:25:51,644 
+2019-04-28 00:25:52,253 DisplayCAL: Starting interaction with subprocess
+2019-04-28 00:25:52,259 Setting up the instrument
+2019-04-28 00:25:53,288 Product Name:      i1Display3
+2019-04-28 00:25:53,289 Serial Number:     I1-17.B-02.285149.10
+2019-04-28 00:25:53,289 Firmware Version:  v2.28
+2019-04-28 00:25:53,290 Firmware Date:     29Jan14
+2019-04-28 00:25:53,311 Created web server at 'http://169.254.230.50:8080/', now waiting for browser to connect
+2019-04-28 00:25:54,776 Place instrument on test window.
+2019-04-28 00:25:54,779 DisplayCAL: Waiting for send buffer
+2019-04-28 00:25:56,398 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:25:56,403 Hit Esc or Q to give up, any other key to continue:
+2019-04-28 00:25:56,405 dispcal: Warning - Unable to access to VideoLUTs so can't be sure colors are native
+2019-04-28 00:25:56,407 Display type is 'r'
+2019-04-28 00:25:56,418 Target white = 6500.000000 degrees kelvin Daylight spectrum
+2019-04-28 00:25:56,421 Target white brightness = native brightness
+2019-04-28 00:25:56,423 Target black brightness = native brightness
+2019-04-28 00:25:56,424 Black point device hack is enabled
+2019-04-28 00:25:56,426 Target advertised gamma = 2.200000
+2019-04-28 00:25:56,427 
+2019-04-28 00:25:56,427 Display adjustment menu:
+2019-04-28 00:25:56,428 Press 1 .. 7
+2019-04-28 00:25:56,428 1) Black level (CRT: Offset/Brightness)
+2019-04-28 00:25:56,430 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-28 00:25:56,430 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-28 00:25:56,433 4) Black point (R,G,B, Offset/Brightness)
+2019-04-28 00:25:56,434 5) Check all
+2019-04-28 00:25:56,434 6) Measure and set ambient for viewing condition adjustment
+2019-04-28 00:25:56,436 7) Continue on to calibration
+2019-04-28 00:25:56,437 8) Exit
+2019-04-28 00:25:56,444 DisplayCAL: Waiting for send buffer
+2019-04-28 00:25:57,306 DisplayCAL: Sending buffer: '2'
+2019-04-28 00:25:57,309 Doing some initial measurements
+2019-04-28 00:26:37,451 DisplayCAL: Trying to end subprocess gracefully...
+2019-04-28 00:26:57,490 DisplayCAL: Trying to terminate subprocess...
+2019-04-28 00:26:57,592 ...subprocess terminated.
+2019-04-28 00:26:57,598 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:26:57,602 ...已中止。
+2019-04-28 00:27:10,474 --------------------------------------------------------------------------------
+2019-04-28 00:27:10,476 校准 & 配置文件
+2019-04-28 00:27:10,539 
+2019-04-28 00:27:10,625 --------------------------------------------------------------------------------
+2019-04-28 00:27:10,625 Session log: Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:27:10,627 
+2019-04-28 00:27:10,628 工作目录：
+2019-04-28 00:27:10,628   c:\
+2019-04-28 00:27:10,628    users\
+2019-04-28 00:27:10,628     tang-\
+2019-04-28 00:27:10,630      appdata\
+2019-04-28 00:27:10,631       local\
+2019-04-28 00:27:10,631        temp\
+2019-04-28 00:27:10,631         DisplayCAL-p_thsz\
+2019-04-28 00:27:10,632 
+2019-04-28 00:27:10,632 命令行：
+2019-04-28 00:27:10,634   D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe
+2019-04-28 00:27:10,637     -v2
+2019-04-28 00:27:10,638     -dweb:8080
+2019-04-28 00:27:10,640     -c1
+2019-04-28 00:27:10,641     -yr
+2019-04-28 00:27:10,641     -ql
+2019-04-28 00:27:10,642     -t6500
+2019-04-28 00:27:10,644     -g2.2
+2019-04-28 00:27:10,644     -f1.0
+2019-04-28 00:27:10,645     -k0
+2019-04-28 00:27:10,647     -A4.0
+2019-04-28 00:27:10,648     -b
+2019-04-28 00:27:10,648     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:27:10,651 
+2019-04-28 00:27:11,260 DisplayCAL: Starting interaction with subprocess
+2019-04-28 00:27:11,266 Setting up the instrument
+2019-04-28 00:27:12,289 Product Name:      i1Display3
+2019-04-28 00:27:12,290 Serial Number:     I1-17.B-02.285149.10
+2019-04-28 00:27:12,292 Firmware Version:  v2.28
+2019-04-28 00:27:12,292 Firmware Date:     29Jan14
+2019-04-28 00:27:12,312 Created web server at 'http://169.254.230.50:8080/', now waiting for browser to connect
+2019-04-28 00:27:15,247 Place instrument on test window.
+2019-04-28 00:27:15,252 DisplayCAL: Waiting for send buffer
+2019-04-28 00:27:17,687 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:27:17,690 Hit Esc or Q to give up, any other key to continue:
+2019-04-28 00:27:17,691 dispcal: Warning - Unable to access to VideoLUTs so can't be sure colors are native
+2019-04-28 00:27:17,700 Display type is 'r'
+2019-04-28 00:27:17,703 Target white = 6500.000000 degrees kelvin Daylight spectrum
+2019-04-28 00:27:17,703 Target white brightness = native brightness
+2019-04-28 00:27:17,703 Target black brightness = native brightness
+2019-04-28 00:27:17,704 Black point device hack is enabled
+2019-04-28 00:27:17,704 Target advertised gamma = 2.200000
+2019-04-28 00:27:17,706 
+2019-04-28 00:27:17,706 Display adjustment menu:
+2019-04-28 00:27:17,707 Press 1 .. 7
+2019-04-28 00:27:17,709 1) Black level (CRT: Offset/Brightness)
+2019-04-28 00:27:17,710 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-28 00:27:17,710 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-28 00:27:17,711 4) Black point (R,G,B, Offset/Brightness)
+2019-04-28 00:27:17,711 5) Check all
+2019-04-28 00:27:17,713 6) Measure and set ambient for viewing condition adjustment
+2019-04-28 00:27:17,713 7) Continue on to calibration
+2019-04-28 00:27:17,713 8) Exit
+2019-04-28 00:27:17,720 DisplayCAL: Waiting for send buffer
+2019-04-28 00:27:18,835 DisplayCAL: Sending buffer: '2'
+2019-04-28 00:27:18,838 Doing some initial measurements
+2019-04-28 00:27:21,594 Measured display update delay of 0 msec, using delay of 100 msec & 0 msec inst reaction
+2019-04-28 00:27:26,171 No distict refresh period
+2019-04-28 00:27:31,621 Red   = XYZ 76.885 40.914  1.566
+2019-04-28 00:27:31,628 Green = XYZ 73.376 146.116 25.392
+2019-04-28 00:27:31,631 Blue  = XYZ 40.063 15.550 207.228
+2019-04-28 00:27:32,446 White = XYZ 189.199 202.588 234.837
+2019-04-28 00:27:32,450 
+2019-04-28 00:27:32,450 Adjust R,G & B gain to get target x,y. Press space when done.
+2019-04-28 00:27:32,450    Target Br 202.59, x 0.3128 , y 0.3292
+2019-04-28 00:27:34,367 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:27:34,572 / Current Br 202.59, x 0.3020+, y 0.3234+  DE  5.3  R++ G+  B-
+2019-04-28 00:27:34,573 
+2019-04-28 00:27:34,575 Press 1 .. 7
+2019-04-28 00:27:34,575 1) Black level (CRT: Offset/Brightness)
+2019-04-28 00:27:34,575 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-28 00:27:34,576 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-28 00:27:34,579 4) Black point (R,G,B, Offset/Brightness)
+2019-04-28 00:27:34,579 5) Check all
+2019-04-28 00:27:34,581 6) Measure and set ambient for viewing condition adjustment
+2019-04-28 00:27:34,581 7) Continue on to calibration
+2019-04-28 00:27:34,581 8) Exit
+2019-04-28 00:27:34,585 DisplayCAL: Waiting for send buffer
+2019-04-28 00:27:35,500 DisplayCAL: Sending buffer: '7'
+2019-04-28 00:27:35,507 Commencing display calibration
+2019-04-28 00:28:04,776 Patch 9 of 9
+2019-04-28 00:28:04,785 Black = XYZ 0.1164 0.1154 0.2156
+2019-04-28 00:28:04,786 Red   = XYZ 76.868 40.876  1.570
+2019-04-28 00:28:04,786 Green = XYZ 73.359 146.077 25.391
+2019-04-28 00:28:04,788 Blue  = XYZ 40.043 15.550 207.133
+2019-04-28 00:28:04,788 White = XYZ 189.171 202.549 234.789
+2019-04-28 00:30:36,122 Patch 48 of 48
+2019-04-28 00:30:36,243 
+2019-04-28 00:30:36,246 Initial native brightness target = 202.549127 cd/m^2
+2019-04-28 00:30:36,246 Had to scale brightness from 202.549127 to 184.208452 to fit within gamut,
+2019-04-28 00:30:36,247 corresponding to aprox. RGB 1.000000 0.935050 0.909761
+2019-04-28 00:30:36,253 Target white value is XYZ 175.029663 184.208452 200.331589 [xy 0.312793 0.329197]
+2019-04-28 00:30:36,256 Adjusted target black XYZ 0.1164 0.1154 0.2156, Lab 0.566 0.150 -0.700
+2019-04-28 00:30:36,256 Target black after min adjust: XYZ 0.1164 0.1154 0.2156, Lab 0.566 0.150 -0.700
+2019-04-28 00:30:36,257 Gamma curve input offset = 0.000000, output offset = 0.000627, power = 2.203255
+2019-04-28 00:30:36,259 Total Iteration 2, Final Samples = 32 Final Repeat threshold = 0.900000
+2019-04-28 00:30:36,260 Creating initial calibration curves...
+2019-04-28 00:30:36,361 
+2019-04-28 00:30:36,365 Doing iteration 1/2 with 16 sample points and repeat threshold of 1.272792 DE
+2019-04-28 00:30:37,532 Patch 1 of 16 DE 1.749205, W.DE 1.749205, Repeat
+2019-04-28 00:30:38,247 Patch 1 of 16 DE 0.524044, W.DE 0.524044, OK ( < 1.272792)
+2019-04-28 00:30:39,500 Patch 2 of 16 DE 2.295439, W.DE 2.295439, Repeat
+2019-04-28 00:30:40,173 Patch 2 of 16 DE 0.497035, W.DE 0.497035, OK ( < 1.272792)
+2019-04-28 00:30:41,421 Patch 3 of 16 DE 2.366209, W.DE 2.366209, Repeat
+2019-04-28 00:30:42,138 Patch 3 of 16 DE 0.412804, W.DE 0.412804, OK ( < 1.272792)
+2019-04-28 00:30:43,375 Patch 4 of 16 DE 2.129582, W.DE 2.129582, Repeat
+2019-04-28 00:30:44,119 Patch 4 of 16 DE 0.436664, W.DE 0.436664, OK ( < 1.272792)
+2019-04-28 00:30:45,305 Patch 5 of 16 DE 2.703395, W.DE 2.703395, Repeat
+2019-04-28 00:30:46,262 Patch 5 of 16 DE 0.263287, W.DE 0.263287, OK ( < 1.272792)
+2019-04-28 00:30:47,450 Patch 6 of 16 DE 2.083735, W.DE 2.083735, Repeat
+2019-04-28 00:30:48,164 Patch 6 of 16 DE 0.318221, W.DE 0.318221, OK ( < 1.272792)
+2019-04-28 00:30:49,403 Patch 7 of 16 DE 2.234245, W.DE 2.234245, Repeat
+2019-04-28 00:30:50,121 Patch 7 of 16 DE 0.198473, W.DE 0.198473, OK ( < 1.272792)
+2019-04-28 00:30:51,359 Patch 8 of 16 DE 1.762969, W.DE 1.762969, Repeat
+2019-04-28 00:30:52,072 Patch 8 of 16 DE 0.581974, W.DE 0.581974, OK ( < 1.272792)
+2019-04-28 00:30:53,783 Patch 9 of 16 DE 1.769732, W.DE 1.769732, Repeat
+2019-04-28 00:30:54,967 Patch 9 of 16 DE 0.318018, W.DE 0.318018, OK ( < 1.272792)
+2019-04-28 00:30:56,759 Patch 10 of 16 DE 0.480842, W.DE 0.480842, OK ( < 1.272792)
+2019-04-28 00:30:58,851 Patch 11 of 16 DE 1.390992, W.DE 1.390992, Repeat
+2019-04-28 00:31:00,346 Patch 11 of 16 DE 0.445892, W.DE 0.445892, OK ( < 1.272792)
+2019-04-28 00:31:03,214 Patch 12 of 16 DE 2.845398, W.DE 2.845398, Repeat
+2019-04-28 00:31:05,180 Patch 12 of 16 DE 0.497729, W.DE 0.497729, OK ( < 1.272792)
+2019-04-28 00:31:09,180 Patch 13 of 16 DE 1.757088, W.DE 1.757088, Repeat
+2019-04-28 00:31:12,095 Patch 13 of 16 DE 0.795561, W.DE 0.795561, OK ( < 1.180124)
+2019-04-28 00:31:17,091 Patch 14 of 16 DE 0.550414, W.DE 0.550414, Repeat
+2019-04-28 00:31:21,428 Patch 14 of 16 DE 0.378373, W.DE 0.378373, Repeat
+2019-04-28 00:31:25,365 Patch 14 of 16 DE 0.187911, W.DE 0.187911, OK ( < 0.340899)
+2019-04-28 00:31:30,424 Patch 15 of 16 DE 0.066279, W.DE 12.660667, Repeat
+2019-04-28 00:31:35,420 Patch 15 of 16 DE 0.038848, W.DE 1.110056, Repeat
+2019-04-28 00:31:54,558 Patch 15 of 16 DE 0.051251, W.DE 1.092239, Repeat
+2019-04-28 00:31:59,940 Patch 15 of 16 DE 0.050574, W.DE 1.034985, Repeat
+2019-04-28 00:32:04,678 Patch 15 of 16 DE 0.039689, W.DE 1.029323, Repeat
+2019-04-28 00:32:09,641 Patch 15 of 16 DE 0.037382, W.DE 0.991428, Repeat
+2019-04-28 00:32:14,440 Patch 15 of 16 DE 0.065035, W.DE 12.353947, Repeat (got worse)
+2019-04-28 00:32:19,141 Patch 15 of 16 DE 0.064925, W.DE 12.355949, Repeat (got worse)
+2019-04-28 00:32:23,841 Patch 15 of 16 DE 0.064852, W.DE 12.343377, Repeat (got worse)
+2019-04-28 00:32:28,528 Patch 15 of 16 DE 0.037382, W.DE 0.991428, Fail ( > 0.050000)
+2019-04-28 00:32:33,283 Patch 16 of 16 DE 0.064924, W.DE 64.924311, Repeat
+2019-04-28 00:32:52,436 Patch 16 of 16 DE 0.064924, W.DE 64.924311, Repeat
+2019-04-28 00:32:57,571 Patch 16 of 16 DE 0.065183, W.DE 65.183198, Repeat (got worse)
+2019-04-28 00:33:02,414 Patch 16 of 16 DE 0.066276, W.DE 66.276399, Repeat (got worse)
+2019-04-28 00:33:07,497 Patch 16 of 16 DE 0.057416, W.DE 57.415505, Repeat
+2019-04-28 00:33:12,793 Patch 16 of 16 DE 0.027951, W.DE 27.950914, Repeat
+2019-04-28 00:33:17,536 Patch 16 of 16 DE 0.027597, W.DE 27.596831, Repeat
+2019-04-28 00:33:22,278 Patch 16 of 16 DE 0.027550, W.DE 27.550142, Repeat
+2019-04-28 00:33:27,282 Patch 16 of 16 DE 0.028218, W.DE 28.217602, Repeat (got worse)
+2019-04-28 00:33:32,082 Patch 16 of 16 DE 0.027527, W.DE 27.527201, Fail ( > 0.050000)
+2019-04-28 00:33:32,082 
+2019-04-28 00:33:32,084 Brightness error = 1.428146 cd/m^2 (is 185.636598, should be 184.208452)
+2019-04-28 00:33:32,088 White point error = 0.429263 deltaE
+2019-04-28 00:33:32,089 Maximum neutral error (@ 0.076146) = 0.795645 deltaE
+2019-04-28 00:33:32,089 Average neutral error = 0.376009 deltaE
+2019-04-28 00:33:32,091 Failed to meet target 1.272792 delta E, got worst case 27.527201
+2019-04-28 00:33:32,091 Number of measurements taken = 54
+2019-04-28 00:33:32,092 Computing update to calibration curves...
+2019-04-28 00:33:32,170 
+2019-04-28 00:33:32,174 Doing iteration 2/2 with 32 sample points and repeat threshold of 0.900000 DE
+2019-04-28 00:33:32,891 Patch 1 of 32 DE 0.563111, W.DE 0.563111, W.peqDE 0.563111, OK ( < 0.900000)
+2019-04-28 00:33:33,984 Patch 2 of 32 DE 0.459772, W.DE 0.459772, W.peqDE 0.194265, OK ( < 0.900000)
+2019-04-28 00:33:35,078 Patch 3 of 32 DE 0.337505, W.DE 0.337505, W.peqDE 0.363241, OK ( < 0.900000)
+2019-04-28 00:33:36,220 Patch 4 of 32 DE 0.543300, W.DE 0.543300, W.peqDE 0.242704, OK ( < 0.900000)
+2019-04-28 00:33:37,358 Patch 5 of 32 DE 0.232570, W.DE 0.232570, W.peqDE 0.491037, OK ( < 0.900000)
+2019-04-28 00:33:38,447 Patch 6 of 32 DE 0.645379, W.DE 0.645379, W.peqDE 0.712677, OK ( < 0.900000)
+2019-04-28 00:33:39,582 Patch 7 of 32 DE 0.529968, W.DE 0.529968, W.peqDE 0.476104, OK ( < 0.900000)
+2019-04-28 00:33:40,720 Patch 8 of 32 DE 0.487104, W.DE 0.487104, W.peqDE 0.431720, OK ( < 0.900000)
+2019-04-28 00:33:41,854 Patch 9 of 32 DE 0.606326, W.DE 0.606326, W.peqDE 0.629104, OK ( < 0.900000)
+2019-04-28 00:33:42,937 Patch 10 of 32 DE 0.568451, W.DE 0.568451, W.peqDE 0.344016, OK ( < 0.900000)
+2019-04-28 00:33:44,122 Patch 11 of 32 DE 0.563174, W.DE 0.563174, W.peqDE 0.664995, OK ( < 0.900000)
+2019-04-28 00:33:45,207 Patch 12 of 32 DE 0.519369, W.DE 0.519369, W.peqDE 0.460817, OK ( < 0.900000)
+2019-04-28 00:33:46,342 Patch 13 of 32 DE 0.276291, W.DE 0.276291, W.peqDE 0.382907, OK ( < 0.900000)
+2019-04-28 00:33:47,480 Patch 14 of 32 DE 0.650449, W.DE 0.650449, W.peqDE 0.530271, OK ( < 0.900000)
+2019-04-28 00:33:48,618 Patch 15 of 32 DE 0.479524, W.DE 0.479524, W.peqDE 0.454366, OK ( < 0.900000)
+2019-04-28 00:33:49,706 Patch 16 of 32 DE 0.712139, W.DE 0.712139, W.peqDE 0.880877, OK ( < 0.900000)
+2019-04-28 00:33:51,273 Patch 17 of 32 DE 0.946037, W.DE 0.946037, peqDE 0.876162, Repeat
+2019-04-28 00:33:56,095 Patch 17 of 32 DE 0.807559, W.DE 0.807559, peqDE 1.312717, Repeat
+2019-04-28 00:33:57,670 Patch 17 of 32 DE 1.007114, W.DE 1.007114, peqDE 0.857209, Repeat (got worse)
+2019-04-28 00:33:58,868 Patch 17 of 32 DE 0.654352, W.DE 0.654352, peqDE 1.019759, Repeat
+2019-04-28 00:34:00,032 Patch 17 of 32 DE 0.394763, W.DE 0.394763, W.peqDE 0.868291, OK ( < 0.900000)
+2019-04-28 00:34:01,760 Patch 18 of 32 DE 1.454094, W.DE 1.454094, peqDE 1.418311, Repeat
+2019-04-28 00:34:03,025 Patch 18 of 32 DE 0.634675, W.DE 0.634675, peqDE 0.946022, Repeat
+2019-04-28 00:34:04,217 Patch 18 of 32 DE 0.459566, W.DE 0.459566, W.peqDE 0.260335, OK ( < 0.900000)
+2019-04-28 00:34:05,940 Patch 19 of 32 DE 1.983056, W.DE 1.983056, peqDE 2.031398, Repeat
+2019-04-28 00:34:07,186 Patch 19 of 32 DE 0.905002, W.DE 0.905002, peqDE 1.008308, Repeat
+2019-04-28 00:34:14,349 Patch 19 of 32 DE 0.905002, W.DE 0.905002, peqDE 1.008308, Repeat
+2019-04-28 00:34:14,980 Patch 19 of 32 DE 1.382657, W.DE 1.382657, peqDE 1.594733, Repeat (got worse)
+2019-04-28 00:34:16,280 Patch 19 of 32 DE 0.532669, W.DE 0.532669, W.peqDE 0.387000, OK ( < 0.900000)
+2019-04-28 00:34:18,134 Patch 20 of 32 DE 1.528495, W.DE 1.528495, peqDE 1.588976, Repeat
+2019-04-28 00:34:19,456 Patch 20 of 32 DE 0.403129, W.DE 0.403129, W.peqDE 0.703957, OK ( < 0.900000)
+2019-04-28 00:34:21,346 Patch 21 of 32 DE 1.566548, W.DE 1.566548, peqDE 1.718291, Repeat
+2019-04-28 00:34:22,773 Patch 21 of 32 DE 0.473352, W.DE 0.473352, W.peqDE 0.299098, OK ( < 0.900000)
+2019-04-28 00:34:24,822 Patch 22 of 32 DE 1.701920, W.DE 1.701920, peqDE 1.840513, Repeat
+2019-04-28 00:34:26,404 Patch 22 of 32 DE 0.530831, W.DE 0.530831, W.peqDE 0.851856, OK ( < 0.900000)
+2019-04-28 00:34:28,733 Patch 23 of 32 DE 1.811623, W.DE 1.811623, peqDE 1.977626, Repeat
+2019-04-28 00:34:30,507 Patch 23 of 32 DE 0.656856, W.DE 0.656856, peqDE 1.060020, Repeat
+2019-04-28 00:34:32,344 Patch 23 of 32 DE 0.523898, W.DE 0.523898, W.peqDE 0.304238, OK ( < 0.900000)
+2019-04-28 00:34:35,046 Patch 24 of 32 DE 1.864368, W.DE 1.864368, peqDE 1.848459, Repeat
+2019-04-28 00:34:37,163 Patch 24 of 32 DE 0.333765, W.DE 0.333765, W.peqDE 0.726506, OK ( < 0.900000)
+2019-04-28 00:34:40,321 Patch 25 of 32 DE 1.605690, W.DE 1.605690, peqDE 1.527877, Repeat
+2019-04-28 00:34:42,773 Patch 25 of 32 DE 0.595983, W.DE 0.595983, W.peqDE 0.784083, OK ( < 0.900000)
+2019-04-28 00:34:46,375 Patch 26 of 32 DE 1.204364, W.DE 1.204364, peqDE 1.176715, Repeat
+2019-04-28 00:34:49,316 Patch 26 of 32 DE 0.523504, W.DE 0.523504, W.peqDE 0.489387, OK ( < 0.655317)
+2019-04-28 00:34:53,515 Patch 27 of 32 DE 0.753428, W.DE 0.753428, peqDE 0.745180, Repeat
+2019-04-28 00:34:57,154 Patch 27 of 32 DE 0.431773, W.DE 0.431773, peqDE 0.541799, Repeat
+2019-04-28 00:35:00,575 Patch 27 of 32 DE 0.331892, W.DE 0.331892, peqDE 0.480917, Repeat
+2019-04-28 00:35:03,917 Patch 27 of 32 DE 0.149166, W.DE 0.149166, W.peqDE 0.049573, OK ( < 0.396127)
+2019-04-28 00:35:08,598 Patch 28 of 32 DE 0.400662, W.DE 0.400662, peqDE 0.397367, Repeat
+2019-04-28 00:35:12,778 Patch 28 of 32 DE 0.292921, W.DE 0.292921, peqDE 0.294728, Repeat
+2019-04-28 00:35:17,042 Patch 28 of 32 DE 0.215499, W.DE 0.215499, peqDE 0.307053, Repeat
+2019-04-28 00:35:20,980 Patch 28 of 32 DE 0.124902, W.DE 0.124902, W.peqDE 0.080666, OK ( < 0.211582)
+2019-04-28 00:35:26,061 Patch 29 of 32 DE 0.149158, W.DE 0.149158, peqDE 0.151651, Repeat
+2019-04-28 00:35:44,405 Patch 29 of 32 DE 0.149158, W.DE 0.149158, peqDE 0.151651, Repeat
+2019-04-28 00:35:49,470 Patch 29 of 32 DE 0.128065, W.DE 0.128065, peqDE 0.116935, Repeat
+2019-04-28 00:35:54,292 Patch 29 of 32 DE 0.099464, W.DE 0.099464, peqDE 0.151752, Repeat
+2019-04-28 00:35:58,861 Patch 29 of 32 DE 0.081066, W.DE 0.081066, W.peqDE 0.051724, OK ( < 0.092532)
+2019-04-28 00:36:04,260 Patch 30 of 32 DE 0.057187, W.DE 0.057187, peqDE 0.077256, Repeat
+2019-04-28 00:36:23,400 Patch 30 of 32 DE 0.057187, W.DE 0.057187, peqDE 0.077256, Repeat
+2019-04-28 00:36:28,575 Patch 30 of 32 DE 0.055177, W.DE 0.055177, peqDE 0.074082, Repeat
+2019-04-28 00:36:33,759 Patch 30 of 32 DE 0.045373, W.DE 0.045373, W.peqDE 0.048148, OK ( < 0.050000)
+2019-04-28 00:36:39,020 Patch 31 of 32 DE 0.029453, W.DE 0.029453, W.peqDE 0.030628, OK ( < 0.050000)
+2019-04-28 00:36:44,102 Patch 32 of 32 DE 0.001595, W.DE 0.001595, W.peqDE 0.001595, OK ( < 0.050000)
+2019-04-28 00:36:44,109 
+2019-04-28 00:36:44,111 Brightness error = 1.487242 cd/m^2 (is 185.695693, should be 184.208452)
+2019-04-28 00:36:44,111 White point error = 0.467954 deltaE
+2019-04-28 00:36:44,112 Maximum neutral error (@ 0.347067) = 0.711234 deltaE
+2019-04-28 00:36:44,114 Average neutral error = 0.417858 deltaE
+2019-04-28 00:36:44,115 Number of measurements taken = 75
+2019-04-28 00:36:44,115 Computing update to calibration curves...
+2019-04-28 00:36:44,252 The instrument can be removed from the screen.
+2019-04-28 00:36:44,448 Written calibration file 'Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.cal'
+2019-04-28 00:36:44,559 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:36:44,651 --------------------------------------------------------------------------------
+2019-04-28 00:36:44,654 Session log: Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:36:44,654 
+2019-04-28 00:36:44,655 工作目录：
+2019-04-28 00:36:44,657   c:\
+2019-04-28 00:36:44,658    users\
+2019-04-28 00:36:44,658     tang-\
+2019-04-28 00:36:44,660      appdata\
+2019-04-28 00:36:44,661       local\
+2019-04-28 00:36:44,661        temp\
+2019-04-28 00:36:44,664         DisplayCAL-p_thsz\
+2019-04-28 00:36:44,665 
+2019-04-28 00:36:44,667 命令行：
+2019-04-28 00:36:44,667   D:\Program Files\Argyll_V2.1.0\bin\dispread.exe
+2019-04-28 00:36:44,668     -v
+2019-04-28 00:36:44,668     -dweb:8080
+2019-04-28 00:36:44,670     -c1
+2019-04-28 00:36:44,671     -yr
+2019-04-28 00:36:44,671     -K
+2019-04-28 00:36:44,671     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.cal"
+2019-04-28 00:36:44,671     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:36:44,673 
+2019-04-28 00:36:45,293 DisplayCAL: Starting interaction with subprocess
+2019-04-28 00:36:45,306 Number of patches = 175
+2019-04-28 00:36:45,308 Switching to soft cal because there is no access to VideoLUTs
+2019-04-28 00:36:45,309 Setting up the instrument
+2019-04-28 00:36:46,372 Product Name:      i1Display3
+2019-04-28 00:36:46,372 Serial Number:     I1-17.B-02.285149.10
+2019-04-28 00:36:46,374 Firmware Version:  v2.28
+2019-04-28 00:36:46,374 Firmware Date:     29Jan14
+2019-04-28 00:36:46,395 Created web server at 'http://169.254.230.50:8080/', now waiting for browser to connect
+2019-04-28 00:36:46,598 Place instrument on test window.
+2019-04-28 00:36:46,601 DisplayCAL: Waiting for send buffer
+2019-04-28 00:36:48,101 DisplayCAL: Skipping place instrument on screen message...
+2019-04-28 00:36:48,128 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:36:48,131 Hit Esc or Q to give up, any other key to continue:
+2019-04-28 00:36:50,841 Measured display update delay of 0 msec, using delay of 100 msec & 0 msec inst reaction
+2019-04-28 00:36:55,368 No distict refresh period
+2019-04-28 00:40:29,019 Patch 175 of 175
+2019-04-28 00:40:29,020 The instrument can be removed from the screen.
+2019-04-28 00:40:29,200 Written 'Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.ti3'
+2019-04-28 00:40:29,306 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:40:29,793 从测量数据创建配置文件...
+2019-04-28 00:40:29,927 -> Preparing ChromaticityType tag from TI3 colorants
+2019-04-28 00:40:29,947 -> Storing settings in TI3
+2019-04-28 00:40:30,082 Applying 0% black point correction to TI3
+2019-04-28 00:40:30,262 Extracting neutrals from c:\users\tang-\appdata\local\temp\DisplayCAL-p_thsz\Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.ti3
+2019-04-28 00:40:30,305 R=G=B (>= 1% luminance) dE*00 avg 0.472201966696 peak 1.43902642012
+2019-04-28 00:40:30,326 Initial cLUT resolution 5x5x5
+2019-04-28 00:40:30,328 cLUT input curve segments: 5
+2019-04-28 00:40:30,384 #1 X prev 0.044773 next 0.202095 clip False
+2019-04-28 00:40:30,496 #2 X prev 0.202095 next 0.504105 clip False
+2019-04-28 00:40:30,563 #3 X prev 0.504105 next 0.964200 clip False
+2019-04-28 00:40:30,834 #1 Y prev 0.045941 next 0.210351 clip False
+2019-04-28 00:40:30,903 #2 Y prev 0.210351 next 0.520899 clip False
+2019-04-28 00:40:30,970 #3 Y prev 0.520899 next 1.000000 clip False
+2019-04-28 00:40:31,240 #1 Z prev 0.038082 next 0.172213 clip False
+2019-04-28 00:40:31,308 #2 Z prev 0.172213 next 0.432084 clip False
+2019-04-28 00:40:31,384 #3 Z prev 0.432084 next 0.824900 clip False
+2019-04-28 00:40:33,046 cLUT input curve segments: 33
+2019-04-28 00:40:33,055 #1 X prev 0.000432 next 0.001903 clip False
+2019-04-28 00:40:33,069 #2 X prev 0.001903 next 0.004732 clip False
+2019-04-28 00:40:33,076 #3 X prev 0.004732 next 0.009207 clip False
+2019-04-28 00:40:33,084 #4 X prev 0.009207 next 0.015172 clip False
+2019-04-28 00:40:33,091 #5 X prev 0.015172 next 0.022860 clip False
+2019-04-28 00:40:33,101 #6 X prev 0.022860 next 0.032663 clip False
+2019-04-28 00:40:33,108 #7 X prev 0.032663 next 0.044773 clip False
+2019-04-28 00:40:33,114 #8 X prev 0.044773 next 0.057369 clip False
+2019-04-28 00:40:33,121 #9 X prev 0.057369 next 0.071209 clip False
+2019-04-28 00:40:33,131 #10 X prev 0.071209 next 0.085731 clip False
+2019-04-28 00:40:33,142 #11 X prev 0.085731 next 0.103313 clip False
+2019-04-28 00:40:33,153 #12 X prev 0.103313 next 0.123988 clip False
+2019-04-28 00:40:33,161 #13 X prev 0.123988 next 0.146364 clip False
+2019-04-28 00:40:33,170 #14 X prev 0.146364 next 0.172880 clip False
+2019-04-28 00:40:33,177 #15 X prev 0.172880 next 0.202095 clip False
+2019-04-28 00:40:33,184 #16 X prev 0.202095 next 0.232205 clip False
+2019-04-28 00:40:33,193 #17 X prev 0.232205 next 0.265252 clip False
+2019-04-28 00:40:33,200 #18 X prev 0.265252 next 0.297994 clip False
+2019-04-28 00:40:33,214 #19 X prev 0.297994 next 0.334794 clip False
+2019-04-28 00:40:33,223 #20 X prev 0.334794 next 0.374248 clip False
+2019-04-28 00:40:33,229 #21 X prev 0.374248 next 0.414315 clip False
+2019-04-28 00:40:33,236 #22 X prev 0.414315 next 0.456898 clip False
+2019-04-28 00:40:33,244 #23 X prev 0.456898 next 0.504105 clip False
+2019-04-28 00:40:33,252 #24 X prev 0.504105 next 0.551174 clip False
+2019-04-28 00:40:33,263 #25 X prev 0.551174 next 0.600865 clip False
+2019-04-28 00:40:33,270 #26 X prev 0.600865 next 0.654363 clip False
+2019-04-28 00:40:33,279 #27 X prev 0.654363 next 0.711777 clip False
+2019-04-28 00:40:33,296 #28 X prev 0.711777 next 0.770712 clip False
+2019-04-28 00:40:33,303 #29 X prev 0.770712 next 0.831191 clip False
+2019-04-28 00:40:33,313 #30 X prev 0.831191 next 0.895080 clip False
+2019-04-28 00:40:33,322 #31 X prev 0.895080 next 0.964200 clip False
+2019-04-28 00:40:33,477 #1 Y prev 0.000465 next 0.001945 clip False
+2019-04-28 00:40:33,483 #2 Y prev 0.001945 next 0.004875 clip False
+2019-04-28 00:40:33,490 #3 Y prev 0.004875 next 0.009437 clip False
+2019-04-28 00:40:33,500 #4 Y prev 0.009437 next 0.015473 clip False
+2019-04-28 00:40:33,506 #5 Y prev 0.015473 next 0.023436 clip False
+2019-04-28 00:40:33,516 #6 Y prev 0.023436 next 0.033634 clip False
+2019-04-28 00:40:33,529 #7 Y prev 0.033634 next 0.045941 clip False
+2019-04-28 00:40:33,536 #8 Y prev 0.045941 next 0.059245 clip False
+2019-04-28 00:40:33,545 #9 Y prev 0.059245 next 0.073812 clip False
+2019-04-28 00:40:33,551 #10 Y prev 0.073812 next 0.088799 clip False
+2019-04-28 00:40:33,559 #11 Y prev 0.088799 next 0.107293 clip False
+2019-04-28 00:40:33,569 #12 Y prev 0.107293 next 0.128722 clip False
+2019-04-28 00:40:33,576 #13 Y prev 0.128722 next 0.152031 clip False
+2019-04-28 00:40:33,584 #14 Y prev 0.152031 next 0.180462 clip False
+2019-04-28 00:40:33,594 #15 Y prev 0.180462 next 0.210351 clip False
+2019-04-28 00:40:33,608 #16 Y prev 0.210351 next 0.241294 clip False
+2019-04-28 00:40:33,618 #17 Y prev 0.241294 next 0.275537 clip False
+2019-04-28 00:40:33,631 #18 Y prev 0.275537 next 0.308941 clip False
+2019-04-28 00:40:33,638 #19 Y prev 0.308941 next 0.346842 clip False
+2019-04-28 00:40:33,650 #20 Y prev 0.346842 next 0.387803 clip False
+2019-04-28 00:40:33,657 #21 Y prev 0.387803 next 0.428939 clip False
+2019-04-28 00:40:33,670 #22 Y prev 0.428939 next 0.472150 clip False
+2019-04-28 00:40:33,683 #23 Y prev 0.472150 next 0.520899 clip False
+2019-04-28 00:40:33,694 #24 Y prev 0.520899 next 0.571622 clip False
+2019-04-28 00:40:33,700 #25 Y prev 0.571622 next 0.623077 clip False
+2019-04-28 00:40:33,709 #26 Y prev 0.623077 next 0.678154 clip False
+2019-04-28 00:40:33,717 #27 Y prev 0.678154 next 0.737227 clip False
+2019-04-28 00:40:33,726 #28 Y prev 0.737227 next 0.798527 clip False
+2019-04-28 00:40:33,733 #29 Y prev 0.798527 next 0.861987 clip False
+2019-04-28 00:40:33,740 #30 Y prev 0.861987 next 0.928808 clip False
+2019-04-28 00:40:33,747 #31 Y prev 0.928808 next 1.000000 clip False
+2019-04-28 00:40:33,898 #1 Z prev 0.000371 next 0.001772 clip False
+2019-04-28 00:40:33,904 #2 Z prev 0.001772 next 0.004241 clip False
+2019-04-28 00:40:33,917 #3 Z prev 0.004241 next 0.008151 clip False
+2019-04-28 00:40:33,924 #4 Z prev 0.008151 next 0.013308 clip False
+2019-04-28 00:40:33,934 #5 Z prev 0.013308 next 0.020276 clip False
+2019-04-28 00:40:33,940 #6 Z prev 0.020276 next 0.027942 clip False
+2019-04-28 00:40:33,947 #7 Z prev 0.027942 next 0.038082 clip False
+2019-04-28 00:40:33,954 #8 Z prev 0.038082 next 0.048535 clip False
+2019-04-28 00:40:33,961 #9 Z prev 0.048535 next 0.060804 clip False
+2019-04-28 00:40:33,970 #10 Z prev 0.060804 next 0.073784 clip False
+2019-04-28 00:40:33,980 #11 Z prev 0.073784 next 0.088947 clip False
+2019-04-28 00:40:33,987 #12 Z prev 0.088947 next 0.106229 clip False
+2019-04-28 00:40:34,000 #13 Z prev 0.106229 next 0.125404 clip False
+2019-04-28 00:40:34,009 #14 Z prev 0.125404 next 0.147699 clip False
+2019-04-28 00:40:34,016 #15 Z prev 0.147699 next 0.172213 clip False
+2019-04-28 00:40:34,022 #16 Z prev 0.172213 next 0.198795 clip False
+2019-04-28 00:40:34,029 #17 Z prev 0.198795 next 0.227543 clip False
+2019-04-28 00:40:34,036 #18 Z prev 0.227543 next 0.256074 clip False
+2019-04-28 00:40:34,045 #19 Z prev 0.256074 next 0.287324 clip False
+2019-04-28 00:40:34,052 #20 Z prev 0.287324 next 0.321057 clip False
+2019-04-28 00:40:34,059 #21 Z prev 0.321057 next 0.355558 clip False
+2019-04-28 00:40:34,073 #22 Z prev 0.355558 next 0.391950 clip False
+2019-04-28 00:40:34,079 #23 Z prev 0.391950 next 0.432084 clip False
+2019-04-28 00:40:34,091 #24 Z prev 0.432084 next 0.471953 clip False
+2019-04-28 00:40:34,098 #25 Z prev 0.471953 next 0.513673 clip False
+2019-04-28 00:40:34,105 #26 Z prev 0.513673 next 0.561352 clip False
+2019-04-28 00:40:34,112 #27 Z prev 0.561352 next 0.608444 clip False
+2019-04-28 00:40:34,118 #28 Z prev 0.608444 next 0.658357 clip False
+2019-04-28 00:40:34,125 #29 Z prev 0.658357 next 0.711927 clip False
+2019-04-28 00:40:34,131 #30 Z prev 0.711927 next 0.767684 clip False
+2019-04-28 00:40:34,140 #31 Z prev 0.767684 next 0.824900 clip False
+2019-04-28 00:40:34,407 Final interpolated cLUT resolution 33x33x33
+2019-04-28 00:40:34,420 --------------------------------------------------------------------------------
+2019-04-28 00:40:34,421 Creating matrix from primaries
+2019-04-28 00:40:34,421 Using chromatic adaptation transform matrix: Bradford
+2019-04-28 00:40:34,605 --------------------------------------------------------------------------------
+2019-04-28 00:40:34,605 Generating A2B1 by copying A2B0
+2019-04-28 00:40:34,608 Generating B2A1 table by inverting A2B1 table
+2019-04-28 00:40:34,608 
+2019-04-28 00:40:34,609 Using chromatic adaptation transform matrix: Bradford
+2019-04-28 00:40:34,688 Black XYZ: 0.0006 0.0006 0.0005
+2019-04-28 00:40:34,690 White XYZ: 0.9642 1.0000 0.8249
+2019-04-28 00:40:34,690 R XYZ: 0.4391 0.2304 0.0058
+2019-04-28 00:40:34,690 G XYZ: 0.3825 0.7081 0.0988
+2019-04-28 00:40:34,690 B XYZ: 0.1470 0.0594 0.7176
+2019-04-28 00:40:34,691 Generating input curve PCS values...
+2019-04-28 00:40:34,724 Looking up input curve RGB values...
+2019-04-28 00:40:35,404 Setting curve entry #0 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,404 Setting curve entry #1 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,404 Setting curve entry #2 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,404 Setting curve entry #3 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,405 Setting curve entry #4 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,405 Setting curve entry #5 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,407 Setting curve entry #6 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,407 Setting curve entry #7 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,407 Setting curve entry #8 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,407 Setting curve entry #9 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,407 Setting curve entry #10 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,408 Setting curve entry #11 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,408 Setting curve entry #12 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,410 Setting curve entry #13 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,410 Setting curve entry #14 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,411 Setting curve entry #15 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,411 Setting curve entry #16 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,411 Setting curve entry #17 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,411 Setting curve entry #18 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,411 Setting curve entry #19 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,413 Setting curve entry #20 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,413 Setting curve entry #21 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,414 Setting curve entry #22 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:40:35,417 Setting curve entry #4095 (1.000000 0.999996 1.000000) to white because it got clipped
+2019-04-28 00:40:35,420 Setting up matrix
+2019-04-28 00:40:35,421 Increasing saturation of actual primaries for PCS candidate to 104%...
+2019-04-28 00:40:35,424 R xy 0.650203 0.341166 -> 0.662383 0.340471
+2019-04-28 00:40:35,427 G xy 0.321582 0.595361 -> 0.320617 0.604834
+2019-04-28 00:40:35,427 B xy 0.159131 0.064273 -> 0.151668 0.052503
+2019-04-28 00:40:35,428 Checking for suitable PCS candidate...
+2019-04-28 00:40:35,430 PCS candidate based on actual primaries fit: 1.00 (area: 92.46%)
+2019-04-28 00:40:35,430 Using primaries: PCS candidate based on actual primaries
+2019-04-28 00:40:35,433 Using R XYZ: 0.4390 0.2256 -0.0019
+2019-04-28 00:40:35,434 Using G XYZ: 0.3847 0.7257 0.0894
+2019-04-28 00:40:35,434 Using B XYZ: 0.1405 0.0486 0.7373
+2019-04-28 00:40:35,436 R+G+B XYZ: 0.9642 1.0000 0.8249
+2019-04-28 00:40:35,437 Correction factors: 1.0000 1.0000 1.0000
+2019-04-28 00:40:35,437 Matrix 1:
+2019-04-28 00:40:35,438 [3.0860986569404805, -1.5762366883445584, -0.48415521478658213]
+2019-04-28 00:40:35,440 [-0.9679434659152374, 1.8836306586132225, 0.06020175927051696]
+2019-04-28 00:40:35,440 [0.1253405652880315, -0.23255143871340891, 1.347676161550114]
+2019-04-28 00:40:35,441 Matrix 2:
+2019-04-28 00:40:35,443 [3.0860564960558206, -1.5762151545115215, -0.48414860047691893]
+2019-04-28 00:40:35,444 [-0.967946738801146, 1.883637027692055, 0.060201962829398756]
+2019-04-28 00:40:35,444 [0.12534218559976665, -0.23255444496939878, 1.3476935833280894]
+2019-04-28 00:40:35,447 Matrix 3:
+2019-04-28 00:40:35,447 [1.999969482421875, 0, 0]
+2019-04-28 00:40:35,448 [0, 1.999969482421875, 0]
+2019-04-28 00:40:35,450 [0, 0, 1.999969482421875]
+2019-04-28 00:40:35,450 Final matrix:
+2019-04-28 00:40:35,451 [6.172018813141425, -3.1523822067539236, -0.9682824259110987]
+2019-04-28 00:40:35,453 [-1.93586393821207, 3.7672165713439583, 0.12040208844069358]
+2019-04-28 00:40:35,453 [0.2506805460595919, -0.4651017929403549, 2.695346038311961]
+2019-04-28 00:40:35,454 Applying matrix to input curve XYZ values...
+2019-04-28 00:40:35,474 Generating input curves...
+2019-04-28 00:40:43,259 100%
+2019-04-28 00:40:43,301 Generating A2B1 table lookup input values...
+2019-04-28 00:40:43,302 cLUT grid res: 33
+2019-04-28 00:40:43,302 Looking up input values through A2B1 table (3 workers)...
+2019-04-28 00:40:43,305 Using CAM Jab for clipping
+2019-04-28 00:41:27,447 100%
+2019-04-28 00:41:27,447 Input black XYZ: 0.000595 0.000595 0.000506
+2019-04-28 00:41:27,448 Input white XYZ: 0.964200 1.000000 0.824900
+2019-04-28 00:41:27,529 Output black RGB: 0.0000 0.0000 0.0000
+2019-04-28 00:41:27,529 Output white RGB: 99.9998 100.0000 100.0000
+2019-04-28 00:41:27,559 Filling cLUT...
+2019-04-28 00:41:27,763 100%
+2019-04-28 00:41:27,987 Smoothing B2A1...
+2019-04-28 00:41:29,657 Generating B2A0 table by inverting A2B0 table
+2019-04-28 00:41:29,657 
+2019-04-28 00:41:29,658 Using chromatic adaptation transform matrix: Bradford
+2019-04-28 00:41:29,734 Black XYZ: 0.0006 0.0006 0.0005
+2019-04-28 00:41:29,736 White XYZ: 0.9642 1.0000 0.8249
+2019-04-28 00:41:29,736 R XYZ: 0.4391 0.2304 0.0058
+2019-04-28 00:41:29,736 G XYZ: 0.3825 0.7081 0.0988
+2019-04-28 00:41:29,737 B XYZ: 0.1470 0.0594 0.7176
+2019-04-28 00:41:29,739 Generating input curve PCS values...
+2019-04-28 00:41:29,762 Applying BPC to input curve PCS values...
+2019-04-28 00:41:29,921 Looking up input curve RGB values...
+2019-04-28 00:41:30,595 Setting curve entry #0 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-28 00:41:30,599 Setting curve entry #4095 (1.000000 0.999996 1.000000) to white because it got clipped
+2019-04-28 00:41:30,604 Applying matrix to input curve XYZ values...
+2019-04-28 00:41:30,630 Generating input curves...
+2019-04-28 00:41:40,621 100%
+2019-04-28 00:41:41,263 --------------------------------------------------------------------------------
+2019-04-28 00:41:41,263 Creating shaper tags in separate step
+2019-04-28 00:41:41,263 Using chromatic adaptation transform matrix: Bradford
+2019-04-28 00:41:41,453 --------------------------------------------------------------------------------
+2019-04-28 00:41:41,453 Adding rTRC from inverse backward B2A0 lookup to Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:41:41,453 Adding gTRC from inverse backward B2A0 lookup to Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:41:41,454 Adding bTRC from inverse backward B2A0 lookup to Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:41:41,460 --------------------------------------------------------------------------------
+2019-04-28 00:41:41,460 Applying black point compensation to rTRC
+2019-04-28 00:41:41,461 Applying black point compensation to gTRC
+2019-04-28 00:41:41,463 Applying black point compensation to bTRC
+2019-04-28 00:41:42,085 --------------------------------------------------------------------------------
+2019-04-28 00:41:42,085 Session log: Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:41:42,085 
+2019-04-28 00:41:42,085 工作目录：
+2019-04-28 00:41:42,086   c:\
+2019-04-28 00:41:42,086    users\
+2019-04-28 00:41:42,086     tang-\
+2019-04-28 00:41:42,088      appdata\
+2019-04-28 00:41:42,088       local\
+2019-04-28 00:41:42,088        temp\
+2019-04-28 00:41:42,088         DisplayCAL-p_thsz\
+2019-04-28 00:41:42,089 
+2019-04-28 00:41:42,089 命令行：
+2019-04-28 00:41:42,091   D:\Program Files\Argyll_V2.1.0\bin\profcheck.exe
+2019-04-28 00:41:42,091     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.ti3"
+2019-04-28 00:41:42,092     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-04-28 00:41:42,092 
+2019-04-28 00:41:42,128 Profile check complete, errors: max. = 0.919839, avg. = 0.095092, RMS = 0.200504
+2019-04-28 00:41:42,128 --------------------------------------------------------------------------------
+2019-04-28 00:41:42,130 生成色域视图...
+2019-04-28 00:41:42,882 --------------------------------------------------------------------------------
+2019-04-28 00:41:42,884 Session log: Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX
+2019-04-28 00:41:42,884 
+2019-04-28 00:41:42,884 工作目录：
+2019-04-28 00:41:42,885   c:\
+2019-04-28 00:41:42,887    users\
+2019-04-28 00:41:42,888     tang-\
+2019-04-28 00:41:42,888      appdata\
+2019-04-28 00:41:42,888       local\
+2019-04-28 00:41:42,890        temp\
+2019-04-28 00:41:42,890         DisplayCAL-p_thsz\
+2019-04-28 00:41:42,891 
+2019-04-28 00:41:42,891 命令行：
+2019-04-28 00:41:42,891   D:\Program Files\Argyll_V2.1.0\bin\iccgamut.exe
+2019-04-28 00:41:42,892     -v
+2019-04-28 00:41:42,894     -w
+2019-04-28 00:41:42,894     -ir
+2019-04-28 00:41:42,895     -ff
+2019-04-28 00:41:42,897     -on
+2019-04-28 00:41:42,898     -d10.00
+2019-04-28 00:41:42,901     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-04-28 00:41:42,904 
+2019-04-28 00:41:43,671 Header:
+2019-04-28 00:41:43,673   size         = 715504 bytes
+2019-04-28 00:41:43,673   CMM          = 'argl'
+2019-04-28 00:41:43,673   Version      = 2.2.0
+2019-04-28 00:41:43,673   Device Class = Display
+2019-04-28 00:41:43,673   Color Space  = RGB
+2019-04-28 00:41:43,673   Conn. Space  = XYZ
+2019-04-28 00:41:43,673   Date, Time   = 28 Apr 2019, 0:40:30
+2019-04-28 00:41:43,673   Platform     = Microsoft
+2019-04-28 00:41:43,673   Flags        = Not Embedded Profile, Use anywhere
+2019-04-28 00:41:43,674   Dev. Mnfctr. = 0x0
+2019-04-28 00:41:43,674   Dev. Model   = 0x0
+2019-04-28 00:41:43,674   Dev. Attrbts = Reflective, Glossy, Positive, Color
+2019-04-28 00:41:43,674   Rndrng Intnt = Perceptual
+2019-04-28 00:41:43,674   Illuminant   = 0.96420288, 1.00000000, 0.82490540    [Lab 100.000000, 0.000000, 0.000000]
+2019-04-28 00:41:43,674   Creator      = 'DCAL'
+2019-04-28 00:41:43,674 
+2019-04-28 00:41:43,674 Total volume of gamut is 861926.588122 cubic colorspace units
+2019-04-28 00:41:46,967 --------------------------------------------------------------------------------
+2019-04-28 00:41:46,967 命令行：
+2019-04-28 00:41:46,969   D:\Program Files\Argyll_V2.1.0\bin\viewgam.exe
+2019-04-28 00:41:46,970     -cw
+2019-04-28 00:41:46,970     -t0
+2019-04-28 00:41:46,970     -w
+2019-04-28 00:41:46,971     "C:\Program Files (x86)\DisplayCAL\ref\sRGB.gam"
+2019-04-28 00:41:46,971     -cn
+2019-04-28 00:41:46,973     -t.3
+2019-04-28 00:41:46,973     -s
+2019-04-28 00:41:46,974     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-04-28 00:41:46,976     -i
+2019-04-28 00:41:46,976     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX vs sRGB.wrl"
+2019-04-28 00:41:46,980 
+2019-04-28 00:41:46,980 Intersecting volume = 823521.3 cubic units
+2019-04-28 00:41:46,980 'C:\Program Files (x86)\DisplayCAL\ref\sRGB.gam' volume = 833675.1 cubic units, intersect = 98.78%
+2019-04-28 00:41:46,980 'Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 861926.6 cubic units, intersect = 95.54%
+2019-04-28 00:41:46,982 --------------------------------------------------------------------------------
+2019-04-28 00:41:46,983 命令行：
+2019-04-28 00:41:46,983   D:\Program Files\Argyll_V2.1.0\bin\viewgam.exe
+2019-04-28 00:41:46,984     -cw
+2019-04-28 00:41:46,984     -t0
+2019-04-28 00:41:46,986     -w
+2019-04-28 00:41:46,986     "C:\Program Files (x86)\DisplayCAL\ref\ClayRGB1998.gam"
+2019-04-28 00:41:46,986     -cn
+2019-04-28 00:41:46,987     -t.3
+2019-04-28 00:41:46,987     -s
+2019-04-28 00:41:46,987     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-04-28 00:41:46,989     -i
+2019-04-28 00:41:46,989     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX vs ClayRGB1998.wrl"
+2019-04-28 00:41:46,990 
+2019-04-28 00:41:46,990 Intersecting volume = 847108.6 cubic units
+2019-04-28 00:41:46,990 'C:\Program Files (x86)\DisplayCAL\ref\ClayRGB1998.gam' volume = 1209985.9 cubic units, intersect = 70.01%
+2019-04-28 00:41:46,990 'Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 861926.6 cubic units, intersect = 98.28%
+2019-04-28 00:41:46,990 --------------------------------------------------------------------------------
+2019-04-28 00:41:46,992 命令行：
+2019-04-28 00:41:46,992   D:\Program Files\Argyll_V2.1.0\bin\viewgam.exe
+2019-04-28 00:41:46,993     -cw
+2019-04-28 00:41:46,993     -t0
+2019-04-28 00:41:46,993     -w
+2019-04-28 00:41:46,994     "C:\Program Files (x86)\DisplayCAL\ref\SMPTE431_P3.gam"
+2019-04-28 00:41:46,996     -cn
+2019-04-28 00:41:46,996     -t.3
+2019-04-28 00:41:46,997     -s
+2019-04-28 00:41:46,997     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-04-28 00:41:46,999     -i
+2019-04-28 00:41:46,999     "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX vs SMPTE431_P3.wrl"
+2019-04-28 00:41:47,000 
+2019-04-28 00:41:47,000 Intersecting volume = 861084.4 cubic units
+2019-04-28 00:41:47,000 'C:\Program Files (x86)\DisplayCAL\ref\SMPTE431_P3.gam' volume = 1176953.5 cubic units, intersect = 73.16%
+2019-04-28 00:41:47,000 'Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 861926.6 cubic units, intersect = 99.90%
+2019-04-28 00:41:47,276 --------------------------------------------------------------------------------
+2019-04-28 00:41:52,913 Found display device matching model description at index #1
+2019-04-28 00:41:53,778 从文件中加载校准曲线...
+2019-04-28 00:41:53,778 C:\Users\tang-\AppData\Roaming\DisplayCAL\storage\Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX\Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-04-28 00:41:53,779 ...确定。
+2019-04-28 00:42:13,743 加载当前显示设备配置文件校准曲线...
+2019-04-28 00:42:13,743 ...确定。
+2019-04-28 00:42:29,625 Added 3 white patch(es)
+2019-04-28 00:42:34,285 --------------------------------------------------------------------------------
+2019-04-28 00:42:34,285 测量报告...
+2019-04-28 00:42:34,319 --------------------------------------------------------------------------------
+2019-04-28 00:42:34,321 Session log: Measurement Report 3.8 — Web @ localhost — 2019-04-28 00-42
+2019-04-28 00:42:34,321 
+2019-04-28 00:42:34,322 工作目录：
+2019-04-28 00:42:34,322   c:\
+2019-04-28 00:42:34,322    users\
+2019-04-28 00:42:34,322     tang-\
+2019-04-28 00:42:34,323      appdata\
+2019-04-28 00:42:34,323       local\
+2019-04-28 00:42:34,325        temp\
+2019-04-28 00:42:34,325         DisplayCAL-daprhx\
+2019-04-28 00:42:34,325 
+2019-04-28 00:42:34,325 命令行：
+2019-04-28 00:42:34,326   D:\Program Files\Argyll_V2.1.0\bin\dispread.exe
+2019-04-28 00:42:34,326     -v
+2019-04-28 00:42:34,328     -K
+2019-04-28 00:42:34,328     "C:\Program Files (x86)\DisplayCAL\linear.cal"
+2019-04-28 00:42:34,329     -dweb:8080
+2019-04-28 00:42:34,329     -c1
+2019-04-28 00:42:34,331     -yr
+2019-04-28 00:42:34,331     "Measurement Report 3.8 — Web @ localhost — 2019-04-28 00-42"
+2019-04-28 00:42:34,332 
+2019-04-28 00:42:35,094 DisplayCAL: Starting interaction with subprocess
+2019-04-28 00:42:35,105 Number of patches = 54
+2019-04-28 00:42:35,108 Setting up the instrument
+2019-04-28 00:42:36,124 Product Name:      i1Display3
+2019-04-28 00:42:36,125 Serial Number:     I1-17.B-02.285149.10
+2019-04-28 00:42:36,125 Firmware Version:  v2.28
+2019-04-28 00:42:36,127 Firmware Date:     29Jan14
+2019-04-28 00:42:36,151 Created web server at 'http://169.254.230.50:8080/', now waiting for browser to connect
+2019-04-28 00:42:38,831 Place instrument on test window.
+2019-04-28 00:42:38,832 DisplayCAL: Waiting for send buffer
+2019-04-28 00:42:41,569 DisplayCAL: Sending buffer: ' '
+2019-04-28 00:42:41,572 Hit Esc or Q to give up, any other key to continue:
+2019-04-28 00:42:44,427 Measured display update delay of 0 msec, using delay of 100 msec & 0 msec inst reaction
+2019-04-28 00:42:48,959 No distict refresh period
+2019-04-28 00:43:59,204 Patch 54 of 54
+2019-04-28 00:43:59,207 The instrument can be removed from the screen.
+2019-04-28 00:43:59,650 DisplayCAL: Reached EOF (OK)
+2019-04-28 00:43:59,651 Written 'Measurement Report 3.8 — Web @ localhost — 2019-04-28 00-42.ti3'
+2019-04-28 00:43:59,730 ...确定。
+2019-04-28 00:45:30,286 Found display device matching model description at index #0
+2019-04-28 00:45:44,240 Received query to end session
+2019-04-28 00:45:45,032 Can veto
+2019-04-28 00:45:45,032 Trying to close main top-level application window...
+2019-04-28 00:45:45,039 Main top-level application window processed close event
+2019-04-28 00:45:45,040 Received query to end session
+2019-04-28 00:45:45,040 Can veto
+2019-04-28 00:45:45,042 Received query to end session
+2019-04-28 00:45:45,042 Can veto
+2019-04-28 00:45:45,042 Received query to end session
+2019-04-28 00:45:45,042 Can veto
+2019-04-28 00:45:45,042 Received query to end session
+2019-04-28 00:45:45,042 Can veto
+2019-04-28 00:45:45,045 Ending session
+2019-04-28 00:45:45,045 Executing BaseApp.OnExit()
+2019-04-28 00:45:45,046 Running application exit handlers
+2019-04-28 00:45:45,052 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-28 00:45:45,273 ScriptingHost.ConnectionHandler exited
+2019-04-28 00:45:45,283 Exiting DisplayCAL
+2019-04-28 00:45:45,283 Calling sys.exit(0)
+2019-04-28 00:45:46,048 Ran application exit handlers
+2019-04-28 22:45:56,180 ================================================================================
+2019-04-28 22:45:56,186 DisplayCAL.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-28 22:45:56,219 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-28 22:45:56,219 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-28 22:45:56,219 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-28 22:45:56,227 Faulthandler 3.0
+2019-04-28 22:45:57,392 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-28 22:45:57,404 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-27'
+2019-04-28 22:45:57,496 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-28 22:45:57,496 Encoding: cp936
+2019-04-28 22:45:57,497 File system encoding: mbcs
+2019-04-28 22:45:58,040 正在启动...
+2019-04-28 22:45:58,388 声音模块: pyglet 1.2.2
+2019-04-28 22:46:00,421 枚举显示设备和通信端口...
+2019-04-28 22:46:00,424 D:\Program Files\Argyll_V2.1.0\bin
+2019-04-28 22:46:02,506 ArgyllCMS 2.1.0
+2019-04-28 22:46:02,507 Argyll has virtual display support
+2019-04-28 22:46:02,507 ...确定。
+2019-04-28 22:46:02,736 检查显示器 1 的视频卡伽玛表访问...
+2019-04-28 22:46:03,296 Verify: 'test.cal' IS loaded (discrepancy 0.0%)
+2019-04-28 22:46:03,615 ...确定。
+2019-04-28 22:46:03,615 图形用户界面初始化...
+2019-04-28 22:46:04,457 
+2019-04-28 22:46:09,617 ...确定。
+2019-04-28 22:46:09,628 准备就绪。
+2019-04-28 22:46:09,963 配置脚本主机为 127.0.0.1:51459
+2019-04-28 22:46:10,431 检查更新...
+2019-04-28 22:46:11,342 DisplayCAL 已是最新版本。
+2019-04-28 22:46:12,096 ArgyllCMS 已是最新版本。
+2019-04-28 22:51:14,167 Executing BaseApp.OnExit()
+2019-04-28 22:51:14,168 Running application exit handlers
+2019-04-28 22:51:14,186 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-04-28 22:51:14,200 ScriptingHost.ConnectionHandler exited
+2019-04-28 22:51:14,201 Exiting DisplayCAL
+2019-04-28 22:51:14,510 Ran application exit handlers
