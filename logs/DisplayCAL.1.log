@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2019-05-01 13:24:37,395 Exiting worker process NonDaemonicPoolWorker-7
 2019-05-01 13:24:38,062 Exiting worker process NonDaemonicPoolWorker-5
 2019-05-01 13:24:38,704 Exiting worker process NonDaemonicPoolWorker-6
@@ -2116,3 +2117,14 @@
 2019-05-01 18:32:31,506 Exiting worker process NonDaemonicPoolWorker-31
 2019-05-01 18:32:49,723 Exiting worker process NonDaemonicPoolWorker-33
 2019-05-01 18:32:49,851 Exiting worker process NonDaemonicPoolWorker-34
+=======
+2019-04-28 00:40:51,494 Exiting worker process NonDaemonicPoolWorker-4
+2019-04-28 00:40:54,229 Exiting worker process NonDaemonicPoolWorker-3
+2019-04-28 00:41:01,994 Exiting worker process NonDaemonicPoolWorker-4
+2019-04-28 00:41:07,151 Exiting worker process NonDaemonicPoolWorker-2
+2019-04-28 00:41:07,176 Exiting worker process NonDaemonicPoolWorker-3
+2019-04-28 00:41:13,355 Exiting worker process NonDaemonicPoolWorker-4
+2019-04-28 00:41:21,194 Exiting worker process NonDaemonicPoolWorker-3
+2019-04-28 00:41:21,374 Exiting worker process NonDaemonicPoolWorker-2
+2019-04-28 00:41:27,359 Exiting worker process NonDaemonicPoolWorker-4
+>>>>>>> refs/remotes/origin/master

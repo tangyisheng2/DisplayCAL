@@ -1,0 +1,17 @@
+2019-04-27 22:00:20,596 ================================================================================
+2019-04-27 22:00:20,598 DisplayCAL-3DLUT-maker.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-04-27 22:00:20,609 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-04-27 22:00:20,611 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-04-27 22:00:20,611 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-04-27 22:00:20,612 Faulthandler 3.0
+2019-04-27 22:00:21,365 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-04-27 22:00:21,404 Creating writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-3DLUT-maker-27'
+2019-04-27 22:00:21,413 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-3DLUT-maker-27'
+2019-04-27 22:00:21,431 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-04-27 22:00:21,434 Encoding: cp936
+2019-04-27 22:00:21,434 File system encoding: mbcs
+2019-04-27 22:00:22,209 配置脚本主机为 127.0.0.1:49708
+2019-04-27 22:00:37,497 Executing BaseApp.OnExit()
+2019-04-27 22:00:37,497 Running application exit handlers
+2019-04-27 22:00:37,500 Exiting DisplayCAL-3DLUT-maker
+2019-04-27 22:00:37,500 Ran application exit handlers

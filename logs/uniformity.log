@@ -1,0 +1,19 @@
+2019-04-27 21:47:38,973 --------------------------------------------------------------------------------
+2019-04-27 21:47:39,721 'Connecting to the instrument ..\n'
+2019-04-27 21:47:40,723 'Product Name:      i1Display3\nSerial Number:     I1-17.B-02.285149.10\nFirmware Version:  v2.28\nFirmware Date:     29Jan14\n'
+2019-04-27 21:47:40,732 "Please read an 80% white Patch first to calibrate refresh frequency\nInit instrument success !\n\nPlace instrument on spot to be measured,\nand hit [A-Z] to read white and setup FWA compensation (keyed to letter)\n[a-z] to read and make FWA compensated reading from keyed reference\n'r' to set reference, 's' to save spectrum,\n'f' to report cal. refresh rate, 'F' to measure refresh rate\n'h' to toggle high res., 'k' to do a calibration\nHit ESC or Q to exit, any other key to take a reading:"
+2019-04-27 21:47:47,762 '\n'
+2019-04-27 21:47:51,384 'No distict refresh period\n'
+2019-04-27 21:47:51,799 '\n Result is XYZ: 223.955234 241.097204 270.331228, D50 Lab: 139.544758 -8.284440 -28.890675\n                           CCT = 6971K (Duv 0.0068)\n'
+2019-04-27 21:47:51,811 " Closest Planckian temperature = 6586K (DE2K 8.4)\n Closest Daylight temperature  = 6759K (DE2K 4.9)\n\nPlace instrument on spot to be measured,\nand hit [A-Z] to read white and setup FWA compensation (keyed to letter)\n[a-z] to read and make FWA compensated reading from keyed reference\n'r' to set reference, 's' to save spectrum,\n'f' to report cal. refresh rate, 'F' to measure refresh rate\n'h' to toggle high res., 'k' to do a calibration\nHit ESC or Q to exit, any other key to take a reading:"
+2019-04-27 21:47:52,204 '\n'
+2019-04-27 21:47:52,621 '\n Result is XYZ: 108.613476 116.333499 133.767656, D50 Lab: 105.999931 -5.616151 -24.625238\n                           CCT = 7119K (Duv 0.0059)\n'
+2019-04-27 21:47:52,635 " Closest Planckian temperature = 6755K (DE2K 7.5)\n Closest Daylight temperature  = 6944K (DE2K 3.8)\n\nPlace instrument on spot to be measured,\nand hit [A-Z] to read white and setup FWA compensation (keyed to letter)\n[a-z] to read and make FWA compensated reading from keyed reference\n'r' to set reference, 's' to save spectrum,\n'f' to report cal. refresh rate, 'F' to measure refresh rate\n'h' to toggle high res., 'k' to do a calibration\nHit ESC or Q to exit, any other key to take a reading:"
+2019-04-27 21:47:53,026 '\n'
+2019-04-27 21:47:53,446 '\n Result is XYZ: 41.563183 44.414090 51.444317, D50 Lab: 72.504410 -3.781792 -18.279571\n                           CCT = 7154K (Duv 0.0056)\n Closest Planckian temperature = 6806K (DE2K 7.1)\n'
+2019-04-27 21:47:53,460 " Closest Daylight temperature  = 7001K (DE2K 3.3)\n\nPlace instrument on spot to be measured,\nand hit [A-Z] to read white and setup FWA compensation (keyed to letter)\n[a-z] to read and make FWA compensated reading from keyed reference\n'r' to set reference, 's' to save spectrum,\n'f' to report cal. refresh rate, 'F' to measure refresh rate\n'h' to toggle high res., 'k' to do a calibration\nHit ESC or Q to exit, any other key to take a reading:"
+2019-04-27 21:47:53,849 '\n'
+2019-04-27 21:47:54,789 '\n Result is XYZ: 9.092835 9.770047 11.342917, D50 Lab: 37.426519 -2.699969 -11.114743\n                           CCT = 7238K (Duv 0.0064)\n Closest Planckian temperature = 6830K (DE2K 8.0)\n Closest Daylight temperature  = 7023K (DE2K 4.5)\n'
+2019-04-27 21:47:54,805 "\nPlace instrument on spot to be measured,\nand hit [A-Z] to read white and setup FWA compensation (keyed to letter)\n[a-z] to read and make FWA compensated reading from keyed reference\n'r' to set reference, 's' to save spectrum,\n'f' to report cal. refresh rate, 'F' to measure refresh rate\n'h' to toggle high res., 'k' to do a calibration\nHit ESC or Q to exit, any other key to take a reading:"
+2019-04-27 21:47:59,010 '\n\nSpot read stopped at user request!\nHit Esc or Q to give up, any other key to retry:'
+2019-04-27 21:47:59,427 '\n'

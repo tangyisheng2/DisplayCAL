@@ -1,0 +1,90 @@
+22:53:05,701 --------------------------------------------------------------------------------
+22:53:05,703 未校准显示设备报告
+22:53:07,164 --------------------------------------------------------------------------------
+22:53:07,165 命令行：
+22:53:07,167   D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe
+22:53:07,167     -v2
+22:53:07,168     -d1
+22:53:07,168     -c1
+22:53:07,170     -yr
+22:53:07,171     "-P0.500395256917,0.501176470588,1.0"
+22:53:07,171     -Iw
+22:53:07,173     -R
+22:53:07,173 
+22:53:07,901 DisplayCAL: Starting interaction with subprocess
+22:53:07,904 Setting up the instrument
+22:53:08,950 Product Name:      i1Display3
+22:53:08,951 Serial Number:     I1-17.B-02.285149.10
+22:53:08,953 Firmware Version:  v2.28
+22:53:08,953 Firmware Date:     29Jan14
+22:53:09,236 Place instrument on test window.
+22:53:09,242 DisplayCAL: Waiting for send buffer
+22:53:10,743 DisplayCAL: Skipping place instrument on screen message...
+22:53:10,755 DisplayCAL: Sending buffer: ' '
+22:53:10,756 Hit Esc or Q to give up, any other key to continue:
+22:53:13,372 Measured display update delay of 60 msec, using delay of 180 msec & 0 msec     ↲
+             ↳ inst reaction
+22:53:17,842 No distict refresh period
+22:53:25,032 Patch 3 of 3
+22:53:25,032 
+22:53:35,740 Patch 17 of 17
+22:53:35,742 
+22:53:35,743 Uncalibrated response:
+22:53:35,749 Black level = 0.1603 cd/m^2
+22:53:35,750 50%   level = 46.19 cd/m^2
+22:53:35,750 White level = 250.67 cd/m^2
+22:53:35,750 Aprox. gamma = 2.44
+22:53:35,750 Contrast ratio = 1564:1
+22:53:35,752 White chromaticity coordinates 0.3019, 0.3269
+22:53:35,752 White    Correlated Color Temperature = 7139K, DE 2K to locus =  9.7
+22:53:35,753 White Correlated Daylight Temperature = 7136K, DE 2K to locus =  6.2
+22:53:35,753 White        Visual Color Temperature = 6684K, DE 2K to locus =  9.3
+22:53:35,753 White     Visual Daylight Temperature = 6861K, DE 2K to locus =  6.0
+22:53:35,753 Effective Video LUT entry depth seems to be 8 bits
+22:53:35,755 White drift was 0.000000 DE
+22:53:35,755 The instrument can be removed from the screen.
+22:53:35,993 DisplayCAL: Reached EOF (OK)
+22:53:45,577 ArgyllCMS 已是最新版本。
+22:53:48,328 AttributeError: 'NoneType' object has no attribute 'lower'
+22:54:03,530 --------------------------------------------------------------------------------
+22:54:03,530 未校准显示设备报告
+22:54:03,565 --------------------------------------------------------------------------------
+22:54:03,566 命令行：
+22:54:03,568   D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe
+22:54:03,569     -v2
+22:54:03,569     -d1
+22:54:03,571     -c1
+22:54:03,572     -yr
+22:54:03,572     "-P0.500395256917,0.501176470588,1.0"
+22:54:03,572     -R
+22:54:03,573 
+22:54:04,269 DisplayCAL: Starting interaction with subprocess
+22:54:04,273 Setting up the instrument
+22:54:05,316 Product Name:      i1Display3
+22:54:05,318 Serial Number:     I1-17.B-02.285149.10
+22:54:05,318 Firmware Version:  v2.28
+22:54:05,319 Firmware Date:     29Jan14
+22:54:05,604 Place instrument on test window.
+22:54:05,609 DisplayCAL: Waiting for send buffer
+22:54:07,101 DisplayCAL: Skipping place instrument on screen message...
+22:54:07,121 DisplayCAL: Sending buffer: ' '
+22:54:07,124 Hit Esc or Q to give up, any other key to continue:
+22:54:09,746 Measured display update delay of 61 msec, using delay of 181 msec & 0 msec     ↲
+             ↳ inst reaction
+22:54:14,211 No distict refresh period
+22:54:20,684 Patch 3 of 3
+22:54:31,392 Patch 17 of 17
+22:54:31,394 Uncalibrated response:
+22:54:31,394 Black level = 0.1590 cd/m^2
+22:54:31,397 50%   level = 46.15 cd/m^2
+22:54:31,398 White level = 250.56 cd/m^2
+22:54:31,398 Aprox. gamma = 2.44
+22:54:31,400 Contrast ratio = 1575:1
+22:54:31,401 White chromaticity coordinates 0.3019, 0.3268
+22:54:31,401 White    Correlated Color Temperature = 7139K, DE 2K to locus =  9.6
+22:54:31,401 White Correlated Daylight Temperature = 7136K, DE 2K to locus =  6.2
+22:54:31,408 White        Visual Color Temperature = 6685K, DE 2K to locus =  9.3
+22:54:31,411 White     Visual Daylight Temperature = 6861K, DE 2K to locus =  5.9
+22:54:31,411 Effective Video LUT entry depth seems to be 8 bits
+22:54:31,411 The instrument can be removed from the screen.
+22:54:31,644 DisplayCAL: Reached EOF (OK)

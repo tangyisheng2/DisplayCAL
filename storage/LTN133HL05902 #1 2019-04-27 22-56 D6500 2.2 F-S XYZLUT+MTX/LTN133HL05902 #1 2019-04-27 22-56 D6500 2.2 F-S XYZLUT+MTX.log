@@ -1,0 +1,625 @@
+2019-04-27 22:56:17,533 --------------------------------------------------------------------------------
+2019-04-27 22:56:17,536 工作目录：
+2019-04-27 22:56:17,538   c:\
+2019-04-27 22:56:17,539    users\
+2019-04-27 22:56:17,539     tang-\
+2019-04-27 22:56:17,540      appdata\
+2019-04-27 22:56:17,542       local\
+2019-04-27 22:56:17,542        temp\
+2019-04-27 22:56:17,543         DisplayCAL-olluma\
+2019-04-27 22:56:17,545 
+2019-04-27 22:56:17,546 命令行：
+2019-04-27 22:56:17,546   D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe
+2019-04-27 22:56:17,552     -v2
+2019-04-27 22:56:17,552     -d1
+2019-04-27 22:56:17,552     -c1
+2019-04-27 22:56:17,553     -yr
+2019-04-27 22:56:17,558     "-P0.500395256917,0.501176470588,1.0"
+2019-04-27 22:56:17,559     -Ibw
+2019-04-27 22:56:17,559     -ql
+2019-04-27 22:56:17,561     -t6500
+2019-04-27 22:56:17,562     -g2.2
+2019-04-27 22:56:17,562     -f1.0
+2019-04-27 22:56:17,563     -k0
+2019-04-27 22:56:17,565     -A4.0
+2019-04-27 22:56:17,565     -b
+2019-04-27 22:56:17,568     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-27 22:56:17,569 
+2019-04-27 22:56:18,252 DisplayCAL: Starting interaction with subprocess
+2019-04-27 22:56:18,278 Setting up the instrument
+2019-04-27 22:56:19,311 Product Name:      i1Display3
+2019-04-27 22:56:19,312 Serial Number:     I1-17.B-02.285149.10
+2019-04-27 22:56:19,312 Firmware Version:  v2.28
+2019-04-27 22:56:19,312 Firmware Date:     29Jan14
+2019-04-27 22:56:19,595 Place instrument on test window.
+2019-04-27 22:56:19,598 DisplayCAL: Waiting for send buffer
+2019-04-27 22:56:21,101 DisplayCAL: Skipping place instrument on screen message...
+2019-04-27 22:56:21,108 DisplayCAL: Sending buffer: ' '
+2019-04-27 22:56:21,115 Hit Esc or Q to give up, any other key to continue:
+2019-04-27 22:56:21,115 Display type is 'r'
+2019-04-27 22:56:21,115 Target white = 6500.000000 degrees kelvin Daylight spectrum
+2019-04-27 22:56:21,115 Target white brightness = native brightness
+2019-04-27 22:56:21,117 Target black brightness = native brightness
+2019-04-27 22:56:21,127 Black point device hack is enabled
+2019-04-27 22:56:21,128 Target advertised gamma = 2.200000
+2019-04-27 22:56:21,128 
+2019-04-27 22:56:21,128 Display adjustment menu:
+2019-04-27 22:56:21,130 Press 1 .. 7
+2019-04-27 22:56:21,131 1) Black level (CRT: Offset/Brightness)
+2019-04-27 22:56:21,131 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-27 22:56:21,134 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-27 22:56:21,135 4) Black point (R,G,B, Offset/Brightness)
+2019-04-27 22:56:21,137 5) Check all
+2019-04-27 22:56:21,137 6) Measure and set ambient for viewing condition adjustment
+2019-04-27 22:56:21,138 7) Continue on to calibration
+2019-04-27 22:56:21,138 8) Exit
+2019-04-27 22:56:21,144 DisplayCAL: Waiting for send buffer
+2019-04-27 22:56:22,151 DisplayCAL: Sending buffer: '2'
+2019-04-27 22:56:22,155 Doing some initial measurements
+2019-04-27 22:56:24,760 Measured display update delay of 36 msec, using delay of 148 msec & 0 msec inst reaction
+2019-04-27 22:56:29,203 No distict refresh period
+2019-04-27 22:56:33,790 Red   = XYZ 81.523 49.148 11.560
+2019-04-27 22:56:33,792 Green = XYZ 96.596 159.370 32.836
+2019-04-27 22:56:33,792 Blue  = XYZ 52.863 41.550 240.219
+2019-04-27 22:56:34,482 White = XYZ 231.345 250.483 284.716
+2019-04-27 22:56:34,483 
+2019-04-27 22:56:34,483 Adjust R,G & B gain to get target x,y. Press space when done.
+2019-04-27 22:56:34,483    Target Br 250.48, x 0.3128 , y 0.3292
+2019-04-27 22:56:36,730 DisplayCAL: Sending buffer: ' '
+2019-04-27 22:56:36,898 \ Current Br 250.48, x 0.3018+, y 0.3268+  DE  6.5  R++ G-  B-
+2019-04-27 22:56:36,907 
+2019-04-27 22:56:36,908 Press 1 .. 7
+2019-04-27 22:56:36,910 1) Black level (CRT: Offset/Brightness)
+2019-04-27 22:56:36,911 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-04-27 22:56:36,911 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-04-27 22:56:36,913 4) Black point (R,G,B, Offset/Brightness)
+2019-04-27 22:56:36,913 5) Check all
+2019-04-27 22:56:36,914 6) Measure and set ambient for viewing condition adjustment
+2019-04-27 22:56:36,914 7) Continue on to calibration
+2019-04-27 22:56:36,914 8) Exit
+2019-04-27 22:56:36,920 DisplayCAL: Waiting for send buffer
+2019-04-27 22:56:37,374 DisplayCAL: Sending buffer: '7'
+2019-04-27 22:56:37,378 Commencing display calibration
+2019-04-27 22:57:07,186 Patch 9 of 9
+2019-04-27 22:57:07,186 
+2019-04-27 22:57:07,193 Black = XYZ 0.1635 0.1604 0.3042
+2019-04-27 22:57:07,193 Red   = XYZ 81.525 49.148 11.573
+2019-04-27 22:57:07,194 Green = XYZ 96.596 159.370 32.836
+2019-04-27 22:57:07,194 Blue  = XYZ 52.870 41.529 240.123
+2019-04-27 22:57:07,194 White = XYZ 231.354 250.502 284.717
+2019-04-27 22:59:19,466 Patch 48 of 48
+2019-04-27 22:59:19,588 
+2019-04-27 22:59:19,589 Initial native brightness target = 250.501860 cd/m^2
+2019-04-27 22:59:19,596 Had to scale brightness from 250.501860 to 216.405338 to fit within gamut,
+2019-04-27 22:59:19,598 corresponding to aprox. RGB 1.000000 0.916083 0.896162
+2019-04-27 22:59:19,598 Target white value is XYZ 205.622234 216.405338 235.346558 [xy 0.312793 0.329197]
+2019-04-27 22:59:19,598 Adjusted target black XYZ 0.1635 0.1604 0.3042, Lab 0.669 0.210 -0.859
+2019-04-27 22:59:19,599 Target black after min adjust: XYZ 0.1635 0.1604 0.3042, Lab 0.669 0.210 -0.859
+2019-04-27 22:59:19,601 Gamma curve input offset = 0.000000, output offset = 0.000741, power = 2.203851
+2019-04-27 22:59:19,601 Total Iteration 2, Final Samples = 32 Final Repeat threshold = 0.900000
+2019-04-27 22:59:19,601 Creating initial calibration curves...
+2019-04-27 22:59:19,750 
+2019-04-27 22:59:19,750 Doing iteration 1/2 with 16 sample points and repeat threshold of 1.272792 DE
+2019-04-27 22:59:20,861 Patch 1 of 16 DE 1.937365, W.DE 1.937365, Repeat
+2019-04-27 22:59:21,470 Patch 1 of 16 DE 0.266536, W.DE 0.266536, OK ( < 1.272792)
+2019-04-27 22:59:22,608 Patch 2 of 16 DE 2.874194, W.DE 2.874194, Repeat
+2019-04-27 22:59:23,232 Patch 2 of 16 DE 0.710950, W.DE 0.710950, OK ( < 1.272792)
+2019-04-27 22:59:24,378 Patch 3 of 16 DE 2.900710, W.DE 2.900710, Repeat
+2019-04-27 22:59:25,015 Patch 3 of 16 DE 0.757524, W.DE 0.757524, OK ( < 1.272792)
+2019-04-27 22:59:26,157 Patch 4 of 16 DE 1.934099, W.DE 1.934099, Repeat
+2019-04-27 22:59:26,770 Patch 4 of 16 DE 0.769337, W.DE 0.769337, OK ( < 1.272792)
+2019-04-27 22:59:27,897 Patch 5 of 16 DE 1.129008, W.DE 1.129008, OK ( < 1.272792)
+2019-04-27 22:59:29,016 Patch 6 of 16 DE 1.806894, W.DE 1.806894, Repeat
+2019-04-27 22:59:29,640 Patch 6 of 16 DE 0.652317, W.DE 0.652317, OK ( < 1.272792)
+2019-04-27 22:59:30,776 Patch 7 of 16 DE 2.100980, W.DE 2.100980, Repeat
+2019-04-27 22:59:31,395 Patch 7 of 16 DE 0.527709, W.DE 0.527709, OK ( < 1.272792)
+2019-04-27 22:59:32,532 Patch 8 of 16 DE 2.330395, W.DE 2.330395, Repeat
+2019-04-27 22:59:33,160 Patch 8 of 16 DE 0.600774, W.DE 0.600774, OK ( < 1.272792)
+2019-04-27 22:59:34,789 Patch 9 of 16 DE 2.298063, W.DE 2.298063, Repeat
+2019-04-27 22:59:35,854 Patch 9 of 16 DE 0.662891, W.DE 0.662891, OK ( < 1.272792)
+2019-04-27 22:59:37,591 Patch 10 of 16 DE 1.475063, W.DE 1.475063, Repeat
+2019-04-27 22:59:38,779 Patch 10 of 16 DE 0.516168, W.DE 0.516168, OK ( < 1.272792)
+2019-04-27 22:59:40,753 Patch 11 of 16 DE 1.595040, W.DE 1.595040, Repeat
+2019-04-27 22:59:42,138 Patch 11 of 16 DE 1.094351, W.DE 1.094351, OK ( < 1.272792)
+2019-04-27 22:59:44,901 Patch 12 of 16 DE 3.323287, W.DE 3.323287, Repeat
+2019-04-27 22:59:52,826 Patch 12 of 16 DE 1.051763, W.DE 1.051763, OK ( < 1.272792)
+2019-04-27 22:59:56,460 Patch 13 of 16 DE 1.845226, W.DE 1.845226, Repeat
+2019-04-27 22:59:59,141 Patch 13 of 16 DE 0.634587, W.DE 0.634587, OK ( < 1.178749)
+2019-04-27 23:00:03,276 Patch 14 of 16 DE 0.445376, W.DE 0.445376, Repeat
+2019-04-27 23:00:07,019 Patch 14 of 16 DE 0.345067, W.DE 0.345067, Repeat
+2019-04-27 23:00:10,503 Patch 14 of 16 DE 0.265979, W.DE 0.265979, OK ( < 0.341195)
+2019-04-27 23:00:14,733 Patch 15 of 16 DE 0.086804, W.DE 17.366558, Repeat
+2019-04-27 23:00:29,997 Patch 15 of 16 DE 0.086508, W.DE 17.341224, Repeat
+2019-04-27 23:00:34,328 Patch 15 of 16 DE 0.054904, W.DE 0.054904, Repeat
+2019-04-27 23:00:38,223 Patch 15 of 16 DE 0.053250, W.DE 0.053250, Repeat
+2019-04-27 23:00:42,161 Patch 15 of 16 DE 0.053190, W.DE 11.331733, Repeat (got worse)
+2019-04-27 23:00:46,025 Patch 15 of 16 DE 0.052567, W.DE 11.254550, Repeat (got worse)
+2019-04-27 23:00:49,890 Patch 15 of 16 DE 0.049047, W.DE 0.049047, OK ( < 0.050000)
+2019-04-27 23:00:53,752 Patch 16 of 16 DE 0.120088, W.DE 120.088402, Repeat
+2019-04-27 23:01:03,765 Patch 16 of 16 DE 0.062792, W.DE 62.791876, Repeat
+2019-04-27 23:01:19,137 Patch 16 of 16 DE 0.062512, W.DE 62.512073, Repeat
+2019-04-27 23:01:23,546 Patch 16 of 16 DE 0.052669, W.DE 52.668621, Repeat
+2019-04-27 23:01:27,609 Patch 16 of 16 DE 0.021344, W.DE 21.344010, Repeat
+2019-04-27 23:01:31,618 Patch 16 of 16 DE 0.009067, W.DE 9.067412, Repeat
+2019-04-27 23:01:35,638 Patch 16 of 16 DE 0.008995, W.DE 8.995148, Repeat
+2019-04-27 23:01:39,654 Patch 16 of 16 DE 0.008772, W.DE 8.771551, Repeat
+2019-04-27 23:01:43,671 Patch 16 of 16 DE 0.008233, W.DE 8.233326, Repeat
+2019-04-27 23:01:47,691 Patch 16 of 16 DE 0.008233, W.DE 8.233326, Fail ( > 0.050000)
+2019-04-27 23:01:47,691 
+2019-04-27 23:01:47,693 Brightness error = -0.436156 cd/m^2 (is 215.969182, should be 216.405338)
+2019-04-27 23:01:47,694 White point error = 0.255044 deltaE
+2019-04-27 23:01:47,694 Maximum neutral error (@ 0.608811) = 1.128736 deltaE
+2019-04-27 23:01:47,694 Average neutral error = 0.606697 deltaE
+2019-04-27 23:01:47,697 Failed to meet target 1.272792 delta E, got worst case 8.233326
+2019-04-27 23:01:47,697 Number of measurements taken = 51
+2019-04-27 23:01:47,700 Computing update to calibration curves...
+2019-04-27 23:01:47,826 
+2019-04-27 23:01:47,826 Doing iteration 2/2 with 32 sample points and repeat threshold of 0.900000 DE
+2019-04-27 23:01:48,500 Patch 1 of 32 DE 0.244468, W.DE 0.244468, W.peqDE 0.244468, OK ( < 0.900000)
+2019-04-27 23:01:49,526 Patch 2 of 32 DE 0.330467, W.DE 0.330467, W.peqDE 0.493781, OK ( < 0.900000)
+2019-04-27 23:01:50,545 Patch 3 of 32 DE 1.258557, W.DE 1.258557, peqDE 1.130612, Repeat
+2019-04-27 23:01:51,319 Patch 3 of 32 DE 0.916646, W.DE 0.916646, peqDE 1.027866, Repeat
+2019-04-27 23:01:52,078 Patch 3 of 32 DE 0.300460, W.DE 0.300460, W.peqDE 0.511782, OK ( < 0.900000)
+2019-04-27 23:01:53,085 Patch 4 of 32 DE 0.166994, W.DE 0.166994, W.peqDE 0.451748, OK ( < 0.900000)
+2019-04-27 23:01:54,118 Patch 5 of 32 DE 1.109617, W.DE 1.109617, peqDE 1.009776, Repeat
+2019-04-27 23:01:54,719 Patch 5 of 32 DE 0.104482, W.DE 0.104482, W.peqDE 0.174821, OK ( < 0.900000)
+2019-04-27 23:01:55,759 Patch 6 of 32 DE 0.273681, W.DE 0.273681, W.peqDE 0.304681, OK ( < 0.900000)
+2019-04-27 23:01:56,798 Patch 7 of 32 DE 0.832996, W.DE 0.832996, W.peqDE 0.796956, OK ( < 0.900000)
+2019-04-27 23:02:03,825 Patch 8 of 32 DE 0.941589, W.DE 0.941589, peqDE 1.093750, Repeat
+2019-04-27 23:02:07,486 Patch 8 of 32 DE 0.973941, W.DE 0.973941, peqDE 0.472404, Repeat
+2019-04-27 23:02:08,121 Patch 8 of 32 DE 1.000201, W.DE 1.000201, peqDE 1.494383, Repeat
+2019-04-27 23:02:08,838 Patch 8 of 32 DE 0.145889, W.DE 0.145889, W.peqDE 0.516676, OK ( < 0.900000)
+2019-04-27 23:02:09,892 Patch 9 of 32 DE 0.905786, W.DE 0.905786, peqDE 0.933523, Repeat
+2019-04-27 23:02:13,571 Patch 9 of 32 DE 0.871699, W.DE 0.871699, W.peqDE 0.899217, OK ( < 0.900000)
+2019-04-27 23:02:14,617 Patch 10 of 32 DE 1.193522, W.DE 1.193522, peqDE 1.293399, Repeat
+2019-04-27 23:02:15,239 Patch 10 of 32 DE 0.570807, W.DE 0.570807, peqDE 1.241746, Repeat
+2019-04-27 23:02:19,086 Patch 10 of 32 DE 0.494116, W.DE 0.494116, peqDE 1.283112, Repeat
+2019-04-27 23:02:19,733 Patch 10 of 32 DE 1.366083, W.DE 1.366083, peqDE 0.692658, Repeat (got worse)
+2019-04-27 23:02:20,391 Patch 10 of 32 DE 0.699201, W.DE 0.699201, peqDE 1.345272, Repeat (got worse)
+2019-04-27 23:02:21,122 Patch 10 of 32 DE 0.408679, W.DE 0.408679, peqDE 1.172340, Repeat
+2019-04-27 23:02:21,742 Patch 10 of 32 DE 0.318644, W.DE 0.318644, W.peqDE 0.746376, OK ( < 0.900000)
+2019-04-27 23:02:28,756 Patch 11 of 32 DE 0.670560, W.DE 0.670560, W.peqDE 0.699024, OK ( < 0.900000)
+2019-04-27 23:02:29,775 Patch 12 of 32 DE 0.877958, W.DE 0.877958, W.peqDE 0.539500, OK ( < 0.900000)
+2019-04-27 23:02:30,801 Patch 13 of 32 DE 0.846506, W.DE 0.846506, peqDE 1.136761, Repeat
+2019-04-27 23:02:31,549 Patch 13 of 32 DE 0.197878, W.DE 0.197878, W.peqDE 0.839868, OK ( < 0.900000)
+2019-04-27 23:02:32,568 Patch 14 of 32 DE 0.352548, W.DE 0.352548, W.peqDE 0.396496, OK ( < 0.900000)
+2019-04-27 23:02:33,608 Patch 15 of 32 DE 1.184623, W.DE 1.184623, peqDE 1.142278, Repeat
+2019-04-27 23:02:34,364 Patch 15 of 32 DE 0.277424, W.DE 0.277424, W.peqDE 0.237555, OK ( < 0.900000)
+2019-04-27 23:02:35,398 Patch 16 of 32 DE 0.292196, W.DE 0.292196, W.peqDE 0.491060, OK ( < 0.900000)
+2019-04-27 23:02:36,831 Patch 17 of 32 DE 0.962936, W.DE 0.962936, peqDE 0.744068, Repeat
+2019-04-27 23:02:37,910 Patch 17 of 32 DE 0.460504, W.DE 0.460504, W.peqDE 0.667633, OK ( < 0.900000)
+2019-04-27 23:02:39,407 Patch 18 of 32 DE 0.566825, W.DE 0.566825, W.peqDE 0.709222, OK ( < 0.900000)
+2019-04-27 23:02:40,967 Patch 19 of 32 DE 0.579696, W.DE 0.579696, W.peqDE 0.716197, OK ( < 0.900000)
+2019-04-27 23:02:42,628 Patch 20 of 32 DE 1.187828, W.DE 1.187828, peqDE 1.226068, Repeat
+2019-04-27 23:02:43,832 Patch 20 of 32 DE 0.470125, W.DE 0.470125, W.peqDE 0.635368, OK ( < 0.900000)
+2019-04-27 23:02:45,584 Patch 21 of 32 DE 0.704597, W.DE 0.704597, peqDE 1.129085, Repeat
+2019-04-27 23:02:46,895 Patch 21 of 32 DE 0.527998, W.DE 0.527998, peqDE 0.929677, Repeat
+2019-04-27 23:02:48,180 Patch 21 of 32 DE 0.119329, W.DE 0.119329, W.peqDE 0.482020, OK ( < 0.900000)
+2019-04-27 23:02:50,023 Patch 22 of 32 DE 0.805761, W.DE 0.805761, W.peqDE 0.771867, OK ( < 0.900000)
+2019-04-27 23:02:52,017 Patch 23 of 32 DE 0.865038, W.DE 0.865038, W.peqDE 0.134701, OK ( < 0.900000)
+2019-04-27 23:02:54,230 Patch 24 of 32 DE 1.104663, W.DE 1.104663, peqDE 0.959872, Repeat
+2019-04-27 23:02:55,987 Patch 24 of 32 DE 0.279929, W.DE 0.279929, W.peqDE 0.631602, OK ( < 0.900000)
+2019-04-27 23:02:58,752 Patch 25 of 32 DE 1.408942, W.DE 1.408942, peqDE 1.348079, Repeat
+2019-04-27 23:03:07,265 Patch 25 of 32 DE 0.532675, W.DE 0.532675, W.peqDE 0.682557, OK ( < 0.900000)
+2019-04-27 23:03:10,438 Patch 26 of 32 DE 0.864286, W.DE 0.864286, peqDE 0.804565, Repeat
+2019-04-27 23:03:13,035 Patch 26 of 32 DE 0.306565, W.DE 0.306565, W.peqDE 0.487391, OK ( < 0.654523)
+2019-04-27 23:03:16,460 Patch 27 of 32 DE 0.497075, W.DE 0.497075, peqDE 0.483694, Repeat
+2019-04-27 23:03:19,499 Patch 27 of 32 DE 0.217148, W.DE 0.217148, W.peqDE 0.205729, OK ( < 0.395724)
+2019-04-27 23:03:23,410 Patch 28 of 32 DE 0.207399, W.DE 0.207399, W.peqDE 0.196924, OK ( < 0.211574)
+2019-04-27 23:03:27,467 Patch 29 of 32 DE 0.108177, W.DE 0.108177, peqDE 0.119052, Repeat
+2019-04-27 23:03:42,158 Patch 29 of 32 DE 0.107803, W.DE 0.107803, peqDE 0.117689, Repeat
+2019-04-27 23:03:46,354 Patch 29 of 32 DE 0.084252, W.DE 0.084252, peqDE 0.141659, Repeat
+2019-04-27 23:03:50,255 Patch 29 of 32 DE 0.043322, W.DE 0.043322, peqDE 0.114283, Repeat
+2019-04-27 23:03:53,944 Patch 29 of 32 DE 0.078820, W.DE 2.514007, peqDE 2.513145, Repeat
+2019-04-27 23:03:57,763 Patch 29 of 32 DE 0.084269, W.DE 0.084269, peqDE 0.141161, Repeat
+2019-04-27 23:04:01,602 Patch 29 of 32 DE 0.133580, W.DE 1.536008, peqDE 1.534088, Repeat
+2019-04-27 23:04:05,405 Patch 29 of 32 DE 0.084741, W.DE 0.084741, peqDE 0.142341, Repeat
+2019-04-27 23:04:15,483 Patch 29 of 32 DE 0.044199, W.DE 0.044199, peqDE 0.116862, Repeat
+2019-04-27 23:04:19,153 Patch 29 of 32 DE 0.043322, W.DE 0.043322, W.peqDE 0.114283, Fail ( > 0.092979)
+2019-04-27 23:04:23,388 Patch 30 of 32 DE 0.064745, W.DE 0.064745, peqDE 0.114723, Repeat
+2019-04-27 23:04:38,739 Patch 30 of 32 DE 0.064494, W.DE 0.064494, peqDE 0.114396, Repeat
+2019-04-27 23:04:43,085 Patch 30 of 32 DE 0.064776, W.DE 0.064776, peqDE 0.114433, Repeat
+2019-04-27 23:04:47,062 Patch 30 of 32 DE 0.019962, W.DE 0.019962, W.peqDE 0.034666, OK ( < 0.050000)
+2019-04-27 23:04:51,338 Patch 31 of 32 DE 0.035989, W.DE 0.035989, peqDE 0.075092, Repeat
+2019-04-27 23:05:07,101 Patch 31 of 32 DE 0.035989, W.DE 0.035989, peqDE 0.075092, Repeat
+2019-04-27 23:05:11,552 Patch 31 of 32 DE 0.036020, W.DE 0.036020, peqDE 0.074728, Repeat
+2019-04-27 23:05:21,569 Patch 31 of 32 DE 0.036319, W.DE 0.036319, peqDE 0.074955, Repeat
+2019-04-27 23:05:25,586 Patch 31 of 32 DE 0.016030, W.DE 2.740400, peqDE 2.741012, Repeat
+2019-04-27 23:05:29,614 Patch 31 of 32 DE 0.033157, W.DE 0.033157, peqDE 0.074801, Repeat
+2019-04-27 23:05:33,635 Patch 31 of 32 DE 0.015005, W.DE 2.841036, peqDE 2.841605, Repeat
+2019-04-27 23:05:37,671 Patch 31 of 32 DE 0.016601, W.DE 2.689229, peqDE 2.689831, Repeat
+2019-04-27 23:05:41,703 Patch 31 of 32 DE 0.017494, W.DE 2.531377, peqDE 2.532032, Repeat
+2019-04-27 23:05:45,736 Patch 31 of 32 DE 0.033157, W.DE 0.033157, W.peqDE 0.074801, Fail ( > 0.050000)
+2019-04-27 23:05:49,940 Patch 32 of 32 DE 0.000875, W.DE 0.000875, W.peqDE 0.000875, OK ( < 0.050000)
+2019-04-27 23:05:49,947 
+2019-04-27 23:05:49,947 Brightness error = -0.377315 cd/m^2 (is 216.028023, should be 216.405338)
+2019-04-27 23:05:49,948 White point error = 0.235113 deltaE
+2019-04-27 23:05:49,950 Maximum neutral error (@ 0.495986) = 0.878768 deltaE
+2019-04-27 23:05:49,951 Average neutral error = 0.366399 deltaE
+2019-04-27 23:05:49,953 Failed to meet target 0.900000 delta E, got worst case 8.233326
+2019-04-27 23:05:49,956 Number of measurements taken = 94
+2019-04-27 23:05:49,956 Computing update to calibration curves...
+2019-04-27 23:05:50,148 Black drift was 0.018584 DE
+2019-04-27 23:05:50,148 White drift was 0.223898 DE
+2019-04-27 23:05:50,148 The instrument can be removed from the screen.
+2019-04-27 23:05:50,301 Written calibration file 'LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.cal'
+2019-04-27 23:05:50,407 DisplayCAL: Reached EOF (OK)
+2019-04-27 23:05:50,502 --------------------------------------------------------------------------------
+2019-04-27 23:05:50,505 工作目录：
+2019-04-27 23:05:50,506   c:\
+2019-04-27 23:05:50,506    users\
+2019-04-27 23:05:50,506     tang-\
+2019-04-27 23:05:50,506      appdata\
+2019-04-27 23:05:50,507       local\
+2019-04-27 23:05:50,507        temp\
+2019-04-27 23:05:50,509         DisplayCAL-olluma\
+2019-04-27 23:05:50,509 
+2019-04-27 23:05:50,509 命令行：
+2019-04-27 23:05:50,510   D:\Program Files\Argyll_V2.1.0\bin\dispread.exe
+2019-04-27 23:05:50,512     -v
+2019-04-27 23:05:50,512     -d1
+2019-04-27 23:05:50,512     -c1
+2019-04-27 23:05:50,513     -yr
+2019-04-27 23:05:50,513     "-P0.500395256917,0.501176470588,1.0"
+2019-04-27 23:05:50,513     -Ibw
+2019-04-27 23:05:50,513     -k
+2019-04-27 23:05:50,515     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.cal"
+2019-04-27 23:05:50,515     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-27 23:05:50,516 
+2019-04-27 23:05:51,203 DisplayCAL: Starting interaction with subprocess
+2019-04-27 23:05:51,210 Number of patches = 175
+2019-04-27 23:05:51,211 Setting up the instrument
+2019-04-27 23:05:52,197 Product Name:      i1Display3
+2019-04-27 23:05:52,200 Serial Number:     I1-17.B-02.285149.10
+2019-04-27 23:05:52,200 Firmware Version:  v2.28
+2019-04-27 23:05:52,201 Firmware Date:     29Jan14
+2019-04-27 23:05:52,473 Place instrument on test window.
+2019-04-27 23:05:52,480 DisplayCAL: Waiting for send buffer
+2019-04-27 23:05:53,983 DisplayCAL: Skipping place instrument on screen message...
+2019-04-27 23:05:53,987 DisplayCAL: Sending buffer: ' '
+2019-04-27 23:05:53,990 Hit Esc or Q to give up, any other key to continue:
+2019-04-27 23:05:56,605 Measured display update delay of 48 msec, using delay of 164 msec & 0 msec inst reaction
+2019-04-27 23:06:01,043 No distict refresh period
+2019-04-27 23:09:34,092 Patch 175 of 175
+2019-04-27 23:09:34,092 Black drift was 0.004488 DE
+2019-04-27 23:09:34,094 White drift was 0.043087 DE
+2019-04-27 23:09:34,094 The instrument can be removed from the screen.
+2019-04-27 23:09:34,197 Written 'LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.ti3'
+2019-04-27 23:09:34,305 DisplayCAL: Reached EOF (OK)
+2019-04-27 23:09:35,012 -> Preparing ChromaticityType tag from TI3 colorants
+2019-04-27 23:09:35,035 -> Storing settings in TI3
+2019-04-27 23:09:35,206 Applying 0% black point correction to TI3
+2019-04-27 23:09:35,400 Extracting neutrals from c:\users\tang-\appdata\local\temp\DisplayCAL-olluma\LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.ti3
+2019-04-27 23:09:35,456 R=G=B (>= 1% luminance) dE*00 avg 0.604351263192 peak 1.30435501935
+2019-04-27 23:09:35,503 Initial cLUT resolution 5x5x5
+2019-04-27 23:09:35,506 cLUT input curve segments: 5
+2019-04-27 23:09:35,601 #1 X prev 0.044612 next 0.208021 clip False
+2019-04-27 23:09:35,674 #2 X prev 0.208021 next 0.508450 clip False
+2019-04-27 23:09:35,756 #3 X prev 0.508450 next 0.964200 clip False
+2019-04-27 23:09:36,046 #1 Y prev 0.046591 next 0.215148 clip False
+2019-04-27 23:09:36,114 #2 Y prev 0.215148 next 0.527250 clip False
+2019-04-27 23:09:36,187 #3 Y prev 0.527250 next 1.000000 clip False
+2019-04-27 23:09:36,500 #1 Z prev 0.039180 next 0.177544 clip False
+2019-04-27 23:09:36,569 #2 Z prev 0.177544 next 0.434200 clip False
+2019-04-27 23:09:36,644 #3 Z prev 0.434200 next 0.824900 clip False
+2019-04-27 23:09:38,480 cLUT input curve segments: 33
+2019-04-27 23:09:38,492 #1 X prev 0.000449 next 0.001961 clip False
+2019-04-27 23:09:38,500 #2 X prev 0.001961 next 0.005011 clip False
+2019-04-27 23:09:38,512 #3 X prev 0.005011 next 0.010030 clip False
+2019-04-27 23:09:38,519 #4 X prev 0.010030 next 0.016158 clip False
+2019-04-27 23:09:38,535 #5 X prev 0.016158 next 0.024369 clip False
+2019-04-27 23:09:38,546 #6 X prev 0.024369 next 0.033465 clip False
+2019-04-27 23:09:38,555 #7 X prev 0.033465 next 0.044612 clip False
+2019-04-27 23:09:38,565 #8 X prev 0.044612 next 0.056989 clip False
+2019-04-27 23:09:38,579 #9 X prev 0.056989 next 0.073878 clip False
+2019-04-27 23:09:38,588 #10 X prev 0.073878 next 0.091095 clip False
+2019-04-27 23:09:38,601 #11 X prev 0.091095 next 0.111567 clip False
+2019-04-27 23:09:38,614 #12 X prev 0.111567 next 0.133147 clip False
+2019-04-27 23:09:38,622 #13 X prev 0.133147 next 0.156491 clip False
+2019-04-27 23:09:38,634 #14 X prev 0.156491 next 0.180994 clip False
+2019-04-27 23:09:38,644 #15 X prev 0.180994 next 0.208021 clip False
+2019-04-27 23:09:38,653 #16 X prev 0.208021 next 0.238212 clip False
+2019-04-27 23:09:38,667 #17 X prev 0.238212 next 0.269818 clip False
+2019-04-27 23:09:38,678 #18 X prev 0.269818 next 0.307128 clip False
+2019-04-27 23:09:38,690 #19 X prev 0.307128 next 0.341748 clip False
+2019-04-27 23:09:38,701 #20 X prev 0.341748 next 0.379071 clip False
+2019-04-27 23:09:38,717 #21 X prev 0.379071 next 0.418189 clip False
+2019-04-27 23:09:38,727 #22 X prev 0.418189 next 0.459970 clip False
+2019-04-27 23:09:38,734 #23 X prev 0.459970 next 0.508450 clip False
+2019-04-27 23:09:38,743 #24 X prev 0.508450 next 0.552545 clip False
+2019-04-27 23:09:38,753 #25 X prev 0.552545 next 0.609472 clip False
+2019-04-27 23:09:38,767 #26 X prev 0.609472 next 0.662326 clip False
+2019-04-27 23:09:38,776 #27 X prev 0.662326 next 0.719289 clip False
+2019-04-27 23:09:38,785 #28 X prev 0.719289 next 0.777619 clip False
+2019-04-27 23:09:38,793 #29 X prev 0.777619 next 0.835550 clip False
+2019-04-27 23:09:38,802 #30 X prev 0.835550 next 0.895368 clip False
+2019-04-27 23:09:38,812 #31 X prev 0.895368 next 0.964200 clip False
+2019-04-27 23:09:38,976 #1 Y prev 0.000477 next 0.002077 clip False
+2019-04-27 23:09:38,983 #2 Y prev 0.002077 next 0.005240 clip False
+2019-04-27 23:09:39,000 #3 Y prev 0.005240 next 0.010557 clip False
+2019-04-27 23:09:39,007 #4 Y prev 0.010557 next 0.016879 clip False
+2019-04-27 23:09:39,017 #5 Y prev 0.016879 next 0.025405 clip False
+2019-04-27 23:09:39,028 #6 Y prev 0.025405 next 0.034380 clip False
+2019-04-27 23:09:39,036 #7 Y prev 0.034380 next 0.046591 clip False
+2019-04-27 23:09:39,049 #8 Y prev 0.046591 next 0.059128 clip False
+2019-04-27 23:09:39,058 #9 Y prev 0.059128 next 0.076717 clip False
+2019-04-27 23:09:39,066 #10 Y prev 0.076717 next 0.094334 clip False
+2019-04-27 23:09:39,079 #11 Y prev 0.094334 next 0.115961 clip False
+2019-04-27 23:09:39,088 #12 Y prev 0.115961 next 0.138119 clip False
+2019-04-27 23:09:39,098 #13 Y prev 0.138119 next 0.163053 clip False
+2019-04-27 23:09:39,105 #14 Y prev 0.163053 next 0.187018 clip False
+2019-04-27 23:09:39,115 #15 Y prev 0.187018 next 0.215148 clip False
+2019-04-27 23:09:39,122 #16 Y prev 0.215148 next 0.247040 clip False
+2019-04-27 23:09:39,135 #17 Y prev 0.247040 next 0.279594 clip False
+2019-04-27 23:09:39,144 #18 Y prev 0.279594 next 0.317813 clip False
+2019-04-27 23:09:39,160 #19 Y prev 0.317813 next 0.353781 clip False
+2019-04-27 23:09:39,170 #20 Y prev 0.353781 next 0.393420 clip False
+2019-04-27 23:09:39,180 #21 Y prev 0.393420 next 0.433844 clip False
+2019-04-27 23:09:39,193 #22 Y prev 0.433844 next 0.476272 clip False
+2019-04-27 23:09:39,200 #23 Y prev 0.476272 next 0.527250 clip False
+2019-04-27 23:09:39,207 #24 Y prev 0.527250 next 0.572967 clip False
+2019-04-27 23:09:39,216 #25 Y prev 0.572967 next 0.632744 clip False
+2019-04-27 23:09:39,224 #26 Y prev 0.632744 next 0.686041 clip False
+2019-04-27 23:09:39,242 #27 Y prev 0.686041 next 0.746072 clip False
+2019-04-27 23:09:39,250 #28 Y prev 0.746072 next 0.807841 clip False
+2019-04-27 23:09:39,259 #29 Y prev 0.807841 next 0.868035 clip False
+2019-04-27 23:09:39,273 #30 Y prev 0.868035 next 0.929203 clip False
+2019-04-27 23:09:39,279 #31 Y prev 0.929203 next 1.000000 clip False
+2019-04-27 23:09:39,456 #1 Z prev 0.000422 next 0.001891 clip False
+2019-04-27 23:09:39,474 #2 Z prev 0.001891 next 0.004643 clip False
+2019-04-27 23:09:39,483 #3 Z prev 0.004643 next 0.009074 clip False
+2019-04-27 23:09:39,494 #4 Z prev 0.009074 next 0.014471 clip False
+2019-04-27 23:09:39,502 #5 Z prev 0.014471 next 0.021728 clip False
+2019-04-27 23:09:39,513 #6 Z prev 0.021728 next 0.028553 clip False
+2019-04-27 23:09:39,523 #7 Z prev 0.028553 next 0.039180 clip False
+2019-04-27 23:09:39,530 #8 Z prev 0.039180 next 0.049590 clip False
+2019-04-27 23:09:39,536 #9 Z prev 0.049590 next 0.063794 clip False
+2019-04-27 23:09:39,552 #10 Z prev 0.063794 next 0.078829 clip False
+2019-04-27 23:09:39,562 #11 Z prev 0.078829 next 0.096440 clip False
+2019-04-27 23:09:39,568 #12 Z prev 0.096440 next 0.114707 clip False
+2019-04-27 23:09:39,576 #13 Z prev 0.114707 next 0.134709 clip False
+2019-04-27 23:09:39,585 #14 Z prev 0.134709 next 0.156772 clip False
+2019-04-27 23:09:39,598 #15 Z prev 0.156772 next 0.177544 clip False
+2019-04-27 23:09:39,608 #16 Z prev 0.177544 next 0.205015 clip False
+2019-04-27 23:09:39,624 #17 Z prev 0.205015 next 0.230568 clip False
+2019-04-27 23:09:39,632 #18 Z prev 0.230568 next 0.264024 clip False
+2019-04-27 23:09:39,641 #19 Z prev 0.264024 next 0.294325 clip False
+2019-04-27 23:09:39,651 #20 Z prev 0.294325 next 0.324231 clip False
+2019-04-27 23:09:39,660 #21 Z prev 0.324231 next 0.358116 clip False
+2019-04-27 23:09:39,671 #22 Z prev 0.358116 next 0.395714 clip False
+2019-04-27 23:09:39,680 #23 Z prev 0.395714 next 0.434200 clip False
+2019-04-27 23:09:39,688 #24 Z prev 0.434200 next 0.471209 clip False
+2019-04-27 23:09:39,704 #25 Z prev 0.471209 next 0.518281 clip False
+2019-04-27 23:09:39,716 #26 Z prev 0.518281 next 0.563857 clip False
+2019-04-27 23:09:39,723 #27 Z prev 0.563857 next 0.610348 clip False
+2019-04-27 23:09:39,732 #28 Z prev 0.610348 next 0.661395 clip False
+2019-04-27 23:09:39,740 #29 Z prev 0.661395 next 0.714713 clip False
+2019-04-27 23:09:39,753 #30 Z prev 0.714713 next 0.767608 clip False
+2019-04-27 23:09:39,760 #31 Z prev 0.767608 next 0.824900 clip False
+2019-04-27 23:09:40,045 Final interpolated cLUT resolution 33x33x33
+2019-04-27 23:09:40,059 --------------------------------------------------------------------------------
+2019-04-27 23:09:40,062 Creating matrix from primaries
+2019-04-27 23:09:40,062 Using chromatic adaptation transform matrix: Bradford
+2019-04-27 23:09:40,266 --------------------------------------------------------------------------------
+2019-04-27 23:09:40,266 Generating A2B1 by copying A2B0
+2019-04-27 23:09:40,269 Generating B2A1 table by inverting A2B1 table
+2019-04-27 23:09:40,269 
+2019-04-27 23:09:40,269 Using chromatic adaptation transform matrix: Bradford
+2019-04-27 23:09:40,345 Black XYZ: 0.0007 0.0007 0.0006
+2019-04-27 23:09:40,345 White XYZ: 0.9642 1.0000 0.8249
+2019-04-27 23:09:40,345 R XYZ: 0.3973 0.2351 0.0399
+2019-04-27 23:09:40,346 G XYZ: 0.3969 0.6154 0.1012
+2019-04-27 23:09:40,348 B XYZ: 0.1665 0.1446 0.6795
+2019-04-27 23:09:40,349 Generating input curve PCS values...
+2019-04-27 23:09:40,378 Looking up input curve RGB values...
+2019-04-27 23:09:41,286 Setting curve entry #0 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,286 Setting curve entry #1 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,289 Setting curve entry #2 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,289 Setting curve entry #3 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,290 Setting curve entry #4 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,292 Setting curve entry #5 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,292 Setting curve entry #6 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,293 Setting curve entry #7 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,293 Setting curve entry #8 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,295 Setting curve entry #9 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,295 Setting curve entry #10 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,296 Setting curve entry #11 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,296 Setting curve entry #12 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,296 Setting curve entry #13 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,299 Setting curve entry #14 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,299 Setting curve entry #15 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,299 Setting curve entry #16 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,301 Setting curve entry #17 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,301 Setting curve entry #18 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,302 Setting curve entry #19 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,302 Setting curve entry #20 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,302 Setting curve entry #21 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,303 Setting curve entry #22 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,305 Setting curve entry #23 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,305 Setting curve entry #24 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,306 Setting curve entry #25 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,308 Setting curve entry #26 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,308 Setting curve entry #27 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:09:41,312 Setting curve entry #4095 (1.000000 0.999996 1.000000) to white because it got clipped
+2019-04-27 23:09:41,312 Setting up matrix
+2019-04-27 23:09:41,313 Increasing saturation of actual primaries for PCS candidate to 111%...
+2019-04-27 23:09:41,315 R xy 0.590886 0.349703 -> 0.617856 0.348731
+2019-04-27 23:09:41,316 G xy 0.356409 0.552687 -> 0.357586 0.574043
+2019-04-27 23:09:41,318 B xy 0.168063 0.145942 -> 0.148523 0.122557
+2019-04-27 23:09:41,319 Checking for suitable PCS candidate...
+2019-04-27 23:09:41,321 Skipping PCS candidate based on actual primaries because it does not encompass Rec. 709 blue
+2019-04-27 23:09:41,322 Rec709-encompassing, variant 1 fit: 1.06 (area: 48.60%)
+2019-04-27 23:09:41,323 Using primaries: Rec709-encompassing, variant 1
+2019-04-27 23:09:41,325 Using R XYZ: 0.4858 0.2242 0.0015
+2019-04-27 23:09:41,325 Using G XYZ: 0.3599 0.7326 0.0681
+2019-04-27 23:09:41,326 Using B XYZ: 0.1185 0.0432 0.7553
+2019-04-27 23:09:41,328 R+G+B XYZ: 0.9642 1.0000 0.8249
+2019-04-27 23:09:41,328 Correction factors: 1.0000 1.0000 1.0000
+2019-04-27 23:09:41,329 Matrix 1:
+2019-04-27 23:09:41,329 [2.6443266000333088, -1.2671854900907105, -0.34243449831665096]
+2019-04-27 23:09:41,332 [-0.8132078188032739, 1.7620115550086903, 0.02677103149645555]
+2019-04-27 23:09:41,332 [0.06804998251154655, -0.15628104056263473, 1.3221811703539847]
+2019-04-27 23:09:41,334 Matrix 2:
+2019-04-27 23:09:41,336 [2.6442975337435684, -1.267171561258845, -0.3424307342958431]
+2019-04-27 23:09:41,338 [-0.8132099380290951, 1.7620161468243356, 0.026771101261969233]
+2019-04-27 23:09:41,342 [0.06805085633370112, -0.15628304734985995, 1.3221981483333514]
+2019-04-27 23:09:41,348 Matrix 3:
+2019-04-27 23:09:41,348 [1.999969482421875, 0, 0]
+2019-04-27 23:09:41,349 [0, 1.999969482421875, 0]
+2019-04-27 23:09:41,349 [0, 0, 1.999969482421875]
+2019-04-27 23:09:41,351 Final matrix:
+2019-04-27 23:09:41,351 [5.288514369930565, -2.5343044515105717, -0.6848510184349998]
+2019-04-27 23:09:41,351 [-1.6263950588603744, 3.523978521183253, 0.05354138553476421]
+2019-04-27 23:09:41,352 [0.1360996359200776, -0.3125613253196128, 2.644355946381414]
+2019-04-27 23:09:41,354 Applying matrix to input curve XYZ values...
+2019-04-27 23:09:41,382 Generating input curves...
+2019-04-27 23:09:50,588 100%
+2019-04-27 23:09:50,628 Generating A2B1 table lookup input values...
+2019-04-27 23:09:50,630 cLUT grid res: 45
+2019-04-27 23:09:50,631 Looking up input values through A2B1 table (3 workers)...
+2019-04-27 23:09:50,632 Using CAM Jab for clipping
+2019-04-27 23:15:18,734 100%
+2019-04-27 23:15:18,734 Input black XYZ: 0.000699 0.000730 0.000608
+2019-04-27 23:15:18,736 Input white XYZ: 0.964200 1.000000 0.824900
+2019-04-27 23:15:18,894 Output black RGB: 0.0000 0.0000 0.0000
+2019-04-27 23:15:18,895 Output white RGB: 99.9999 100.0000 100.0000
+2019-04-27 23:15:18,963 Filling cLUT...
+2019-04-27 23:15:19,424 100%
+2019-04-27 23:15:20,173 Smoothing B2A1...
+2019-04-27 23:15:23,926 Generating B2A0 table by inverting A2B0 table
+2019-04-27 23:15:23,928 
+2019-04-27 23:15:23,930 Using chromatic adaptation transform matrix: Bradford
+2019-04-27 23:15:24,009 Black XYZ: 0.0007 0.0007 0.0006
+2019-04-27 23:15:24,010 White XYZ: 0.9642 1.0000 0.8249
+2019-04-27 23:15:24,010 R XYZ: 0.3973 0.2351 0.0399
+2019-04-27 23:15:24,012 G XYZ: 0.3969 0.6154 0.1012
+2019-04-27 23:15:24,013 B XYZ: 0.1665 0.1446 0.6795
+2019-04-27 23:15:24,015 Generating input curve PCS values...
+2019-04-27 23:15:24,042 Applying BPC to input curve PCS values...
+2019-04-27 23:15:24,204 Looking up input curve RGB values...
+2019-04-27 23:15:24,971 Setting curve entry #0 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-04-27 23:15:24,973 Setting curve entry #4095 (1.000000 0.999996 1.000000) to white because it got clipped
+2019-04-27 23:15:24,976 Applying matrix to input curve XYZ values...
+2019-04-27 23:15:24,996 Generating input curves...
+2019-04-27 23:15:34,793 100%
+2019-04-27 23:15:36,062 --------------------------------------------------------------------------------
+2019-04-27 23:15:36,062 Creating shaper tags in separate step
+2019-04-27 23:15:36,063 Using chromatic adaptation transform matrix: Bradford
+2019-04-27 23:15:36,359 --------------------------------------------------------------------------------
+2019-04-27 23:15:36,359 Adding rTRC from inverse backward B2A0 lookup to LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX
+2019-04-27 23:15:36,361 Adding gTRC from inverse backward B2A0 lookup to LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX
+2019-04-27 23:15:36,362 Adding bTRC from inverse backward B2A0 lookup to LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX
+2019-04-27 23:15:36,371 --------------------------------------------------------------------------------
+2019-04-27 23:15:36,372 Applying black point compensation to rTRC
+2019-04-27 23:15:36,372 Applying black point compensation to gTRC
+2019-04-27 23:15:36,374 Applying black point compensation to bTRC
+2019-04-27 23:15:37,664 --------------------------------------------------------------------------------
+2019-04-27 23:15:37,667 工作目录：
+2019-04-27 23:15:37,668   c:\
+2019-04-27 23:15:37,670    users\
+2019-04-27 23:15:37,671     tang-\
+2019-04-27 23:15:37,673      appdata\
+2019-04-27 23:15:37,673       local\
+2019-04-27 23:15:37,674        temp\
+2019-04-27 23:15:37,674         DisplayCAL-olluma\
+2019-04-27 23:15:37,674 
+2019-04-27 23:15:37,674 命令行：
+2019-04-27 23:15:37,676   D:\Program Files\Argyll_V2.1.0\bin\profcheck.exe
+2019-04-27 23:15:37,676     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.ti3"
+2019-04-27 23:15:37,676     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-04-27 23:15:37,677 
+2019-04-27 23:15:37,717 Profile check complete, errors: max. = 1.114627, avg. = 0.124916, RMS = 0.257604
+2019-04-27 23:15:37,719 --------------------------------------------------------------------------------
+2019-04-27 23:15:37,720 生成色域视图...
+2019-04-27 23:15:38,473 --------------------------------------------------------------------------------
+2019-04-27 23:15:38,474 工作目录：
+2019-04-27 23:15:38,476   c:\
+2019-04-27 23:15:38,476    users\
+2019-04-27 23:15:38,476     tang-\
+2019-04-27 23:15:38,477      appdata\
+2019-04-27 23:15:38,477       local\
+2019-04-27 23:15:38,479        temp\
+2019-04-27 23:15:38,480         DisplayCAL-olluma\
+2019-04-27 23:15:38,483 
+2019-04-27 23:15:38,483 命令行：
+2019-04-27 23:15:38,484   D:\Program Files\Argyll_V2.1.0\bin\iccgamut.exe
+2019-04-27 23:15:38,486     -v
+2019-04-27 23:15:38,486     -w
+2019-04-27 23:15:38,487     -ir
+2019-04-27 23:15:38,490     -ff
+2019-04-27 23:15:38,490     -on
+2019-04-27 23:15:38,492     -d10.00
+2019-04-27 23:15:38,493     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-04-27 23:15:38,493 
+2019-04-27 23:15:39,198 Header:
+2019-04-27 23:15:39,200   size         = 1377908 bytes
+2019-04-27 23:15:39,200   CMM          = 'argl'
+2019-04-27 23:15:39,200   Version      = 2.2.0
+2019-04-27 23:15:39,200   Device Class = Display
+2019-04-27 23:15:39,200   Color Space  = RGB
+2019-04-27 23:15:39,200   Conn. Space  = XYZ
+2019-04-27 23:15:39,200   Date, Time   = 27 Apr 2019, 23:09:35
+2019-04-27 23:15:39,200   Platform     = Microsoft
+2019-04-27 23:15:39,200   Flags        = Not Embedded Profile, Use anywhere
+2019-04-27 23:15:39,200   Dev. Mnfctr. = 0x0
+2019-04-27 23:15:39,200   Dev. Model   = 0x0
+2019-04-27 23:15:39,200   Dev. Attrbts = Reflective, Glossy, Positive, Color
+2019-04-27 23:15:39,200   Rndrng Intnt = Perceptual
+2019-04-27 23:15:39,200   Illuminant   = 0.96420288, 1.00000000, 0.82490540    [Lab 100.000000, 0.000000, 0.000000]
+2019-04-27 23:15:39,200   Creator      = 'DCAL'
+2019-04-27 23:15:39,200 
+2019-04-27 23:15:39,200 Total volume of gamut is 478748.578756 cubic colorspace units
+2019-04-27 23:15:41,436 --------------------------------------------------------------------------------
+2019-04-27 23:15:41,436 命令行：
+2019-04-27 23:15:41,437   D:\Program Files\Argyll_V2.1.0\bin\viewgam.exe
+2019-04-27 23:15:41,438     -cw
+2019-04-27 23:15:41,440     -t0
+2019-04-27 23:15:41,440     -w
+2019-04-27 23:15:41,440     "C:\Program Files (x86)\DisplayCAL\ref\sRGB.gam"
+2019-04-27 23:15:41,441     -cn
+2019-04-27 23:15:41,441     -t.3
+2019-04-27 23:15:41,443     -s
+2019-04-27 23:15:41,443     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-04-27 23:15:41,444     -i
+2019-04-27 23:15:41,444     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX vs sRGB.wrl"
+2019-04-27 23:15:41,444 
+2019-04-27 23:15:41,447 Intersecting volume = 475681.5 cubic units
+2019-04-27 23:15:41,447 'C:\Program Files (x86)\DisplayCAL\ref\sRGB.gam' volume = 833675.1 cubic units, intersect = 57.06%
+2019-04-27 23:15:41,447 'LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 478748.6 cubic units, intersect = 99.36%
+2019-04-27 23:15:41,502 --------------------------------------------------------------------------------
+2019-04-27 23:15:41,503 命令行：
+2019-04-27 23:15:41,503   D:\Program Files\Argyll_V2.1.0\bin\viewgam.exe
+2019-04-27 23:15:41,503     -cw
+2019-04-27 23:15:41,503     -t0
+2019-04-27 23:15:41,505     -w
+2019-04-27 23:15:41,505     "C:\Program Files (x86)\DisplayCAL\ref\ClayRGB1998.gam"
+2019-04-27 23:15:41,506     -cn
+2019-04-27 23:15:41,506     -t.3
+2019-04-27 23:15:41,506     -s
+2019-04-27 23:15:41,506     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-04-27 23:15:41,506     -i
+2019-04-27 23:15:41,509     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX vs
+2019-04-27 23:15:41,509       ClayRGB1998.wrl"
+2019-04-27 23:15:41,509 
+2019-04-27 23:15:41,509 Intersecting volume = 478749.5 cubic units
+2019-04-27 23:15:41,510 'C:\Program Files (x86)\DisplayCAL\ref\ClayRGB1998.gam' volume = 1209985.9 cubic units, intersect = 39.57%
+2019-04-27 23:15:41,510 'LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 478748.6 cubic units, intersect = 100.00%
+2019-04-27 23:15:41,510 --------------------------------------------------------------------------------
+2019-04-27 23:15:41,512 命令行：
+2019-04-27 23:15:41,513   D:\Program Files\Argyll_V2.1.0\bin\viewgam.exe
+2019-04-27 23:15:41,513     -cw
+2019-04-27 23:15:41,513     -t0
+2019-04-27 23:15:41,515     -w
+2019-04-27 23:15:41,516     "C:\Program Files (x86)\DisplayCAL\ref\SMPTE431_P3.gam"
+2019-04-27 23:15:41,516     -cn
+2019-04-27 23:15:41,517     -t.3
+2019-04-27 23:15:41,517     -s
+2019-04-27 23:15:41,519     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-04-27 23:15:41,519     -i
+2019-04-27 23:15:41,519     "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX vs
+2019-04-27 23:15:41,519       SMPTE431_P3.wrl"
+2019-04-27 23:15:41,520 
+2019-04-27 23:15:41,520 Intersecting volume = 478246.3 cubic units
+2019-04-27 23:15:41,522 'C:\Program Files (x86)\DisplayCAL\ref\SMPTE431_P3.gam' volume = 1176953.5 cubic units, intersect = 40.63%
+2019-04-27 23:15:41,522 'LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 478748.6 cubic units, intersect = 99.90%
+2019-04-27 23:15:41,796 --------------------------------------------------------------------------------

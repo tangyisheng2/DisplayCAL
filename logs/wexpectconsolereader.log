@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2019-05-02 00:51:03,377 ================================================================================
 2019-05-02 00:51:03,380 OEM code page: 936
 2019-05-02 00:51:03,382 Console output code page: 936
@@ -6,3 +7,45 @@
 2019-05-02 00:51:18,673 OEM code page: 936
 2019-05-02 00:51:18,675 Console output code page: 936
 2019-05-02 00:51:18,678 Spawning C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe -v -k "C:\Program Files (x86)\DisplayCAL\linear.cal" -d1 -c1 -yn "-P0.532144533083,0.650840751731,1.0" -Ibw "Measurement Report 3.8 ！ DELL U2719D @ 0, 0, 2560x1440 ！ 2019-05-02 00-50"
+=======
+2019-04-28 00:04:24,307 ================================================================================
+2019-04-28 00:04:24,310 OEM code page: 936
+2019-04-28 00:04:24,312 Console output code page: 936
+2019-04-28 00:04:24,314 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -d1 -c1 -yr "-P0.500395256917,0.501176470588,1.0" -Ibw -r
+2019-04-28 00:05:28,851 ================================================================================
+2019-04-28 00:05:28,853 OEM code page: 936
+2019-04-28 00:05:28,855 Console output code page: 936
+2019-04-28 00:05:28,858 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispread.exe" -v -k "MEASUR~1.CAL" -d1 -c1 -yr "-P0.500395256917,0.501176470588,1.0" -Ibw "Measurement Report 3.8 ！ LTN133HL05902 @ 0, 0, 1920x1080 ！ 2019-04-28 00-05"
+2019-04-28 00:10:14,269 ================================================================================
+2019-04-28 00:10:14,271 OEM code page: 936
+2019-04-28 00:10:14,272 Console output code page: 936
+2019-04-28 00:10:14,274 Spawning "D:\Program Files\Argyll_V2.1.0\bin\collink.exe" -v -qh -G -iaw -r65 -n -3m -et -Et -b -IB:0.0:2.4 Rec709.icm "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.icm" "LTN133HL05902 #1 2019-04-27 22-56 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4eGawt65.icm"
+2019-04-28 00:19:37,761 ================================================================================
+2019-04-28 00:19:37,763 OEM code page: 936
+2019-04-28 00:19:37,765 Console output code page: 936
+2019-04-28 00:19:37,767 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-19 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:21:59,024 ================================================================================
+2019-04-28 00:21:59,029 OEM code page: 936
+2019-04-28 00:21:59,031 Console output code page: 936
+2019-04-28 00:21:59,035 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-21 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:25:00,389 ================================================================================
+2019-04-28 00:25:00,391 OEM code page: 936
+2019-04-28 00:25:00,393 Console output code page: 936
+2019-04-28 00:25:00,396 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-24 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:25:51,968 ================================================================================
+2019-04-28 00:25:51,970 OEM code page: 936
+2019-04-28 00:25:51,972 Console output code page: 936
+2019-04-28 00:25:51,974 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-25 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:27:10,969 ================================================================================
+2019-04-28 00:27:10,971 OEM code page: 936
+2019-04-28 00:27:10,974 Console output code page: 936
+2019-04-28 00:27:10,976 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispcal.exe" -v2 -dweb:8080 -c1 -yr -ql -t6500 -g2.2 -f1.0 -k0 -A4.0 -b "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:36:45,024 ================================================================================
+2019-04-28 00:36:45,028 OEM code page: 936
+2019-04-28 00:36:45,030 Console output code page: 936
+2019-04-28 00:36:45,032 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispread.exe" -v -dweb:8080 -c1 -yr -K "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX.cal" "Web 2019-04-28 00-27 D6500 2.2 F-S XYZLUT+MTX"
+2019-04-28 00:42:34,737 ================================================================================
+2019-04-28 00:42:34,739 OEM code page: 936
+2019-04-28 00:42:34,741 Console output code page: 936
+2019-04-28 00:42:34,743 Spawning "D:\Program Files\Argyll_V2.1.0\bin\dispread.exe" -v -K "C:\Program Files (x86)\DisplayCAL\linear.cal" -dweb:8080 -c1 -yr "Measurement Report 3.8 ！ Web @ localhost ！ 2019-04-28 00-42"
+>>>>>>> refs/remotes/origin/master
