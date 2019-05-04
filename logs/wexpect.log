@@ -1,0 +1,98 @@
+2019-05-02 00:51:03,077 ================================================================================
+2019-05-02 00:51:03,079 Buffer size: 2000
+2019-05-02 00:51:03,082 Timeout: 20s
+2019-05-02 00:51:03,084 Environment:
+2019-05-02 00:51:03,086 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-05-02 00:51:03,088 	ONEDRIVECONSUMER=E:\tang-\Onedrive
+2019-05-02 00:51:03,091 	COMPUTERNAME=EASON-PC
+2019-05-02 00:51:03,093 	USERDOMAIN=EASON-PC
+2019-05-02 00:51:03,096 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Intel\Wired Networking\
+2019-05-02 00:51:03,098 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-05-02 00:51:03,100 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2019-05-02 00:51:03,103 	PROGRAMFILES=C:\Program Files (x86)
+2019-05-02 00:51:03,106 	PROCESSOR_REVISION=3c03
+2019-05-02 00:51:03,108 	SYSTEMROOT=C:\WINDOWS
+2019-05-02 00:51:03,110 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\ProgramData\Miniconda3;C:\ProgramData\Miniconda3\Library\mingw-w64\bin;C:\ProgramData\Miniconda3\Library\usr\bin;C:\ProgramData\Miniconda3\Library\bin;C:\ProgramData\Miniconda3\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\nvvm\bin;C:\Program Files\NVIDIA Corporation\NVSMI;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MacType;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;H:\Program Files\MATLAB\R2018b\runtime\win64;H:\Program Files\MATLAB\R2018b\bin;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Program Files\Microsoft VS Code\bin;C:\msys64\mingw64\bin;
+2019-05-02 00:51:03,113 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-05-02 00:51:03,115 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-05-02 00:51:03,118 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-05-02 00:51:03,120 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-05-02 00:51:03,122 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-05-02 00:51:03,125 	PROCESSOR_ARCHITECTURE=x86
+2019-05-02 00:51:03,127 	ALLUSERSPROFILE=C:\ProgramData
+2019-05-02 00:51:03,129 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-05-02 00:51:03,132 	HOMEPATH=\Users\tang-
+2019-05-02 00:51:03,135 	USERDOMAIN_ROAMINGPROFILE=EASON-PC
+2019-05-02 00:51:03,138 	PROGRAMW6432=C:\Program Files
+2019-05-02 00:51:03,141 	USERNAME=tang-
+2019-05-02 00:51:03,143 	LOGONSERVER=\\EASON-PC
+2019-05-02 00:51:03,145 	SESSIONNAME=Console
+2019-05-02 00:51:03,147 	PROGRAMDATA=C:\ProgramData
+2019-05-02 00:51:03,150 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-02 00:51:03,152 	ONEDRIVE=E:\tang-\Onedrive
+2019-05-02 00:51:03,155 	NVTOOLSEXT_PATH=C:\Program Files\NVIDIA Corporation\NvToolsExt\
+2019-05-02 00:51:03,158 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-05-02 00:51:03,161 	WINDIR=C:\WINDOWS
+2019-05-02 00:51:03,163 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-05-02 00:51:03,166 	HOMEDRIVE=C:
+2019-05-02 00:51:03,169 	SYSTEMDRIVE=C:
+2019-05-02 00:51:03,172 	NUMBER_OF_PROCESSORS=8
+2019-05-02 00:51:03,174 	PROCESSOR_LEVEL=6
+2019-05-02 00:51:03,177 	PROCESSOR_ARCHITEW6432=AMD64
+2019-05-02 00:51:03,180 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-05-02 00:51:03,182 	OS=Windows_NT
+2019-05-02 00:51:03,185 	PUBLIC=C:\Users\Public
+2019-05-02 00:51:03,187 	USERPROFILE=C:\Users\tang-
+2019-05-02 00:51:03,190 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-tgtwcm
+2019-05-02 00:51:03,193 Spawning C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe -v -k "C:\Program Files (x86)\DisplayCAL\linear.cal" -d1 -c1 -yn "-P0.532144533083,0.650840751731,1.0" -Ibw 0_16
+2019-05-02 00:51:03,196 Code page: 936
+2019-05-02 00:51:03,199 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['C:\\Users\\tang-\\AppData\\Roaming\\DisplayCAL\\dl\\Argyll_V2.1.0_mod\\bin\\dispread.exe', '-v', '-k', 'C:\\Program Files (x86)\\DisplayCAL\\linear.cal', '-d1', '-c1', '-yn', '-P0.532144533083,0.650840751731,1.0', '-Ibw', '0_16']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 25552, 20748, cp=936, c=160, r=None, logdir='DisplayCAL')"
+2019-05-02 00:51:18,423 ================================================================================
+2019-05-02 00:51:18,426 Buffer size: 2000
+2019-05-02 00:51:18,428 Timeout: 20s
+2019-05-02 00:51:18,431 Environment:
+2019-05-02 00:51:18,433 	TMP=C:\Users\tang-\AppData\Local\Temp
+2019-05-02 00:51:18,436 	ONEDRIVECONSUMER=E:\tang-\Onedrive
+2019-05-02 00:51:18,438 	COMPUTERNAME=EASON-PC
+2019-05-02 00:51:18,440 	USERDOMAIN=EASON-PC
+2019-05-02 00:51:18,443 	PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Intel\Wired Networking\
+2019-05-02 00:51:18,445 	COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+2019-05-02 00:51:18,448 	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2019-05-02 00:51:18,450 	PROGRAMFILES=C:\Program Files (x86)
+2019-05-02 00:51:18,452 	PROCESSOR_REVISION=3c03
+2019-05-02 00:51:18,455 	SYSTEMROOT=C:\WINDOWS
+2019-05-02 00:51:18,457 	PATH=C:\Program Files (x86)\NetSarang\Xshell 6\;C:\ProgramData\Miniconda3;C:\ProgramData\Miniconda3\Library\mingw-w64\bin;C:\ProgramData\Miniconda3\Library\usr\bin;C:\ProgramData\Miniconda3\Library\bin;C:\ProgramData\Miniconda3\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\nvvm\bin;C:\Program Files\NVIDIA Corporation\NVSMI;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\GnuPG\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MacType;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;H:\Program Files\MATLAB\R2018b\runtime\win64;H:\Program Files\MATLAB\R2018b\bin;C:\Users\tang-\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64;C:\Program Files\Microsoft VS Code\bin;C:\msys64\mingw64\bin;
+2019-05-02 00:51:18,460 	PROGRAMFILES(X86)=C:\Program Files (x86)
+2019-05-02 00:51:18,462 	COMSPEC=C:\WINDOWS\system32\cmd.exe
+2019-05-02 00:51:18,464 	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+2019-05-02 00:51:18,467 	TEMP=C:\Users\tang-\AppData\Local\Temp
+2019-05-02 00:51:18,469 	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+2019-05-02 00:51:18,471 	PROCESSOR_ARCHITECTURE=x86
+2019-05-02 00:51:18,474 	ALLUSERSPROFILE=C:\ProgramData
+2019-05-02 00:51:18,476 	LOCALAPPDATA=C:\Users\tang-\AppData\Local
+2019-05-02 00:51:18,479 	HOMEPATH=\Users\tang-
+2019-05-02 00:51:18,481 	USERDOMAIN_ROAMINGPROFILE=EASON-PC
+2019-05-02 00:51:18,484 	PROGRAMW6432=C:\Program Files
+2019-05-02 00:51:18,486 	USERNAME=tang-
+2019-05-02 00:51:18,488 	LOGONSERVER=\\EASON-PC
+2019-05-02 00:51:18,491 	SESSIONNAME=Console
+2019-05-02 00:51:18,493 	PROGRAMDATA=C:\ProgramData
+2019-05-02 00:51:18,496 	SSL_CERT_FILE=C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-02 00:51:18,498 	ONEDRIVE=E:\tang-\Onedrive
+2019-05-02 00:51:18,501 	NVTOOLSEXT_PATH=C:\Program Files\NVIDIA Corporation\NvToolsExt\
+2019-05-02 00:51:18,503 	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2019-05-02 00:51:18,505 	WINDIR=C:\WINDOWS
+2019-05-02 00:51:18,508 	APPDATA=C:\Users\tang-\AppData\Roaming
+2019-05-02 00:51:18,510 	HOMEDRIVE=C:
+2019-05-02 00:51:18,512 	SYSTEMDRIVE=C:
+2019-05-02 00:51:18,515 	NUMBER_OF_PROCESSORS=8
+2019-05-02 00:51:18,517 	PROCESSOR_LEVEL=6
+2019-05-02 00:51:18,520 	PROCESSOR_ARCHITEW6432=AMD64
+2019-05-02 00:51:18,522 	COMMONPROGRAMW6432=C:\Program Files\Common Files
+2019-05-02 00:51:18,525 	OS=Windows_NT
+2019-05-02 00:51:18,527 	PUBLIC=C:\Users\Public
+2019-05-02 00:51:18,530 	USERPROFILE=C:\Users\tang-
+2019-05-02 00:51:18,532 Working directory: c:\users\tang-\appdata\local\temp\DisplayCAL-tgtwcm
+2019-05-02 00:51:18,535 Spawning C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe -v -k "C:\Program Files (x86)\DisplayCAL\linear.cal" -d1 -c1 -yn "-P0.532144533083,0.650840751731,1.0" -Ibw "Measurement Report 3.8 ¡ª DELL U2719D @ 0, 0, 2560x1440 ¡ª 2019-05-02 00-50"
+2019-05-02 00:51:18,537 Code page: 936
+2019-05-02 00:51:18,540 "C:\Program Files (x86)\DisplayCAL\lib\python.exe" -S -c "import sys; sys.path = ['C:\\Program Files (x86)\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\library.zip\\DisplayCAL', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip', 'C:\\Program Files (x86)\\DisplayCAL\\lib\\library.zip\\DisplayCAL'] + sys.path;args = ['C:\\Users\\tang-\\AppData\\Roaming\\DisplayCAL\\dl\\Argyll_V2.1.0_mod\\bin\\dispread.exe', '-v', '-k', 'C:\\Program Files (x86)\\DisplayCAL\\linear.cal', '-d1', '-c1', '-yn', '-P0.532144533083,0.650840751731,1.0', '-Ibw', 'Measurement Report 3.8 \xa1\xaa DELL U2719D @ 0, 0, 2560x1440 \xa1\xaa 2019-05-02 00-50']; import wexpect;wexpect.ConsoleReader(wexpect.join_args(args), 25552, 20748, cp=936, c=160, r=None, logdir='DisplayCAL')"

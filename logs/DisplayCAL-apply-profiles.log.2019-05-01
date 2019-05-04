@@ -1,0 +1,185 @@
+2019-05-01 13:03:08,982 ================================================================================
+2019-05-01 13:03:08,983 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-05-01 13:03:08,987 Windows 10 Pro for Workstations Version 1903 Build 18362.53 x86_64
+2019-05-01 13:03:08,987 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-05-01 13:03:08,987 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-01 13:03:08,989 Faulthandler 3.0
+2019-05-01 13:03:09,474 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-05-01 13:03:09,479 Creating writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-05-01 13:03:09,480 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-05-01 13:03:09,483 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-05-01 13:03:09,483 Encoding: cp936
+2019-05-01 13:03:09,483 File system encoding: mbcs
+2019-05-01 13:03:09,661 Trying to create task 'DisplayCAL Profile Loader Launcher'...
+2019-05-01 13:03:12,200 SUCCESS: The scheduled task "DisplayCAL Profile Loader Launcher" has successfully been created.
+2019-05-01 13:03:12,206 Installing SIGINT handler
+2019-05-01 13:03:12,321 Detected Dell UltraSharp Calibration Solution. Calibration loading disabled.
+2019-05-01 13:03:12,334 Setting up scripting host at 127.0.0.1:15411
+2019-05-01 13:03:12,375 --------------------------------------------------------------------------------
+2019-05-01 13:03:12,375 Enumerating display adapters and devices:
+2019-05-01 13:03:12,375 
+2019-05-01 13:03:12,440 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-01 13:03:12,499 NVIDIA GeForce GTX 1070
+2019-05-01 13:03:12,499   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-01 13:03:12,591 Caching gamma ramps for profile DELL U2719D.icm
+2019-05-01 13:04:35,934 Detected DisplayCAL. Calibration loading disabled.
+2019-05-01 13:05:14,918 Scripting client 127.0.0.1:50326 connected
+2019-05-01 13:05:14,918 Received scripting request from 127.0.0.1:50326: getappname
+2019-05-01 13:05:14,920 Received scripting request from 127.0.0.1:50326: setcfg argyll.dir "C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin" force
+2019-05-01 13:05:14,921 Scripting client 127.0.0.1:50326 disconnected
+2019-05-01 13:08:02,154 Scripting client 127.0.0.1:52261 connected
+2019-05-01 13:08:02,155 Received scripting request from 127.0.0.1:52261: getappname
+2019-05-01 13:08:02,155 Received scripting request from 127.0.0.1:52261: setcfg argyll.dir "C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin" force
+2019-05-01 13:08:02,157 Scripting client 127.0.0.1:52261 disconnected
+2019-05-01 13:08:15,676 Received query to end session
+2019-05-01 13:08:15,676 Can veto
+2019-05-01 13:08:15,676 Trying to close main top-level application window...
+2019-05-01 13:08:15,677 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x0579AF80>)
+2019-05-01 13:08:15,769 Main top-level application window processed close event
+2019-05-01 13:08:15,769 Ending session
+2019-05-01 13:08:15,770 Executing BaseApp.OnExit()
+2019-05-01 13:08:15,770 Running application exit handlers
+2019-05-01 13:08:15,770 Shutting down profile loader
+2019-05-01 13:08:15,773 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-05-01 13:08:15,790 Display configuration monitoring thread finished
+2019-05-01 13:08:15,812 ScriptingHost.ConnectionHandler exited
+2019-05-01 13:08:15,815 Exiting DisplayCAL-apply-profiles
+2019-05-01 13:08:15,815 Calling sys.exit(0)
+2019-05-01 13:08:15,815 Ran application exit handlers
+2019-05-01 13:09:33,138 ================================================================================
+2019-05-01 13:09:33,263 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-05-01 13:09:33,450 Windows 10 Pro for Workstations Version 1903 Build 18362.86 x86_64
+2019-05-01 13:09:33,513 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-05-01 13:09:33,513 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-01 13:09:33,528 Faulthandler 3.0
+2019-05-01 13:09:35,841 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-05-01 13:09:35,841 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-05-01 13:09:35,855 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-05-01 13:09:35,855 Encoding: cp936
+2019-05-01 13:09:35,855 File system encoding: mbcs
+2019-05-01 13:09:35,888 Installing SIGINT handler
+2019-05-01 13:09:35,950 Setting up scripting host at 127.0.0.1:15411
+2019-05-01 13:09:35,980 --------------------------------------------------------------------------------
+2019-05-01 13:09:35,980 Enumerating display adapters and devices:
+2019-05-01 13:09:35,980 
+2019-05-01 13:09:36,184 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-01 13:09:36,278 NVIDIA GeForce GTX 1070
+2019-05-01 13:09:36,278   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-01 13:09:36,418 Caching gamma ramps for profile DELL U2719D.icm
+2019-05-01 13:09:36,466 Loading calibration curves of current display device profile...
+2019-05-01 13:09:36,528 1. DELL U2719D @ 0, 0, 2560x1440 (Primary): DELL U2719D.icm
+2019-05-01 13:09:36,559 ...ok.
+2019-05-01 13:11:15,247 Detected DisplayCAL. Calibration loading disabled.
+2019-05-01 13:30:06,984 SysTrayIcon.OnCommand(hwnd=66454, msg=273, wparam=130, lparam=0)
+2019-05-01 13:30:06,986 Menu command: Set quantization bitdepth 8
+2019-05-01 13:30:07,075 Caching gamma ramps for profile DELL U2719D.icm
+2019-05-01 13:30:08,473 SysTrayIcon.OnCommand(hwnd=66454, msg=273, wparam=159, lparam=0)
+2019-05-01 13:30:08,473 Menu command:
+2019-05-01 13:30:08,473 Set profile associations
+2019-05-01 13:33:16,788 Scripting client 127.0.0.1:59999 connected
+2019-05-01 13:33:16,789 Received scripting request from 127.0.0.1:59999: getappname
+2019-05-01 13:33:16,789 Received scripting request from 127.0.0.1:59999: getcfg profile.load_on_login
+2019-05-01 13:33:16,789 Scripting client 127.0.0.1:59999 disconnected
+2019-05-01 13:33:20,987 A profile change has been detected
+2019-05-01 13:33:20,987 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY] -> U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:33:21,066 Caching gamma ramps for profile U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:33:21,066 Loading calibration curves of current display device profile...
+2019-05-01 13:33:21,066 1. DELL U2719D @ 0, 0, 2560x1440 (Primary): U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:33:21,091 ...ok.
+2019-05-01 13:33:31,572 SysTrayIcon.OnCommand(hwnd=66454, msg=273, wparam=180, lparam=0)
+2019-05-01 13:33:31,572 Menu command:
+2019-05-01 13:33:31,572 Set profile associations
+2019-05-01 13:35:12,187 SysTrayIcon.OnCommand(hwnd=66454, msg=273, wparam=199, lparam=0)
+2019-05-01 13:35:12,187 Menu command: Set exceptions
+2019-05-01 13:35:16,105 Received query to end session
+2019-05-01 13:35:16,105 Can veto
+2019-05-01 13:35:16,105 Trying to close main top-level application window...
+2019-05-01 13:35:16,105 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x056F3BC0>)
+2019-05-01 13:35:16,108 Vetoed <wx._core.CloseEvent object at 0x056F3BC0>
+2019-05-01 13:35:16,108 Failed to close main top-level application window
+2019-05-01 13:35:16,108 Vetoed query to end session
+2019-05-01 13:35:52,923 Ending session
+2019-05-01 13:35:52,923 Executing BaseApp.OnExit()
+2019-05-01 13:35:52,923 Running application exit handlers
+2019-05-01 13:35:52,923 Shutting down profile loader
+2019-05-01 13:35:52,923 Shutting down display configuration monitoring thread
+2019-05-01 13:35:52,924 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-05-01 13:35:52,977 ScriptingHost.ConnectionHandler exited
+2019-05-01 13:35:52,977 Waiting for thread DisplayConfigurationMonitoring to exit
+2019-05-01 13:35:52,990 Display configuration monitoring thread finished
+2019-05-01 13:35:52,990 DisplayConfigurationMonitoring exited
+2019-05-01 13:35:52,990 Exiting DisplayCAL-apply-profiles
+2019-05-01 13:35:52,990 Calling sys.exit(0)
+2019-05-01 13:35:52,990 Ran application exit handlers
+2019-05-01 13:36:45,296 ================================================================================
+2019-05-01 13:36:45,296 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-05-01 13:36:45,312 Windows 10 Pro for Workstations Version 1903 Build 18362.86 x86_64
+2019-05-01 13:36:45,328 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-05-01 13:36:45,328 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-01 13:36:45,358 Faulthandler 3.0
+2019-05-01 13:36:50,890 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-05-01 13:36:50,890 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-05-01 13:36:50,905 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-05-01 13:36:50,905 Encoding: cp936
+2019-05-01 13:36:50,905 File system encoding: mbcs
+2019-05-01 13:36:51,322 Installing SIGINT handler
+2019-05-01 13:36:51,447 Setting up scripting host at 127.0.0.1:15411
+2019-05-01 13:36:51,447 --------------------------------------------------------------------------------
+2019-05-01 13:36:51,447 Enumerating display adapters and devices:
+2019-05-01 13:36:51,447 
+2019-05-01 13:36:51,542 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-01 13:36:51,619 NVIDIA GeForce GTX 1070
+2019-05-01 13:36:51,651   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-01 13:36:51,792 Caching gamma ramps for profile U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:36:51,792 Detected DisplayCAL. Calibration loading disabled.
+2019-05-01 14:06:27,280 No longer detecting DisplayCAL. Calibration loading enabled.
+2019-05-01 14:06:56,983 TaskBarIcon.on_left_down: Waiting to acquire lock...
+2019-05-01 14:06:57,052 TaskBarIcon.on_left_down: Acquired lock
+2019-05-01 14:06:57,053 TaskBarIcon.on_left_down: Releasing lock
+2019-05-01 14:07:12,677 Detected DisplayCAL. Calibration loading disabled.
+2019-05-01 18:14:08,605 No longer detecting DisplayCAL. Calibration loading enabled.
+2019-05-01 18:14:17,950 Detected madVR. Calibration loading disabled.
+2019-05-01 18:15:20,203 Detected DisplayCAL. Calibration loading disabled.
+2019-05-01 18:15:38,334 madVR did not reset gamma ramps for 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY], preserve calibration state
+2019-05-01 18:15:50,484 madVR did reset gamma ramps for 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY], do not preserve calibration state
+2019-05-01 18:35:58,395 madVR did not reset gamma ramps for 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY], preserve calibration state
+2019-05-01 18:36:27,078 madVR did reset gamma ramps for 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY], do not preserve calibration state
+2019-05-01 18:36:51,292 madVR did not reset gamma ramps for 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY], preserve calibration state
+2019-05-01 18:36:54,398 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 18:36:54,426 No longer detecting DisplayCAL. Calibration loading enabled.
+2019-05-01 18:37:19,211 Detected madVR. Calibration loading disabled.
+2019-05-01 18:37:46,941 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 18:37:56,279 Detected madVR. Calibration loading disabled.
+2019-05-01 18:38:42,753 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 18:39:35,994 TaskBarIcon.on_left_down: Waiting to acquire lock...
+2019-05-01 18:39:36,023 TaskBarIcon.on_left_down: Acquired lock
+2019-05-01 18:39:36,023 TaskBarIcon.on_left_down: Releasing lock
+2019-05-01 19:35:23,260 Detected madVR. Calibration loading disabled.
+2019-05-01 19:36:54,220 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 19:37:09,813 Detected madVR. Calibration loading disabled.
+2019-05-01 19:39:19,826 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 19:39:32,342 Detected madVR. Calibration loading disabled.
+2019-05-01 19:39:51,384 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 19:39:54,651 Detected madVR. Calibration loading disabled.
+2019-05-01 19:39:58,128 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 19:40:01,631 Detected madVR. Calibration loading disabled.
+2019-05-01 19:40:08,219 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 19:40:17,598 Detected madVR. Calibration loading disabled.
+2019-05-01 19:40:36,940 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 19:40:40,138 Detected madVR. Calibration loading disabled.
+2019-05-01 19:40:49,671 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 19:40:53,119 Detected madVR. Calibration loading disabled.
+2019-05-01 19:41:19,095 No longer detecting madVR. Calibration loading enabled.
+2019-05-01 22:07:19,724 <wx._core.DisplayChangedEvent object at 0x056C45D0>
+2019-05-01 22:07:19,786 ProcessDisplayChangedEvent: Acquired lock
+2019-05-01 22:07:19,786 --------------------------------------------------------------------------------
+2019-05-01 22:07:19,786 Enumerating display adapters and devices:
+2019-05-01 22:07:19,786 
+2019-05-01 22:07:19,825 DisplayConfigurationMonitoringThread: Waiting to acquire lock...
+2019-05-01 22:07:20,107 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-01 22:07:20,253 NVIDIA GeForce GTX 1070
+2019-05-01 22:07:20,256   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-01 22:07:20,256 ProcessDisplayChangedEvent: Releasing lock
+2019-05-01 22:07:20,256 DisplayConfigurationMonitoringThread: Acquired lock
+2019-05-01 22:07:20,319 DisplayConfigurationMonitoringThread: Releasing lock
+2019-05-01 22:07:20,321 DisplayConfigurationMonitoringThread: Released lock

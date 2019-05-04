@@ -1,0 +1,45 @@
+2019-05-01 13:39:03,832 --------------------------------------------------------------------------------
+2019-05-01 13:39:03,834 Working directory:
+2019-05-01 13:39:03,834   c:\
+2019-05-01 13:39:03,834    users\
+2019-05-01 13:39:03,834     tang-\
+2019-05-01 13:39:03,834      appdata\
+2019-05-01 13:39:03,834       local\
+2019-05-01 13:39:03,835        temp\
+2019-05-01 13:39:03,835         DisplayCAL-wdlpem\
+2019-05-01 13:39:03,835 
+2019-05-01 13:39:03,835 Command line:
+2019-05-01 13:39:03,835   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe
+2019-05-01 13:39:03,835     -v
+2019-05-01 13:39:03,836     -k
+2019-05-01 13:39:03,836     "C:\Program Files (x86)\DisplayCAL\linear.cal"
+2019-05-01 13:39:03,836     -d1
+2019-05-01 13:39:03,838     -c1
+2019-05-01 13:39:03,838     -yn
+2019-05-01 13:39:03,838     "-P0.455185358986,0.582591493571,1.0"
+2019-05-01 13:39:03,838     -Ibw
+2019-05-01 13:39:03,838     0_16
+2019-05-01 13:39:03,838 
+2019-05-01 13:39:04,881 DisplayCAL: Starting interaction with subprocess
+2019-05-01 13:39:04,884 Number of patches = 3
+2019-05-01 13:39:04,884 Setting up the instrument
+2019-05-01 13:39:05,918 Product Name:      i1Display3
+2019-05-01 13:39:05,918 Serial Number:     I1-17.B-02.285149.10
+2019-05-01 13:39:05,918 Firmware Version:  v2.28
+2019-05-01 13:39:05,920 Firmware Date:     29Jan14
+2019-05-01 13:39:06,196 Place instrument on test window.
+2019-05-01 13:39:06,197 DisplayCAL: Waiting for send buffer
+2019-05-01 13:39:07,693 DisplayCAL: Skipping place instrument on screen message...
+2019-05-01 13:39:07,724 DisplayCAL: Sending buffer: ' '
+2019-05-01 13:39:07,726 Hit Esc or Q to give up, any other key to continue:
+2019-05-01 13:39:10,338 Measured display update delay of 61 msec, using delay of 181 msec & 0 msec inst reaction
+2019-05-01 13:39:19,305 Patch 3 of 3
+2019-05-01 13:39:19,306 
+2019-05-01 13:39:19,308 Black drift was 0.000000 DE
+2019-05-01 13:39:19,308 White drift was 0.000000 DE
+2019-05-01 13:39:19,309 The instrument can be removed from the screen.
+2019-05-01 13:39:19,401 Written '0_16.ti3'
+2019-05-01 13:39:19,506 DisplayCAL: Reached EOF (OK)
+2019-05-01 13:39:19,549 RGB level 0 is 0.187863 cd/m2
+2019-05-01 13:39:19,551 RGB level 16 is 1.051691 cd/m2
+2019-05-01 13:39:19,552 Assuming full range output levels

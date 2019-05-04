@@ -1,0 +1,289 @@
+2019-05-02 00:48:10,111 ================================================================================
+2019-05-02 00:48:10,111 DisplayCAL.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-05-02 00:48:10,118 Windows 10 Pro for Workstations Version 1903 Build 18362.86 x86_64
+2019-05-02 00:48:10,118 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-05-02 00:48:10,118 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-02 00:48:10,121 Faulthandler 3.0
+2019-05-02 00:48:10,645 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-05-02 00:48:10,651 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-27'
+2019-05-02 00:48:10,655 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-05-02 00:48:10,655 Encoding: cp936
+2019-05-02 00:48:10,655 File system encoding: mbcs
+2019-05-02 00:48:11,098 Starting up...
+2019-05-02 00:48:11,990 Audio module: pyglet 1.2.2
+2019-05-02 00:48:14,124 Enumerating display devices and communication ports...
+2019-05-02 00:48:14,125 C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin
+2019-05-02 00:48:16,263 ArgyllCMS 2.1.0_mod
+2019-05-02 00:48:16,263 Argyll has virtual display support
+2019-05-02 00:48:16,263 ...ok.
+2019-05-02 00:48:16,371 Checking video card gamma table access for display 1...
+2019-05-02 00:48:16,803 Verify: 'test.cal' IS loaded (discrepancy 0.0%)
+2019-05-02 00:48:16,954 ...ok.
+2019-05-02 00:48:16,954 Initializing GUI...
+2019-05-02 00:48:17,555 
+2019-05-02 00:48:20,563 ...ok.
+2019-05-02 00:48:20,569 Ready.
+2019-05-02 00:48:20,901 Setting up scripting host at 127.0.0.1:60355
+2019-05-02 00:48:22,167 Check for application update...
+2019-05-02 00:48:23,118 DisplayCAL is up-to-date.
+2019-05-02 00:48:25,809 An update is available: ArgyllCMS 2.1.1
+2019-05-02 00:50:16,486 Found display device matching model description at index #0
+2019-05-02 00:50:55,221 Added 3 white patch(es)
+2019-05-02 00:51:02,318 --------------------------------------------------------------------------------
+2019-05-02 00:51:02,319 Measurement report...
+2019-05-02 00:51:03,055 Detecting output levels range...
+2019-05-02 00:51:03,061 --------------------------------------------------------------------------------
+2019-05-02 00:51:03,061 Session log: 0_16
+2019-05-02 00:51:03,062 
+2019-05-02 00:51:03,062 Working directory:
+2019-05-02 00:51:03,062   c:\
+2019-05-02 00:51:03,062    users\
+2019-05-02 00:51:03,062     tang-\
+2019-05-02 00:51:03,062      appdata\
+2019-05-02 00:51:03,063       local\
+2019-05-02 00:51:03,063        temp\
+2019-05-02 00:51:03,063         DisplayCAL-tgtwcm\
+2019-05-02 00:51:03,065 
+2019-05-02 00:51:03,065 Command line:
+2019-05-02 00:51:03,065   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe
+2019-05-02 00:51:03,065     -v
+2019-05-02 00:51:03,065     -k
+2019-05-02 00:51:03,065     "C:\Program Files (x86)\DisplayCAL\linear.cal"
+2019-05-02 00:51:03,069     -d1
+2019-05-02 00:51:03,069     -c1
+2019-05-02 00:51:03,069     -yn
+2019-05-02 00:51:03,069     "-P0.532144533083,0.650840751731,1.0"
+2019-05-02 00:51:03,069     -Ibw
+2019-05-02 00:51:03,071     0_16
+2019-05-02 00:51:03,071 
+2019-05-02 00:51:03,586 DisplayCAL: Starting interaction with subprocess
+2019-05-02 00:51:03,588 Number of patches = 3
+2019-05-02 00:51:03,588 Setting up the instrument
+2019-05-02 00:51:04,723 Product Name:      i1Display3
+2019-05-02 00:51:04,724 Serial Number:     I1-17.B-02.285149.10
+2019-05-02 00:51:04,724 Firmware Version:  v2.28
+2019-05-02 00:51:04,726 Firmware Date:     29Jan14
+2019-05-02 00:51:05,003 Place instrument on test window.
+2019-05-02 00:51:05,009 DisplayCAL: Waiting for send buffer
+2019-05-02 00:51:06,506 DisplayCAL: Skipping place instrument on screen message...
+2019-05-02 00:51:06,536 DisplayCAL: Sending buffer: ' '
+2019-05-02 00:51:06,539 Hit Esc or Q to give up, any other key to continue:
+2019-05-02 00:51:09,160 Measured display update delay of 61 msec, using delay of 181 msec & 0 msec inst reaction
+2019-05-02 00:51:18,188 Patch 3 of 3
+2019-05-02 00:51:18,190 
+2019-05-02 00:51:18,190 Black drift was 0.000000 DE
+2019-05-02 00:51:18,190 White drift was 0.000000 DE
+2019-05-02 00:51:18,191 The instrument can be removed from the screen.
+2019-05-02 00:51:18,288 Written '0_16.ti3'
+2019-05-02 00:51:18,391 DisplayCAL: Reached EOF (OK)
+2019-05-02 00:51:18,405 RGB level 0 is 0.205329 cd/m2
+2019-05-02 00:51:18,407 RGB level 16 is 0.477110 cd/m2
+2019-05-02 00:51:18,407 Assuming full range output levels
+2019-05-02 00:51:18,411 --------------------------------------------------------------------------------
+2019-05-02 00:51:18,411 Session log: Measurement Report 3.8 — DELL U2719D @ 0, 0, 2560x1440 — 2019-05-02 00-50
+2019-05-02 00:51:18,411 
+2019-05-02 00:51:18,413 Working directory:
+2019-05-02 00:51:18,413   c:\
+2019-05-02 00:51:18,413    users\
+2019-05-02 00:51:18,414     tang-\
+2019-05-02 00:51:18,414      appdata\
+2019-05-02 00:51:18,414       local\
+2019-05-02 00:51:18,414        temp\
+2019-05-02 00:51:18,415         DisplayCAL-tgtwcm\
+2019-05-02 00:51:18,415 
+2019-05-02 00:51:18,415 Command line:
+2019-05-02 00:51:18,417   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe
+2019-05-02 00:51:18,417     -v
+2019-05-02 00:51:18,417     -k
+2019-05-02 00:51:18,417     "C:\Program Files (x86)\DisplayCAL\linear.cal"
+2019-05-02 00:51:18,417     -d1
+2019-05-02 00:51:18,417     -c1
+2019-05-02 00:51:18,418     -yn
+2019-05-02 00:51:18,418     "-P0.532144533083,0.650840751731,1.0"
+2019-05-02 00:51:18,418     -Ibw
+2019-05-02 00:51:18,420     "Measurement Report 3.8 — DELL U2719D @ 0, 0, 2560x1440 — 2019-05-02 00-50"
+2019-05-02 00:51:18,420 
+2019-05-02 00:51:18,864 DisplayCAL: Starting interaction with subprocess
+2019-05-02 00:51:18,865 Number of patches = 54
+2019-05-02 00:51:18,867 Setting up the instrument
+2019-05-02 00:51:19,832 Product Name:      i1Display3
+2019-05-02 00:51:19,834 Serial Number:     I1-17.B-02.285149.10
+2019-05-02 00:51:19,835 Firmware Version:  v2.28
+2019-05-02 00:51:19,835 Firmware Date:     29Jan14
+2019-05-02 00:51:20,111 Place instrument on test window.
+2019-05-02 00:51:20,114 DisplayCAL: Waiting for send buffer
+2019-05-02 00:51:21,618 DisplayCAL: Skipping place instrument on screen message...
+2019-05-02 00:51:21,644 DisplayCAL: Sending buffer: ' '
+2019-05-02 00:51:21,644 Hit Esc or Q to give up, any other key to continue:
+2019-05-02 00:51:24,256 Measured display update delay of 61 msec, using delay of 181 msec & 0 msec inst reaction
+2019-05-02 00:52:23,117 Patch 54 of 54
+2019-05-02 00:52:23,118 Black drift was 0.001771 DE
+2019-05-02 00:52:23,118 White drift was 0.059829 DE
+2019-05-02 00:52:23,118 The instrument can be removed from the screen.
+2019-05-02 00:52:23,381 DisplayCAL: Reached EOF (OK)
+2019-05-02 00:52:23,381 Written 'Measurement Report 3.8 — DELL U2719D @ 0, 0, 2560x1440 — 2019-05-02 00-50.ti3'
+2019-05-02 00:52:23,427 ...ok.
+2019-05-02 00:54:50,434 Found display device matching model description at index #0
+2019-05-02 00:55:53,016 --------------------------------------------------------------------------------
+2019-05-02 00:55:53,016 Working directory:
+2019-05-02 00:55:53,017   C:\
+2019-05-02 00:55:53,019    Users\
+2019-05-02 00:55:53,019     tang-\
+2019-05-02 00:55:53,020      AppData\
+2019-05-02 00:55:53,023       Roaming\
+2019-05-02 00:55:53,023        DisplayCAL\
+2019-05-02 00:55:53,025         storage\
+2019-05-02 00:55:53,026          U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX\
+2019-05-02 00:55:53,026 
+2019-05-02 00:55:53,026 Command line:
+2019-05-02 00:55:53,028   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\iccgamut.exe
+2019-05-02 00:55:53,029     -v
+2019-05-02 00:55:53,030     -w
+2019-05-02 00:55:53,032     -ia
+2019-05-02 00:55:53,032     -ff
+2019-05-02 00:55:53,033     -on
+2019-05-02 00:55:53,035     -d10.00
+2019-05-02 00:55:53,036     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-05-02 00:55:53,036 
+2019-05-02 00:55:53,710 Header:
+2019-05-02 00:55:53,710   size         = 742216 bytes
+2019-05-02 00:55:53,710   CMM          = 'argl'
+2019-05-02 00:55:53,710   Version      = 2.2.0
+2019-05-02 00:55:53,710   Device Class = Display
+2019-05-02 00:55:53,710   Color Space  = RGB
+2019-05-02 00:55:53,710   Conn. Space  = XYZ
+2019-05-02 00:55:53,710   Date, Time   = 1 May 2019, 13:49:58
+2019-05-02 00:55:53,710   Platform     = Microsoft
+2019-05-02 00:55:53,710   Flags        = Not Embedded Profile, Use anywhere
+2019-05-02 00:55:53,710   Dev. Mnfctr. = 0xac10
+2019-05-02 00:55:53,711   Dev. Model   = 0x415a
+2019-05-02 00:55:53,711   Dev. Attrbts = Reflective, Glossy, Positive, Color
+2019-05-02 00:55:53,711   Rndrng Intnt = Perceptual
+2019-05-02 00:55:53,711   Illuminant   = 0.96420288, 1.00000000, 0.82490540    [Lab 100.000000, 0.000000, 0.000000]
+2019-05-02 00:55:53,711   Creator      = 'DCAL'
+2019-05-02 00:55:53,711 
+2019-05-02 00:55:53,711 Total volume of gamut is 862307.758895 cubic colorspace units
+2019-05-02 00:55:53,713 --------------------------------------------------------------------------------
+2019-05-02 00:55:53,713 Working directory:
+2019-05-02 00:55:53,713   C:\
+2019-05-02 00:55:53,713    WINDOWS\
+2019-05-02 00:55:53,713     system32\
+2019-05-02 00:55:53,713      spool\
+2019-05-02 00:55:53,714       drivers\
+2019-05-02 00:55:53,714        color\
+2019-05-02 00:55:53,714 
+2019-05-02 00:55:53,714 Command line:
+2019-05-02 00:55:53,716   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\iccgamut.exe
+2019-05-02 00:55:53,716     -v
+2019-05-02 00:55:53,716     -w
+2019-05-02 00:55:53,716     -ia
+2019-05-02 00:55:53,716     -ff
+2019-05-02 00:55:53,717     -on
+2019-05-02 00:55:53,717     -d10.00
+2019-05-02 00:55:53,717     AdobeRGB1998.icc
+2019-05-02 00:55:53,717 
+2019-05-02 00:55:54,505 Header:
+2019-05-02 00:55:54,505   size         = 560 bytes
+2019-05-02 00:55:54,505   CMM          = 'ADBE'
+2019-05-02 00:55:54,505   Version      = 2.1.0
+2019-05-02 00:55:54,505   Device Class = Display
+2019-05-02 00:55:54,505   Color Space  = RGB
+2019-05-02 00:55:54,505   Conn. Space  = XYZ
+2019-05-02 00:55:54,505   Date, Time   = 11 Aug 2000, 19:51:59
+2019-05-02 00:55:54,505   Platform     = Macintosh
+2019-05-02 00:55:54,505   Flags        = Not Embedded Profile, Use anywhere
+2019-05-02 00:55:54,505   Dev. Mnfctr. = 'none'
+2019-05-02 00:55:54,506   Dev. Model   = 0x0
+2019-05-02 00:55:54,506   Dev. Attrbts = Reflective, Glossy, Positive, Color
+2019-05-02 00:55:54,506   Rndrng Intnt = Perceptual
+2019-05-02 00:55:54,506   Illuminant   = 0.96420288, 1.00000000, 0.82490540    [Lab 100.000000, 0.000000, 0.000000]
+2019-05-02 00:55:54,506   Creator      = 'ADBE'
+2019-05-02 00:55:54,506 
+2019-05-02 00:55:54,506 Total volume of gamut is 1311020.626352 cubic colorspace units
+2019-05-02 00:55:56,068 --------------------------------------------------------------------------------
+2019-05-02 00:55:56,069 Command line:
+2019-05-02 00:55:56,069   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\viewgam.exe
+2019-05-02 00:55:56,069     -cw
+2019-05-02 00:55:56,069     -t0
+2019-05-02 00:55:56,069     -w
+2019-05-02 00:55:56,071     C:\WINDOWS\system32\spool\drivers\color\AdobeRGB1998.gam
+2019-05-02 00:55:56,071     -cn
+2019-05-02 00:55:56,071     -t.3
+2019-05-02 00:55:56,071     -s
+2019-05-02 00:55:56,072     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-05-02 00:55:56,072     -i
+2019-05-02 00:55:56,072     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX [A] vs AdobeRGB1998
+2019-05-02 00:55:56,072       [A].wrl"
+2019-05-02 00:55:56,072 
+2019-05-02 00:55:56,072 Intersecting volume = 858128.1 cubic units
+2019-05-02 00:55:56,072 'C:\WINDOWS\system32\spool\drivers\color\AdobeRGB1998.gam' volume = 1311020.6 cubic units, intersect = 65.45%
+2019-05-02 00:55:56,072 'U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 862307.8 cubic units, intersect = 99.52%
+2019-05-02 00:57:30,036 Loading calibration curves from file...
+2019-05-02 00:57:30,036 C:\Users\tang-\AppData\Roaming\DisplayCAL\storage\U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX\U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-05-02 00:57:30,141 About to open dispwin object on the display
+2019-05-02 00:57:30,141 About to clear the calibration
+2019-05-02 00:57:30,141 About to set display to given calibration
+2019-05-02 00:57:30,141 Calibration set
+2019-05-02 00:57:30,141 About to destroy dispwin object
+2019-05-02 00:57:30,142 ...ok.
+2019-05-02 00:57:30,168 DisplayCAL-apply-profiles getcfg profile.load_on_login returned profile.load_on_login = 1
+2019-05-02 00:57:35,355 Loading calibration curves of current display device profile...
+2019-05-02 00:57:35,355 C:\WINDOWS\system32\spool\drivers\color\U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-05-02 00:57:35,479 About to open dispwin object on the display
+2019-05-02 00:57:35,479 About to clear the calibration
+2019-05-02 00:57:35,479 About to set display to given calibration
+2019-05-02 00:57:35,479 Calibration set
+2019-05-02 00:57:35,479 About to destroy dispwin object
+2019-05-02 00:57:35,480 ...ok.
+2019-05-02 00:57:37,415 Loading calibration curves from file...
+2019-05-02 00:57:37,415 C:\Users\tang-\AppData\Roaming\DisplayCAL\storage\U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX\U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-05-02 00:57:37,530 About to open dispwin object on the display
+2019-05-02 00:57:37,530 About to clear the calibration
+2019-05-02 00:57:37,530 About to set display to given calibration
+2019-05-02 00:57:37,530 Calibration set
+2019-05-02 00:57:37,530 About to destroy dispwin object
+2019-05-02 00:57:37,532 ...ok.
+2019-05-02 00:57:37,549 DisplayCAL-apply-profiles getcfg profile.load_on_login returned profile.load_on_login = 1
+2019-05-02 00:57:43,490 Loading calibration curves of current display device profile...
+2019-05-02 00:57:43,492 C:\WINDOWS\system32\spool\drivers\color\U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-05-02 00:57:43,619 About to open dispwin object on the display
+2019-05-02 00:57:43,619 About to clear the calibration
+2019-05-02 00:57:43,619 About to set display to given calibration
+2019-05-02 00:57:43,619 Calibration set
+2019-05-02 00:57:43,619 About to destroy dispwin object
+2019-05-02 00:57:43,619 ...ok.
+2019-05-02 00:57:45,003 Found display device matching model description at index #0
+2019-05-02 00:57:46,233 Loading calibration curves from file...
+2019-05-02 00:57:46,233 C:\Users\tang-\AppData\Roaming\DisplayCAL\storage\U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX\U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-05-02 00:57:46,338 About to open dispwin object on the display
+2019-05-02 00:57:46,338 About to clear the calibration
+2019-05-02 00:57:46,338 About to set display to given calibration
+2019-05-02 00:57:46,338 Calibration set
+2019-05-02 00:57:46,338 About to destroy dispwin object
+2019-05-02 00:57:46,339 ...ok.
+2019-05-02 00:57:46,358 DisplayCAL-apply-profiles getcfg profile.load_on_login returned profile.load_on_login = 1
+2019-05-02 01:56:27,473 Received query to end session
+2019-05-02 01:56:28,611 Can veto
+2019-05-02 01:56:28,612 Trying to close main top-level application window...
+2019-05-02 01:56:28,617 Closing <DisplayCAL.wxwindows.ConfirmDialog object at 0x130A1EE0> 'Install profile'
+2019-05-02 01:56:28,789 Main top-level application window processed close event
+2019-05-02 01:56:28,790 Received query to end session
+2019-05-02 01:56:28,792 Can veto
+2019-05-02 01:56:28,793 Received query to end session
+2019-05-02 01:56:28,795 Can veto
+2019-05-02 01:56:28,796 Received query to end session
+2019-05-02 01:56:28,798 Can veto
+2019-05-02 01:56:28,799 Received query to end session
+2019-05-02 01:56:28,799 Can veto
+2019-05-02 01:56:28,802 Received query to end session
+2019-05-02 01:56:28,803 Can veto
+2019-05-02 01:56:28,805 Received query to end session
+2019-05-02 01:56:28,805 Can veto
+2019-05-02 01:56:28,808 Received query to end session
+2019-05-02 01:56:28,809 Can veto
+2019-05-02 01:56:28,835 Ending session
+2019-05-02 01:56:28,836 Executing BaseApp.OnExit()
+2019-05-02 01:56:28,838 Running application exit handlers
+2019-05-02 01:56:28,842 Exiting DisplayCAL
+2019-05-02 01:56:28,842 Calling sys.exit(0)
+2019-05-02 01:56:29,078 Ran application exit handlers

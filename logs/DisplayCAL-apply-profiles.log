@@ -1,0 +1,19 @@
+2019-05-04 00:42:14,683 Detected madVR. Calibration loading disabled.
+2019-05-04 00:45:53,148 No longer detecting madVR. Calibration loading enabled.
+2019-05-04 01:30:10,361 Received query to end session
+2019-05-04 01:30:10,369 Can veto
+2019-05-04 01:30:10,371 Trying to close main top-level application window...
+2019-05-04 01:30:10,371 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x058B1850>)
+2019-05-04 01:30:10,562 Main top-level application window processed close event
+2019-05-04 01:30:10,569 Ending session
+2019-05-04 01:30:10,569 Executing BaseApp.OnExit()
+2019-05-04 01:30:10,569 Running application exit handlers
+2019-05-04 01:30:10,569 Shutting down profile loader
+2019-05-04 01:30:10,582 Waiting for thread DisplayConfigurationMonitoring to exit
+2019-05-04 01:30:10,635 Display configuration monitoring thread finished
+2019-05-04 01:30:10,638 DisplayConfigurationMonitoring exited
+2019-05-04 01:30:10,638 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-05-04 01:30:10,680 ScriptingHost.ConnectionHandler exited
+2019-05-04 01:30:10,684 Exiting DisplayCAL-apply-profiles
+2019-05-04 01:30:10,686 Calling sys.exit(0)
+2019-05-04 01:30:10,687 Ran application exit handlers

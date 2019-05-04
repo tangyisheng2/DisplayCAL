@@ -1,0 +1,82 @@
+2019-05-01 18:30:53,786 Apply calibration (vcgt)
+2019-05-01 18:30:53,789 --------------------------------------------------------------------------------
+2019-05-01 18:30:53,790 Working directory:
+2019-05-01 18:30:53,792   c:\
+2019-05-01 18:30:53,792    users\
+2019-05-01 18:30:53,792     tang-\
+2019-05-01 18:30:53,793      appdata\
+2019-05-01 18:30:53,793       local\
+2019-05-01 18:30:53,793        temp\
+2019-05-01 18:30:53,795         DisplayCAL-a76i6u\
+2019-05-01 18:30:53,795 
+2019-05-01 18:30:53,796 Command line:
+2019-05-01 18:30:53,796   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\applycal.exe
+2019-05-01 18:30:53,796     -v
+2019-05-01 18:30:53,796     "madVR 2019-05-01 18-15 0.3127x 0.329y S XYZLUT+MTX.cal"
+2019-05-01 18:30:53,798     "madVR 2019-05-01 18-15 0.3127x 0.329y S XYZLUT+MTX.icm"
+2019-05-01 18:30:53,798     "madVR 2019-05-01 18-15 0.3127x 0.329y S XYZLUT+MTX.icm"
+2019-05-01 18:30:53,799 
+2019-05-01 18:30:54,539 Rec2020.icm → SMPTE 2084 (roll-off) 480 cd/m² (mastering 0-10000 cd/m²)
+2019-05-01 18:30:54,539 Black XYZ (normalized 0..100) = 0.091130 0.092939 0.077782
+2019-05-01 18:30:54,539 Black Lab = 0.839515 0.061307 -0.021082
+2019-05-01 18:30:54,539 Output offset = 0.00%
+2019-05-01 18:30:54,651 Content colorspace White x 0.3127
+2019-05-01 18:30:54,653 Content colorspace White y 0.3290
+2019-05-01 18:30:54,653 Content colorspace Red x 0.6800
+2019-05-01 18:30:54,653 Content colorspace Red y 0.3200
+2019-05-01 18:30:54,654 Content colorspace Green x 0.2650
+2019-05-01 18:30:54,654 Content colorspace Green y 0.6900
+2019-05-01 18:30:54,654 Content colorspace Blue x 0.1500
+2019-05-01 18:30:54,654 Content colorspace Blue y 0.0600
+2019-05-01 18:30:54,654 Using chromatic adaptation transform matrix: Bradford
+2019-05-01 18:30:54,885 Generating device-to-PCS shaper curves...
+2019-05-01 18:30:54,937 Generating lookup table and applying HDR tone mapping...
+2019-05-01 18:31:16,816 Doing backward lookup...
+2019-05-01 18:32:14,461 Doing forward lookup...
+2019-05-01 18:32:17,283 Determining chroma compression factors...
+2019-05-01 18:32:26,457 Applying chroma compression and filling cLUT...
+2019-05-01 18:32:29,273 100%
+2019-05-01 18:32:29,292 Applying black offset (normalized 0..100) 0.091130 0.092939 0.077782...
+2019-05-01 18:32:31,858 100%
+2019-05-01 18:32:32,453 Generating input values...
+2019-05-01 18:32:33,017 Input RGB (0..255) 16.000000 16.000000 16.000000
+2019-05-01 18:32:40,568 Input RGB (0..255) 235.000000 235.000000 235.000000
+2019-05-01 18:32:40,944 100%
+2019-05-01 18:32:40,944 Skipped 47679 duplicate input values
+2019-05-01 18:32:40,944 Looking up input values through source profile...
+2019-05-01 18:32:43,936 100%
+2019-05-01 18:32:45,381 Looking for solution...
+2019-05-01 18:32:45,589 Solution found at index 1183 (step size 0.000500)
+2019-05-01 18:32:45,591 RGB white 1.0000 0.9664 0.9655
+2019-05-01 18:32:45,591 XYZ white 0.8942 0.9408 1.0246, CCT 6503.6 K
+2019-05-01 18:32:45,799 Creating device link from backward lookup (2 workers)...
+2019-05-01 18:32:50,684 100%
+2019-05-01 18:32:50,684 Filling cLUT...
+2019-05-01 18:32:50,690 Black hack - forcing output RGB 0 0 0
+2019-05-01 18:32:53,190 100%
+2019-05-01 18:32:53,828 Finished creating device link in 21.375 seconds
+2019-05-01 18:32:57,016 --------------------------------------------------------------------------------
+2019-05-01 18:32:57,019 Working directory:
+2019-05-01 18:32:57,019   c:\
+2019-05-01 18:32:57,019    users\
+2019-05-01 18:32:57,019     tang-\
+2019-05-01 18:32:57,020      appdata\
+2019-05-01 18:32:57,020       local\
+2019-05-01 18:32:57,022        temp\
+2019-05-01 18:32:57,023         DisplayCAL-a76i6u\
+2019-05-01 18:32:57,023 
+2019-05-01 18:32:57,023 Command line:
+2019-05-01 18:32:57,023   C:\Program Files (x86)\DisplayCAL\DisplayCAL-eeColor-to-madVR-converter.exe
+2019-05-01 18:32:57,025     "--colorspace=0.708,0.292,0.17,0.797,0.131,0.046,0.3127,0.329"
+2019-05-01 18:32:57,026     "--hdr=1"
+2019-05-01 18:32:57,026     --convert-video-rgb-to-clut65
+2019-05-01 18:32:57,026     --append-linear-cal
+2019-05-01 18:32:57,026     --batch
+2019-05-01 18:32:57,026     "madVR 2019-05-01 18-15 0.3127x 0.329y S
+2019-05-01 18:32:57,028       XYZLUT+MTX.Rec2020.0.0,2084@480ssh0.5Gawt65.icm"
+2019-05-01 18:32:57,028 
+2019-05-01 18:32:57,821 DisplayCAL: Waiting for EOF
+2019-05-01 18:32:58,000 Looking up 256^3 input values through device link and writing madVR 3D LUT...
+2019-05-01 18:34:18,441 100%
+2019-05-01 18:34:18,441 Finished up-interpolating device link and writing madVR 3D LUT in 80.4470000267 seconds
+2019-05-01 18:34:18,553 DisplayCAL: Reached EOF (OK)

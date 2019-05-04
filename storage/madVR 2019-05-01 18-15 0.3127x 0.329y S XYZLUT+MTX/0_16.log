@@ -1,0 +1,51 @@
+2019-05-01 18:15:51,153 --------------------------------------------------------------------------------
+2019-05-01 18:15:51,803 Connected to madVR version 0.92.17.0 (F:\MPC\Essentials\madVR\madHcNet32.dll)
+2019-05-01 18:15:51,816 Output levels: 0-255
+2019-05-01 18:15:51,819 Pattern area: 100%
+2019-05-01 18:15:51,819 Background level: 30%
+2019-05-01 18:15:51,821 Background mode: APL linear
+2019-05-01 18:15:51,821 Border width: 20 pixels
+2019-05-01 18:15:51,822 
+2019-05-01 18:15:51,822 Working directory:
+2019-05-01 18:15:51,822   c:\
+2019-05-01 18:15:51,822    users\
+2019-05-01 18:15:51,823     tang-\
+2019-05-01 18:15:51,823      appdata\
+2019-05-01 18:15:51,825       local\
+2019-05-01 18:15:51,825        temp\
+2019-05-01 18:15:51,826         DisplayCAL-6db0kx\
+2019-05-01 18:15:51,828 
+2019-05-01 18:15:51,828 Command line:
+2019-05-01 18:15:51,828   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe
+2019-05-01 18:15:51,828     "-P0.5,0.5,10.000000"
+2019-05-01 18:15:51,829     -v
+2019-05-01 18:15:51,829     -K
+2019-05-01 18:15:51,831     "C:\Program Files (x86)\DisplayCAL\linear.cal"
+2019-05-01 18:15:51,831     -dmadvr
+2019-05-01 18:15:51,831     -c1
+2019-05-01 18:15:51,832     -yn
+2019-05-01 18:15:51,832     -Iw
+2019-05-01 18:15:51,832     0_16
+2019-05-01 18:15:51,832 
+2019-05-01 18:15:52,492 DisplayCAL: Starting interaction with subprocess
+2019-05-01 18:15:52,494 Number of patches = 3
+2019-05-01 18:15:52,494 Setting up the instrument
+2019-05-01 18:15:53,513 Product Name:      i1Display3
+2019-05-01 18:15:53,513 Serial Number:     I1-17.B-02.285149.10
+2019-05-01 18:15:53,513 Firmware Version:  v2.28
+2019-05-01 18:15:53,513 Firmware Date:     29Jan14
+2019-05-01 18:15:53,671 Created MadVR window
+2019-05-01 18:15:54,515 Place instrument on test window.
+2019-05-01 18:15:54,517 DisplayCAL: Waiting for send buffer
+2019-05-01 18:16:08,533 DisplayCAL: Sending buffer: ' '
+2019-05-01 18:16:08,536 Hit Esc or Q to give up, any other key to continue:
+2019-05-01 18:16:11,706 Measured display update delay of 0 msec, using delay of 100 msec & 0 msec inst reaction
+2019-05-01 18:16:19,650 Patch 3 of 3
+2019-05-01 18:16:19,650 
+2019-05-01 18:16:19,654 White drift was 0.000000 DE
+2019-05-01 18:16:19,654 The instrument can be removed from the screen.
+2019-05-01 18:16:19,755 Written '0_16.ti3'
+2019-05-01 18:16:19,858 DisplayCAL: Reached EOF (OK)
+2019-05-01 18:16:19,880 RGB level 0 is 0.201882 cd/m2
+2019-05-01 18:16:19,881 RGB level 16 is 0.466788 cd/m2
+2019-05-01 18:16:19,881 Assuming full range output levels

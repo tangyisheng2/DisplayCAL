@@ -1,0 +1,8 @@
+2019-05-02 00:51:03,377 ================================================================================
+2019-05-02 00:51:03,380 OEM code page: 936
+2019-05-02 00:51:03,382 Console output code page: 936
+2019-05-02 00:51:03,385 Spawning C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe -v -k "C:\Program Files (x86)\DisplayCAL\linear.cal" -d1 -c1 -yn "-P0.532144533083,0.650840751731,1.0" -Ibw 0_16
+2019-05-02 00:51:18,670 ================================================================================
+2019-05-02 00:51:18,673 OEM code page: 936
+2019-05-02 00:51:18,675 Console output code page: 936
+2019-05-02 00:51:18,678 Spawning C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe -v -k "C:\Program Files (x86)\DisplayCAL\linear.cal" -d1 -c1 -yn "-P0.532144533083,0.650840751731,1.0" -Ibw "Measurement Report 3.8 ¡ª DELL U2719D @ 0, 0, 2560x1440 ¡ª 2019-05-02 00-50"

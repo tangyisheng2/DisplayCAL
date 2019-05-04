@@ -1,0 +1,2118 @@
+2019-05-01 13:24:37,395 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 13:24:38,062 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 13:24:38,704 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 13:24:38,783 Exiting worker process NonDaemonicPoolWorker-4
+2019-05-01 13:24:42,582 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 13:24:43,420 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 13:24:43,607 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 13:24:44,105 Exiting worker process NonDaemonicPoolWorker-4
+2019-05-01 13:24:46,881 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 13:24:47,601 Exiting worker process NonDaemonicPoolWorker-3
+2019-05-01 13:24:48,073 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 13:24:48,884 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 13:24:49,369 Exiting worker process NonDaemonicPoolWorker-4
+2019-05-01 13:24:50,315 Exiting worker process NonDaemonicPoolWorker-2
+2019-05-01 13:24:51,144 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 13:24:51,417 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 13:24:51,470 Exiting worker process NonDaemonicPoolWorker-3
+2019-05-01 13:24:53,848 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 13:37:20,989 ================================================================================
+2019-05-01 13:37:20,989 DisplayCAL.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-05-01 13:37:20,996 Windows 10 Pro for Workstations Version 1903 Build 18362.86 x86_64
+2019-05-01 13:37:20,997 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-05-01 13:37:20,997 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-01 13:37:20,999 Faulthandler 3.0
+2019-05-01 13:37:21,464 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-05-01 13:37:21,470 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-27'
+2019-05-01 13:37:21,473 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-05-01 13:37:21,474 Encoding: cp936
+2019-05-01 13:37:21,474 File system encoding: mbcs
+2019-05-01 13:37:23,482 Connection to 127.0.0.1:60213 failed: [Errno 10061] No connection could be made because the target machine actively refused it
+2019-05-01 13:37:24,388 Starting up...
+2019-05-01 13:37:24,825 Audio module: pyglet 1.2.2
+2019-05-01 13:37:27,484 Enumerating display devices and communication ports...
+2019-05-01 13:37:27,486 C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin
+2019-05-01 13:37:29,654 ArgyllCMS 2.1.0_mod
+2019-05-01 13:37:29,654 Argyll has virtual display support
+2019-05-01 13:37:29,654 ...ok.
+2019-05-01 13:37:29,757 Checking video card gamma table access for display 1...
+2019-05-01 13:37:30,174 Verify: 'test.cal' IS loaded (discrepancy 0.0%)
+2019-05-01 13:37:30,309 ...ok.
+2019-05-01 13:37:30,309 Initializing GUI...
+2019-05-01 13:37:30,957 
+2019-05-01 13:37:33,538 ...ok.
+2019-05-01 13:37:33,542 Ready.
+2019-05-01 13:37:33,818 Setting up scripting host at 127.0.0.1:50341
+2019-05-01 13:37:33,963 Check for application update...
+2019-05-01 13:37:35,661 DisplayCAL is up-to-date.
+2019-05-01 13:37:36,805 ArgyllCMS is up-to-date.
+2019-05-01 13:39:02,974 --------------------------------------------------------------------------------
+2019-05-01 13:39:02,974 Calibrate & profile
+2019-05-01 13:39:03,825 Detecting output levels range...
+2019-05-01 13:39:03,832 --------------------------------------------------------------------------------
+2019-05-01 13:39:03,832 Session log: 0_16
+2019-05-01 13:39:03,832 
+2019-05-01 13:39:03,832 Working directory:
+2019-05-01 13:39:03,834   c:\
+2019-05-01 13:39:03,834    users\
+2019-05-01 13:39:03,834     tang-\
+2019-05-01 13:39:03,834      appdata\
+2019-05-01 13:39:03,834       local\
+2019-05-01 13:39:03,835        temp\
+2019-05-01 13:39:03,835         DisplayCAL-wdlpem\
+2019-05-01 13:39:03,835 
+2019-05-01 13:39:03,835 Command line:
+2019-05-01 13:39:03,835   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe
+2019-05-01 13:39:03,835     -v
+2019-05-01 13:39:03,835     -k
+2019-05-01 13:39:03,836     "C:\Program Files (x86)\DisplayCAL\linear.cal"
+2019-05-01 13:39:03,836     -d1
+2019-05-01 13:39:03,838     -c1
+2019-05-01 13:39:03,838     -yn
+2019-05-01 13:39:03,838     "-P0.455185358986,0.582591493571,1.0"
+2019-05-01 13:39:03,838     -Ibw
+2019-05-01 13:39:03,838     0_16
+2019-05-01 13:39:03,838 
+2019-05-01 13:39:04,881 DisplayCAL: Starting interaction with subprocess
+2019-05-01 13:39:04,884 Number of patches = 3
+2019-05-01 13:39:04,884 Setting up the instrument
+2019-05-01 13:39:05,917 Product Name:      i1Display3
+2019-05-01 13:39:05,918 Serial Number:     I1-17.B-02.285149.10
+2019-05-01 13:39:05,918 Firmware Version:  v2.28
+2019-05-01 13:39:05,920 Firmware Date:     29Jan14
+2019-05-01 13:39:06,194 Place instrument on test window.
+2019-05-01 13:39:06,197 DisplayCAL: Waiting for send buffer
+2019-05-01 13:39:07,693 DisplayCAL: Skipping place instrument on screen message...
+2019-05-01 13:39:07,724 DisplayCAL: Sending buffer: ' '
+2019-05-01 13:39:07,726 Hit Esc or Q to give up, any other key to continue:
+2019-05-01 13:39:10,338 Measured display update delay of 61 msec, using delay of 181 msec & 0 msec inst reaction
+2019-05-01 13:39:19,305 Patch 3 of 3
+2019-05-01 13:39:19,306 
+2019-05-01 13:39:19,306 Black drift was 0.000000 DE
+2019-05-01 13:39:19,308 White drift was 0.000000 DE
+2019-05-01 13:39:19,308 The instrument can be removed from the screen.
+2019-05-01 13:39:19,401 Written '0_16.ti3'
+2019-05-01 13:39:19,506 DisplayCAL: Reached EOF (OK)
+2019-05-01 13:39:19,549 RGB level 0 is 0.187863 cd/m2
+2019-05-01 13:39:19,551 RGB level 16 is 1.051691 cd/m2
+2019-05-01 13:39:19,552 Assuming full range output levels
+2019-05-01 13:39:19,563 --------------------------------------------------------------------------------
+2019-05-01 13:39:19,565 Session log: U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:39:19,565 
+2019-05-01 13:39:19,565 Working directory:
+2019-05-01 13:39:19,565   c:\
+2019-05-01 13:39:19,565    users\
+2019-05-01 13:39:19,566     tang-\
+2019-05-01 13:39:19,566      appdata\
+2019-05-01 13:39:19,568       local\
+2019-05-01 13:39:19,569        temp\
+2019-05-01 13:39:19,569         DisplayCAL-wdlpem\
+2019-05-01 13:39:19,569 
+2019-05-01 13:39:19,571 Command line:
+2019-05-01 13:39:19,571   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispcal.exe
+2019-05-01 13:39:19,572     -v2
+2019-05-01 13:39:19,572     -d1
+2019-05-01 13:39:19,572     -c1
+2019-05-01 13:39:19,572     -yn
+2019-05-01 13:39:19,573     "-P0.455185358986,0.582591493571,1.0"
+2019-05-01 13:39:19,573     -Ibw
+2019-05-01 13:39:19,575     -ql
+2019-05-01 13:39:19,575     -t6500
+2019-05-01 13:39:19,575     -g2.2
+2019-05-01 13:39:19,575     -f1.0
+2019-05-01 13:39:19,576     -k0
+2019-05-01 13:39:19,576     -A4.0
+2019-05-01 13:39:19,578     -b
+2019-05-01 13:39:19,578     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX"
+2019-05-01 13:39:19,578 
+2019-05-01 13:39:20,443 DisplayCAL: Starting interaction with subprocess
+2019-05-01 13:39:20,444 Setting up the instrument
+2019-05-01 13:39:21,367 Product Name:      i1Display3
+2019-05-01 13:39:21,368 Serial Number:     I1-17.B-02.285149.10
+2019-05-01 13:39:21,368 Firmware Version:  v2.28
+2019-05-01 13:39:21,368 Firmware Date:     29Jan14
+2019-05-01 13:39:21,650 Place instrument on test window.
+2019-05-01 13:39:21,651 DisplayCAL: Waiting for send buffer
+2019-05-01 13:39:23,148 DisplayCAL: Skipping place instrument on screen message...
+2019-05-01 13:39:23,180 DisplayCAL: Sending buffer: ' '
+2019-05-01 13:39:23,183 Hit Esc or Q to give up, any other key to continue:
+2019-05-01 13:39:23,184 Display type is 'n'
+2019-05-01 13:39:23,186 Target white = 6500.000000 degrees kelvin Daylight spectrum
+2019-05-01 13:39:23,194 Target white brightness = native brightness
+2019-05-01 13:39:23,196 Target black brightness = native brightness
+2019-05-01 13:39:23,197 Black point device hack is enabled
+2019-05-01 13:39:23,197 Target advertised gamma = 2.200000
+2019-05-01 13:39:23,197 
+2019-05-01 13:39:23,198 Display adjustment menu:
+2019-05-01 13:39:23,200 Press 1 .. 7
+2019-05-01 13:39:23,200 1) Black level (CRT: Offset/Brightness)
+2019-05-01 13:39:23,201 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-05-01 13:39:23,201 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-05-01 13:39:23,203 4) Black point (R,G,B, Offset/Brightness)
+2019-05-01 13:39:23,203 5) Check all
+2019-05-01 13:39:23,204 6) Measure and set ambient for viewing condition adjustment
+2019-05-01 13:39:23,204 7) Continue on to calibration
+2019-05-01 13:39:23,206 8) Exit
+2019-05-01 13:39:23,211 DisplayCAL: Waiting for send buffer
+2019-05-01 13:39:25,707 DisplayCAL: Sending buffer: '2'
+2019-05-01 13:39:25,709 Doing some initial measurements
+2019-05-01 13:39:28,322 Measured display update delay of 61 msec, using delay of 181 msec & 0 msec inst reaction
+2019-05-01 13:39:31,653 Red   = XYZ 74.642 39.467  2.226
+2019-05-01 13:39:31,654 Green = XYZ 68.271 133.793 23.520
+2019-05-01 13:39:31,654 Blue  = XYZ 35.234 13.422 188.298
+2019-05-01 13:39:32,346 White = XYZ 178.751 186.904 215.517
+2019-05-01 13:39:32,348 
+2019-05-01 13:39:32,348 Adjust R,G & B gain to get target x,y. Press space when done.
+2019-05-01 13:39:32,354    Target Br 186.90, x 0.3128 , y 0.3292
+2019-05-01 13:39:52,759 DisplayCAL: Sending buffer: ' '
+2019-05-01 13:39:52,957 / Current Br 200.36, x 0.3075+, y 0.3216+  DE  3.9  R+  G+  B--
+2019-05-01 13:39:52,957 
+2019-05-01 13:39:52,957 Press 1 .. 7
+2019-05-01 13:39:52,959 1) Black level (CRT: Offset/Brightness)
+2019-05-01 13:39:52,959 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-05-01 13:39:52,959 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-05-01 13:39:52,961 4) Black point (R,G,B, Offset/Brightness)
+2019-05-01 13:39:52,963 5) Check all
+2019-05-01 13:39:52,963 6) Measure and set ambient for viewing condition adjustment
+2019-05-01 13:39:52,963 7) Continue on to calibration
+2019-05-01 13:39:52,963 8) Exit
+2019-05-01 13:39:52,964 DisplayCAL: Waiting for send buffer
+2019-05-01 13:39:53,473 DisplayCAL: Sending buffer: '7'
+2019-05-01 13:39:53,474 Commencing display calibration
+2019-05-01 13:40:13,338 Patch 9 of 9
+2019-05-01 13:40:13,338 
+2019-05-01 13:40:13,342 Black = XYZ 0.1984 0.2014 0.3576
+2019-05-01 13:40:13,342 Red   = XYZ 79.931 42.269  2.387
+2019-05-01 13:40:13,342 Green = XYZ 73.179 143.449 25.206
+2019-05-01 13:40:13,342 Blue  = XYZ 37.792 14.387 201.971
+2019-05-01 13:40:13,344 White = XYZ 191.548 200.385 231.017
+2019-05-01 13:41:46,020 Patch 48 of 48
+2019-05-01 13:41:46,131 
+2019-05-01 13:41:46,132 Initial native brightness target = 200.384847 cd/m^2
+2019-05-01 13:41:46,132 Had to scale brightness from 200.384847 to 197.556221 to fit within gamut,
+2019-05-01 13:41:46,132 corresponding to aprox. RGB 1.000000 0.993024 0.958819
+2019-05-01 13:41:46,134 Target white value is XYZ 187.712337 197.556221 214.847643 [xy 0.312793 0.329197]
+2019-05-01 13:41:46,135 Adjusted target black XYZ 0.1984 0.2014 0.3576, Lab 0.921 0.145 -1.004
+2019-05-01 13:41:46,137 Target black after min adjust: XYZ 0.1984 0.2014 0.3576, Lab 0.921 0.145 -1.004
+2019-05-01 13:41:46,137 Gamma curve input offset = 0.000000, output offset = 0.001020, power = 2.205303
+2019-05-01 13:41:46,137 Total Iteration 2, Final Samples = 32 Final Repeat threshold = 0.900000
+2019-05-01 13:41:46,137 Creating initial calibration curves...
+2019-05-01 13:41:46,236 
+2019-05-01 13:41:46,237 Doing iteration 1/2 with 16 sample points and repeat threshold of 1.272792 DE
+2019-05-01 13:41:46,717 Patch 1 of 16 DE 0.936863, W.DE 0.936863, OK ( < 1.272792)
+2019-05-01 13:41:47,236 Patch 2 of 16 DE 1.977704, W.DE 1.977704, Repeat
+2019-05-01 13:41:47,792 Patch 2 of 16 DE 0.231297, W.DE 0.231297, OK ( < 1.272792)
+2019-05-01 13:41:48,305 Patch 3 of 16 DE 2.153472, W.DE 2.153472, Repeat
+2019-05-01 13:41:48,858 Patch 3 of 16 DE 0.505044, W.DE 0.505044, OK ( < 1.272792)
+2019-05-01 13:41:49,371 Patch 4 of 16 DE 1.770645, W.DE 1.770645, Repeat
+2019-05-01 13:41:49,913 Patch 4 of 16 DE 0.355198, W.DE 0.355198, OK ( < 1.272792)
+2019-05-01 13:41:50,421 Patch 5 of 16 DE 1.416188, W.DE 1.416188, Repeat
+2019-05-01 13:41:50,954 Patch 5 of 16 DE 0.222874, W.DE 0.222874, OK ( < 1.272792)
+2019-05-01 13:41:51,470 Patch 6 of 16 DE 1.289481, W.DE 1.289481, Repeat
+2019-05-01 13:41:52,007 Patch 6 of 16 DE 0.216121, W.DE 0.216121, OK ( < 1.272792)
+2019-05-01 13:41:52,737 Patch 7 of 16 DE 1.420732, W.DE 1.420732, Repeat
+2019-05-01 13:41:53,483 Patch 7 of 16 DE 0.129604, W.DE 0.129604, OK ( < 1.272792)
+2019-05-01 13:41:54,255 Patch 8 of 16 DE 1.435513, W.DE 1.435513, Repeat
+2019-05-01 13:41:55,049 Patch 8 of 16 DE 0.402982, W.DE 0.402982, OK ( < 1.272792)
+2019-05-01 13:41:55,901 Patch 9 of 16 DE 1.571846, W.DE 1.571846, Repeat
+2019-05-01 13:41:56,753 Patch 9 of 16 DE 0.083820, W.DE 0.083820, OK ( < 1.272792)
+2019-05-01 13:41:57,688 Patch 10 of 16 DE 0.715748, W.DE 0.715748, OK ( < 1.272792)
+2019-05-01 13:41:58,789 Patch 11 of 16 DE 1.233637, W.DE 1.233637, OK ( < 1.272792)
+2019-05-01 13:42:00,331 Patch 12 of 16 DE 1.400712, W.DE 1.400712, Repeat
+2019-05-01 13:42:01,799 Patch 12 of 16 DE 0.205750, W.DE 0.205750, OK ( < 1.272792)
+2019-05-01 13:42:03,865 Patch 13 of 16 DE 0.714664, W.DE 0.714664, OK ( < 1.174769)
+2019-05-01 13:42:10,164 Patch 14 of 16 DE 0.470569, W.DE 0.470569, Repeat
+2019-05-01 13:42:19,332 Patch 14 of 16 DE 0.470569, W.DE 0.470569, Repeat
+2019-05-01 13:42:21,661 Patch 14 of 16 DE 0.498855, W.DE 0.498855, Repeat
+2019-05-01 13:42:24,158 Patch 14 of 16 DE 0.962285, W.DE 1.233262, Repeat
+2019-05-01 13:42:26,357 Patch 14 of 16 DE 0.820374, W.DE 0.820374, Repeat
+2019-05-01 13:42:28,737 Patch 14 of 16 DE 0.371094, W.DE 0.371094, Repeat
+2019-05-01 13:42:31,282 Patch 14 of 16 DE 0.607584, W.DE 0.607584, Repeat (got worse)
+2019-05-01 13:42:33,588 Patch 14 of 16 DE 0.673313, W.DE 0.673313, Repeat (got worse)
+2019-05-01 13:42:35,838 Patch 14 of 16 DE 0.313218, W.DE 0.360934, Repeat
+2019-05-01 13:42:38,255 Patch 14 of 16 DE 0.298504, W.DE 0.348232, Fail ( > 0.340466)
+2019-05-01 13:42:40,947 Patch 15 of 16 DE 0.079602, W.DE 0.079602, Repeat
+2019-05-01 13:42:51,244 Patch 15 of 16 DE 0.079602, W.DE 0.079602, Repeat
+2019-05-01 13:42:53,956 Patch 15 of 16 DE 0.247877, W.DE 60.394709, Repeat (got worse)
+2019-05-01 13:42:56,589 Patch 15 of 16 DE 0.248067, W.DE 60.408358, Repeat (got worse)
+2019-05-01 13:42:59,226 Patch 15 of 16 DE 0.247949, W.DE 60.441176, Repeat (got worse)
+2019-05-01 13:43:01,861 Patch 15 of 16 DE 0.247272, W.DE 60.348038, Repeat (got worse)
+2019-05-01 13:43:08,108 Patch 15 of 16 DE 0.080838, W.DE 0.080838, Repeat
+2019-05-01 13:43:10,734 Patch 15 of 16 DE 0.248557, W.DE 60.341418, Repeat (got worse)
+2019-05-01 13:43:13,375 Patch 15 of 16 DE 0.078844, W.DE 0.078844, Repeat
+2019-05-01 13:43:16,005 Patch 15 of 16 DE 0.078844, W.DE 0.078844, Fail ( > 0.050000)
+2019-05-01 13:43:18,661 Patch 16 of 16 DE 0.053978, W.DE 53.977897, Repeat
+2019-05-01 13:43:28,987 Patch 16 of 16 DE 0.053978, W.DE 53.977897, Repeat
+2019-05-01 13:43:31,709 Patch 16 of 16 DE 0.054122, W.DE 54.121888, Repeat (got worse)
+2019-05-01 13:43:34,344 Patch 16 of 16 DE 0.053884, W.DE 53.883777, Repeat
+2019-05-01 13:43:36,980 Patch 16 of 16 DE 0.053767, W.DE 53.766825, Repeat
+2019-05-01 13:43:39,654 Patch 16 of 16 DE 0.000667, W.DE 0.666647, Repeat
+2019-05-01 13:43:42,321 Patch 16 of 16 DE 0.000752, W.DE 0.751545, Repeat (got worse)
+2019-05-01 13:43:44,990 Patch 16 of 16 DE 0.000590, W.DE 0.590337, Repeat
+2019-05-01 13:43:47,657 Patch 16 of 16 DE 0.000956, W.DE 0.956378, Repeat (got worse)
+2019-05-01 13:43:50,329 Patch 16 of 16 DE 0.000590, W.DE 0.590337, Fail ( > 0.050000)
+2019-05-01 13:43:50,331 
+2019-05-01 13:43:50,336 Brightness error = 0.289287 cd/m^2 (is 197.845508, should be 197.556221)
+2019-05-01 13:43:50,338 White point error = 0.934697 deltaE
+2019-05-01 13:43:50,339 Maximum neutral error (@ 0.172427) = 1.234117 deltaE
+2019-05-01 13:43:50,341 Average neutral error = 0.395899 deltaE
+2019-05-01 13:43:50,342 Failed to meet target 1.272792 delta E, got worst case 0.590337
+2019-05-01 13:43:50,342 Number of measurements taken = 61
+2019-05-01 13:43:50,344 Computing update to calibration curves...
+2019-05-01 13:43:50,384 
+2019-05-01 13:43:50,385 Doing iteration 2/2 with 32 sample points and repeat threshold of 0.900000 DE
+2019-05-01 13:43:51,075 Patch 1 of 32 DE 0.870767, W.DE 0.870767, W.peqDE 0.870767, OK ( < 0.900000)
+2019-05-01 13:43:51,565 Patch 2 of 32 DE 0.145787, W.DE 0.145787, peqDE 0.945511, Repeat
+2019-05-01 13:43:57,101 Patch 2 of 32 DE 0.145787, W.DE 0.145787, peqDE 0.945511, Repeat
+2019-05-01 13:43:57,667 Patch 2 of 32 DE 0.550351, W.DE 0.550351, W.peqDE 0.332354, OK ( < 0.900000)
+2019-05-01 13:43:58,154 Patch 3 of 32 DE 0.451616, W.DE 0.451616, W.peqDE 0.483144, OK ( < 0.900000)
+2019-05-01 13:43:58,640 Patch 4 of 32 DE 0.497127, W.DE 0.497127, W.peqDE 0.139718, OK ( < 0.900000)
+2019-05-01 13:43:59,125 Patch 5 of 32 DE 0.260176, W.DE 0.260176, W.peqDE 0.416828, OK ( < 0.900000)
+2019-05-01 13:43:59,622 Patch 6 of 32 DE 0.420083, W.DE 0.420083, W.peqDE 0.508578, OK ( < 0.900000)
+2019-05-01 13:44:00,105 Patch 7 of 32 DE 0.315281, W.DE 0.315281, W.peqDE 0.460344, OK ( < 0.900000)
+2019-05-01 13:44:00,591 Patch 8 of 32 DE 0.466456, W.DE 0.466456, W.peqDE 0.242773, OK ( < 0.900000)
+2019-05-01 13:44:01,076 Patch 9 of 32 DE 0.315999, W.DE 0.315999, W.peqDE 0.768160, OK ( < 0.900000)
+2019-05-01 13:44:01,575 Patch 10 of 32 DE 0.203057, W.DE 0.203057, W.peqDE 0.180830, OK ( < 0.900000)
+2019-05-01 13:44:02,058 Patch 11 of 32 DE 0.403604, W.DE 0.403604, W.peqDE 0.279492, OK ( < 0.900000)
+2019-05-01 13:44:02,542 Patch 12 of 32 DE 0.307609, W.DE 0.307609, W.peqDE 0.275963, OK ( < 0.900000)
+2019-05-01 13:44:03,025 Patch 13 of 32 DE 0.490395, W.DE 0.490395, W.peqDE 0.310617, OK ( < 0.900000)
+2019-05-01 13:44:03,727 Patch 14 of 32 DE 0.545310, W.DE 0.545310, W.peqDE 0.299248, OK ( < 0.900000)
+2019-05-01 13:44:04,469 Patch 15 of 32 DE 0.384609, W.DE 0.384609, W.peqDE 0.233276, OK ( < 0.900000)
+2019-05-01 13:44:05,233 Patch 16 of 32 DE 0.455059, W.DE 0.455059, W.peqDE 0.272054, OK ( < 0.900000)
+2019-05-01 13:44:06,029 Patch 17 of 32 DE 0.235897, W.DE 0.235897, W.peqDE 0.665749, OK ( < 0.900000)
+2019-05-01 13:44:06,855 Patch 18 of 32 DE 0.715422, W.DE 0.715422, W.peqDE 0.654662, OK ( < 0.900000)
+2019-05-01 13:44:07,744 Patch 19 of 32 DE 0.688923, W.DE 0.688923, W.peqDE 0.635821, OK ( < 0.900000)
+2019-05-01 13:44:08,691 Patch 20 of 32 DE 0.891727, W.DE 0.891727, peqDE 1.097451, Repeat
+2019-05-01 13:44:16,114 Patch 20 of 32 DE 0.721682, W.DE 0.721682, W.peqDE 0.512244, OK ( < 0.900000)
+2019-05-01 13:44:17,154 Patch 21 of 32 DE 1.381755, W.DE 1.381755, peqDE 1.794542, Repeat
+2019-05-01 13:44:18,187 Patch 21 of 32 DE 0.654567, W.DE 0.654567, W.peqDE 0.319182, OK ( < 0.900000)
+2019-05-01 13:44:19,306 Patch 22 of 32 DE 0.842452, W.DE 0.842452, peqDE 1.254978, Repeat
+2019-05-01 13:44:23,786 Patch 22 of 32 DE 0.688582, W.DE 0.688582, W.peqDE 0.652900, OK ( < 0.900000)
+2019-05-01 13:44:25,148 Patch 23 of 32 DE 1.046351, W.DE 1.046351, peqDE 1.199605, Repeat
+2019-05-01 13:44:26,494 Patch 23 of 32 DE 0.281467, W.DE 0.281467, W.peqDE 0.692038, OK ( < 0.900000)
+2019-05-01 13:44:28,006 Patch 24 of 32 DE 1.061397, W.DE 1.061397, peqDE 1.149884, Repeat
+2019-05-01 13:44:29,487 Patch 24 of 32 DE 0.248195, W.DE 0.248195, W.peqDE 0.239649, OK ( < 0.900000)
+2019-05-01 13:44:31,186 Patch 25 of 32 DE 0.595339, W.DE 0.595339, W.peqDE 0.652326, OK ( < 0.900000)
+2019-05-01 13:44:33,073 Patch 26 of 32 DE 0.182754, W.DE 0.182754, W.peqDE 0.174918, OK ( < 0.652345)
+2019-05-01 13:44:35,246 Patch 27 of 32 DE 0.369949, W.DE 0.369949, W.peqDE 0.370782, OK ( < 0.394386)
+2019-05-01 13:44:37,377 Patch 28 of 32 DE 0.504632, W.DE 1.830395, peqDE 1.864101, Repeat
+2019-05-01 13:44:39,836 Patch 28 of 32 DE 0.330469, W.DE 0.748896, peqDE 0.701294, Repeat
+2019-05-01 13:44:42,211 Patch 28 of 32 DE 0.305311, W.DE 0.305311, peqDE 0.447330, Repeat
+2019-05-01 13:44:55,334 Patch 28 of 32 DE 0.305311, W.DE 0.305311, peqDE 0.447330, Repeat
+2019-05-01 13:44:57,831 Patch 28 of 32 DE 0.336319, W.DE 0.753629, peqDE 0.704682, Repeat
+2019-05-01 13:45:00,213 Patch 28 of 32 DE 0.304126, W.DE 0.304126, peqDE 0.445764, Repeat
+2019-05-01 13:45:02,711 Patch 28 of 32 DE 0.558677, W.DE 0.871811, peqDE 0.804607, Repeat (got worse)
+2019-05-01 13:45:05,095 Patch 28 of 32 DE 0.305044, W.DE 0.305044, peqDE 0.446962, Repeat (got worse)
+2019-05-01 13:45:07,559 Patch 28 of 32 DE 0.331677, W.DE 0.745258, peqDE 0.696837, Repeat
+2019-05-01 13:45:09,930 Patch 28 of 32 DE 0.304126, W.DE 0.304126, W.peqDE 0.445764, Fail ( > 0.211010)
+2019-05-01 13:45:12,427 Patch 29 of 32 DE 0.344760, W.DE 19.586205, peqDE 19.589595, Repeat
+2019-05-01 13:45:15,049 Patch 29 of 32 DE 0.148323, W.DE 1.035254, peqDE 1.026236, Repeat
+2019-05-01 13:45:25,099 Patch 29 of 32 DE 0.148323, W.DE 1.035254, peqDE 1.026236, Repeat
+2019-05-01 13:45:27,773 Patch 29 of 32 DE 0.145050, W.DE 1.034001, peqDE 1.025630, Repeat
+2019-05-01 13:45:30,361 Patch 29 of 32 DE 0.146508, W.DE 1.029304, peqDE 1.020617, Repeat
+2019-05-01 13:45:32,947 Patch 29 of 32 DE 0.149454, W.DE 1.014062, peqDE 1.004571, Repeat
+2019-05-01 13:45:35,535 Patch 29 of 32 DE 0.149726, W.DE 0.999779, peqDE 0.990137, Repeat
+2019-05-01 13:45:38,165 Patch 29 of 32 DE 0.113600, W.DE 2.142785, peqDE 2.161964, Repeat
+2019-05-01 13:45:40,792 Patch 29 of 32 DE 0.109468, W.DE 2.149728, peqDE 2.168578, Repeat
+2019-05-01 13:45:43,434 Patch 29 of 32 DE 0.206366, W.DE 0.206366, W.peqDE 0.244114, Fail ( > 0.093166)
+2019-05-01 13:45:46,056 Patch 30 of 32 DE 0.220469, W.DE 61.869014, peqDE 61.869037, Repeat
+2019-05-01 13:45:59,770 Patch 30 of 32 DE 0.220469, W.DE 61.869014, peqDE 61.869037, Repeat
+2019-05-01 13:46:02,503 Patch 30 of 32 DE 0.355698, W.DE 54.742240, peqDE 54.742701, Repeat
+2019-05-01 13:46:05,209 Patch 30 of 32 DE 0.073398, W.DE 0.073398, peqDE 0.110377, Repeat
+2019-05-01 13:46:07,868 Patch 30 of 32 DE 0.076680, W.DE 0.076680, peqDE 0.004719, Repeat
+2019-05-01 13:46:10,545 Patch 30 of 32 DE 0.074443, W.DE 0.074443, peqDE 0.110783, Repeat (got worse)
+2019-05-01 13:46:13,194 Patch 30 of 32 DE 0.077988, W.DE 0.077988, peqDE 0.004452, Repeat
+2019-05-01 13:46:15,868 Patch 30 of 32 DE 0.074329, W.DE 0.074329, peqDE 0.110175, Repeat (got worse)
+2019-05-01 13:46:18,516 Patch 30 of 32 DE 0.255707, W.DE 66.882776, peqDE 0.004719, Repeat (got worse)
+2019-05-01 13:46:21,174 Patch 30 of 32 DE 0.076680, W.DE 0.076680, W.peqDE 0.004719, Fail ( > 0.050000)
+2019-05-01 13:46:23,854 Patch 31 of 32 DE 0.017525, W.DE 0.017525, peqDE 0.088929, Repeat
+2019-05-01 13:46:34,224 Patch 31 of 32 DE 0.015452, W.DE 0.015452, peqDE 0.089471, Repeat
+2019-05-01 13:46:36,986 Patch 31 of 32 DE 0.015408, W.DE 0.015408, peqDE 0.088815, Repeat
+2019-05-01 13:46:39,670 Patch 31 of 32 DE 0.015806, W.DE 0.015806, peqDE 0.088067, Repeat (got worse)
+2019-05-01 13:46:42,338 Patch 31 of 32 DE 0.016776, W.DE 0.016776, peqDE 0.090007, Repeat (got worse)
+2019-05-01 13:46:45,006 Patch 31 of 32 DE 0.014192, W.DE 0.014192, peqDE 0.088746, Repeat
+2019-05-01 13:46:47,677 Patch 31 of 32 DE 0.016706, W.DE 0.016706, peqDE 0.088602, Repeat (got worse)
+2019-05-01 13:46:50,344 Patch 31 of 32 DE 0.016164, W.DE 0.016164, peqDE 0.090161, Repeat (got worse)
+2019-05-01 13:46:56,618 Patch 31 of 32 DE 0.017568, W.DE 0.017568, peqDE 0.088832, Repeat (got worse)
+2019-05-01 13:46:59,286 Patch 31 of 32 DE 0.014192, W.DE 0.014192, W.peqDE 0.088746, Fail ( > 0.050000)
+2019-05-01 13:47:01,983 Patch 32 of 32 DE 0.000008, W.DE 0.008228, W.peqDE 0.008228, OK ( < 0.050000)
+2019-05-01 13:47:01,983 
+2019-05-01 13:47:01,983 Brightness error = 0.291212 cd/m^2 (is 197.847433, should be 197.556221)
+2019-05-01 13:47:01,983 White point error = 0.868475 deltaE
+2019-05-01 13:47:01,984 Maximum neutral error (@ 1.000000) = 0.870767 deltaE
+2019-05-01 13:47:01,984 Average neutral error = 0.403423 deltaE
+2019-05-01 13:47:01,986 Failed to meet target 0.900000 delta E, got worst case 0.590337
+2019-05-01 13:47:01,986 Number of measurements taken = 96
+2019-05-01 13:47:01,989 Computing update to calibration curves...
+2019-05-01 13:47:02,019 Black drift was 0.003944 DE
+2019-05-01 13:47:02,019 White drift was 0.127591 DE
+2019-05-01 13:47:02,019 The instrument can be removed from the screen.
+2019-05-01 13:47:02,114 Written calibration file 'U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.cal'
+2019-05-01 13:47:02,219 DisplayCAL: Reached EOF (OK)
+2019-05-01 13:47:02,296 --------------------------------------------------------------------------------
+2019-05-01 13:47:02,296 Session log: U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:47:02,298 
+2019-05-01 13:47:02,298 Working directory:
+2019-05-01 13:47:02,298   c:\
+2019-05-01 13:47:02,298    users\
+2019-05-01 13:47:02,299     tang-\
+2019-05-01 13:47:02,299      appdata\
+2019-05-01 13:47:02,299       local\
+2019-05-01 13:47:02,299        temp\
+2019-05-01 13:47:02,299         DisplayCAL-wdlpem\
+2019-05-01 13:47:02,299 
+2019-05-01 13:47:02,299 Command line:
+2019-05-01 13:47:02,301   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe
+2019-05-01 13:47:02,301     -v
+2019-05-01 13:47:02,301     -d1
+2019-05-01 13:47:02,302     -c1
+2019-05-01 13:47:02,302     -yn
+2019-05-01 13:47:02,302     "-P0.455185358986,0.582591493571,1.0"
+2019-05-01 13:47:02,302     -Ibw
+2019-05-01 13:47:02,302     -k
+2019-05-01 13:47:02,302     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.cal"
+2019-05-01 13:47:02,302     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX"
+2019-05-01 13:47:02,303 
+2019-05-01 13:47:02,801 DisplayCAL: Starting interaction with subprocess
+2019-05-01 13:47:02,802 Number of patches = 175
+2019-05-01 13:47:02,802 Setting up the instrument
+2019-05-01 13:47:03,746 Product Name:      i1Display3
+2019-05-01 13:47:03,746 Serial Number:     I1-17.B-02.285149.10
+2019-05-01 13:47:03,746 Firmware Version:  v2.28
+2019-05-01 13:47:03,746 Firmware Date:     29Jan14
+2019-05-01 13:47:04,023 Place instrument on test window.
+2019-05-01 13:47:04,025 DisplayCAL: Waiting for send buffer
+2019-05-01 13:47:05,520 DisplayCAL: Skipping place instrument on screen message...
+2019-05-01 13:47:05,553 DisplayCAL: Sending buffer: ' '
+2019-05-01 13:47:05,555 Hit Esc or Q to give up, any other key to continue:
+2019-05-01 13:47:08,164 Measured display update delay of 61 msec, using delay of 181 msec & 0 msec inst reaction
+2019-05-01 13:49:57,762 Patch 175 of 175
+2019-05-01 13:49:57,763 Black drift was 0.006296 DE
+2019-05-01 13:49:57,763 White drift was 0.000000 DE
+2019-05-01 13:49:57,763 The instrument can be removed from the screen.
+2019-05-01 13:49:57,911 Written 'U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.ti3'
+2019-05-01 13:49:58,017 DisplayCAL: Reached EOF (OK)
+2019-05-01 13:49:58,272 Create profile from measurement data...
+2019-05-01 13:49:58,323 -> Preparing ChromaticityType tag from TI3 colorants
+2019-05-01 13:49:58,328 -> Storing settings in TI3
+2019-05-01 13:49:58,392 Applying 0% black point correction to TI3
+2019-05-01 13:49:58,476 Extracting neutrals from c:\users\tang-\appdata\local\temp\DisplayCAL-wdlpem\U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.ti3
+2019-05-01 13:49:58,499 R=G=B (>= 1% luminance) dE*00 avg 0.685825013692 peak 1.77398036641
+2019-05-01 13:49:58,506 Initial cLUT resolution 5x5x5
+2019-05-01 13:49:58,507 cLUT input curve segments: 5
+2019-05-01 13:49:58,540 #1 X prev 0.045063 next 0.209779 clip False
+2019-05-01 13:49:58,568 #2 X prev 0.209779 next 0.508607 clip False
+2019-05-01 13:49:58,598 #3 X prev 0.508607 next 0.964200 clip False
+2019-05-01 13:49:58,759 #1 Y prev 0.046605 next 0.217069 clip False
+2019-05-01 13:49:58,832 #2 Y prev 0.217069 next 0.526500 clip False
+2019-05-01 13:49:58,862 #3 Y prev 0.526500 next 1.000000 clip False
+2019-05-01 13:49:58,983 #1 Z prev 0.039320 next 0.181277 clip False
+2019-05-01 13:49:59,010 #2 Z prev 0.181277 next 0.438337 clip False
+2019-05-01 13:49:59,040 #3 Z prev 0.438337 next 0.824900 clip False
+2019-05-01 13:49:59,969 cLUT input curve segments: 33
+2019-05-01 13:49:59,973 #1 X prev 0.001016 next 0.002512 clip False
+2019-05-01 13:49:59,977 #2 X prev 0.002512 next 0.005354 clip False
+2019-05-01 13:49:59,980 #3 X prev 0.005354 next 0.009846 clip False
+2019-05-01 13:49:59,984 #4 X prev 0.009846 next 0.015799 clip False
+2019-05-01 13:49:59,989 #5 X prev 0.015799 next 0.023825 clip False
+2019-05-01 13:49:59,993 #6 X prev 0.023825 next 0.033898 clip False
+2019-05-01 13:49:59,996 #7 X prev 0.033898 next 0.045063 clip False
+2019-05-01 13:50:00,000 #8 X prev 0.045063 next 0.058123 clip False
+2019-05-01 13:50:00,006 #9 X prev 0.058123 next 0.074122 clip False
+2019-05-01 13:50:00,010 #10 X prev 0.074122 next 0.092036 clip False
+2019-05-01 13:50:00,013 #11 X prev 0.092036 next 0.110938 clip False
+2019-05-01 13:50:00,017 #12 X prev 0.110938 next 0.133337 clip False
+2019-05-01 13:50:00,022 #13 X prev 0.133337 next 0.156401 clip False
+2019-05-01 13:50:00,026 #14 X prev 0.156401 next 0.182684 clip False
+2019-05-01 13:50:00,029 #15 X prev 0.182684 next 0.209779 clip False
+2019-05-01 13:50:00,032 #16 X prev 0.209779 next 0.239753 clip False
+2019-05-01 13:50:00,036 #17 X prev 0.239753 next 0.271273 clip False
+2019-05-01 13:50:00,040 #18 X prev 0.271273 next 0.306102 clip False
+2019-05-01 13:50:00,043 #19 X prev 0.306102 next 0.342604 clip False
+2019-05-01 13:50:00,048 #20 X prev 0.342604 next 0.381124 clip False
+2019-05-01 13:50:00,052 #21 X prev 0.381124 next 0.422353 clip False
+2019-05-01 13:50:00,056 #22 X prev 0.422353 next 0.465006 clip False
+2019-05-01 13:50:00,062 #23 X prev 0.465006 next 0.508607 clip False
+2019-05-01 13:50:00,065 #24 X prev 0.508607 next 0.558430 clip False
+2019-05-01 13:50:00,069 #25 X prev 0.558430 next 0.610250 clip False
+2019-05-01 13:50:00,073 #26 X prev 0.610250 next 0.663329 clip False
+2019-05-01 13:50:00,078 #27 X prev 0.663329 next 0.718791 clip False
+2019-05-01 13:50:00,082 #28 X prev 0.718791 next 0.777551 clip False
+2019-05-01 13:50:00,085 #29 X prev 0.777551 next 0.838594 clip False
+2019-05-01 13:50:00,089 #30 X prev 0.838594 next 0.900604 clip False
+2019-05-01 13:50:00,094 #31 X prev 0.900604 next 0.964200 clip False
+2019-05-01 13:50:00,161 #1 Y prev 0.001074 next 0.002615 clip False
+2019-05-01 13:50:00,164 #2 Y prev 0.002615 next 0.005519 clip False
+2019-05-01 13:50:00,168 #3 Y prev 0.005519 next 0.010137 clip False
+2019-05-01 13:50:00,171 #4 Y prev 0.010137 next 0.016283 clip False
+2019-05-01 13:50:00,176 #5 Y prev 0.016283 next 0.024623 clip False
+2019-05-01 13:50:00,180 #6 Y prev 0.024623 next 0.035004 clip False
+2019-05-01 13:50:00,184 #7 Y prev 0.035004 next 0.046605 clip False
+2019-05-01 13:50:00,187 #8 Y prev 0.046605 next 0.060154 clip False
+2019-05-01 13:50:00,190 #9 Y prev 0.060154 next 0.076723 clip False
+2019-05-01 13:50:00,194 #10 Y prev 0.076723 next 0.095331 clip False
+2019-05-01 13:50:00,197 #11 Y prev 0.095331 next 0.114959 clip False
+2019-05-01 13:50:00,201 #12 Y prev 0.114959 next 0.138317 clip False
+2019-05-01 13:50:00,206 #13 Y prev 0.138317 next 0.162073 clip False
+2019-05-01 13:50:00,210 #14 Y prev 0.162073 next 0.188406 clip False
+2019-05-01 13:50:00,213 #15 Y prev 0.188406 next 0.217069 clip False
+2019-05-01 13:50:00,217 #16 Y prev 0.217069 next 0.247859 clip False
+2019-05-01 13:50:00,220 #17 Y prev 0.247859 next 0.280344 clip False
+2019-05-01 13:50:00,226 #18 Y prev 0.280344 next 0.316446 clip False
+2019-05-01 13:50:00,230 #19 Y prev 0.316446 next 0.354443 clip False
+2019-05-01 13:50:00,233 #20 Y prev 0.354443 next 0.393141 clip False
+2019-05-01 13:50:00,236 #21 Y prev 0.393141 next 0.434669 clip False
+2019-05-01 13:50:00,242 #22 Y prev 0.434669 next 0.479606 clip False
+2019-05-01 13:50:00,246 #23 Y prev 0.479606 next 0.526500 clip False
+2019-05-01 13:50:00,250 #24 Y prev 0.526500 next 0.577943 clip False
+2019-05-01 13:50:00,253 #25 Y prev 0.577943 next 0.631637 clip False
+2019-05-01 13:50:00,259 #26 Y prev 0.631637 next 0.687033 clip False
+2019-05-01 13:50:00,262 #27 Y prev 0.687033 next 0.745278 clip False
+2019-05-01 13:50:00,266 #28 Y prev 0.745278 next 0.806222 clip False
+2019-05-01 13:50:00,269 #29 Y prev 0.806222 next 0.868850 clip False
+2019-05-01 13:50:00,273 #30 Y prev 0.868850 next 0.932808 clip False
+2019-05-01 13:50:00,276 #31 Y prev 0.932808 next 1.000000 clip False
+2019-05-01 13:50:00,345 #1 Z prev 0.000893 next 0.002397 clip False
+2019-05-01 13:50:00,348 #2 Z prev 0.002397 next 0.004945 clip False
+2019-05-01 13:50:00,351 #3 Z prev 0.004945 next 0.008808 clip False
+2019-05-01 13:50:00,355 #4 Z prev 0.008808 next 0.014018 clip False
+2019-05-01 13:50:00,358 #5 Z prev 0.014018 next 0.020945 clip False
+2019-05-01 13:50:00,364 #6 Z prev 0.020945 next 0.029872 clip False
+2019-05-01 13:50:00,367 #7 Z prev 0.029872 next 0.039320 clip False
+2019-05-01 13:50:00,371 #8 Z prev 0.039320 next 0.050756 clip False
+2019-05-01 13:50:00,374 #9 Z prev 0.050756 next 0.064688 clip False
+2019-05-01 13:50:00,378 #10 Z prev 0.064688 next 0.078943 clip False
+2019-05-01 13:50:00,382 #11 Z prev 0.078943 next 0.095675 clip False
+2019-05-01 13:50:00,387 #12 Z prev 0.095675 next 0.115614 clip False
+2019-05-01 13:50:00,391 #13 Z prev 0.115614 next 0.135803 clip False
+2019-05-01 13:50:00,394 #14 Z prev 0.135803 next 0.158413 clip False
+2019-05-01 13:50:00,398 #15 Z prev 0.158413 next 0.181277 clip False
+2019-05-01 13:50:00,403 #16 Z prev 0.181277 next 0.206855 clip False
+2019-05-01 13:50:00,407 #17 Z prev 0.206855 next 0.234511 clip False
+2019-05-01 13:50:00,410 #18 Z prev 0.234511 next 0.265190 clip False
+2019-05-01 13:50:00,414 #19 Z prev 0.265190 next 0.295897 clip False
+2019-05-01 13:50:00,417 #20 Z prev 0.295897 next 0.329228 clip False
+2019-05-01 13:50:00,421 #21 Z prev 0.329228 next 0.365280 clip False
+2019-05-01 13:50:00,426 #22 Z prev 0.365280 next 0.401513 clip False
+2019-05-01 13:50:00,430 #23 Z prev 0.401513 next 0.438337 clip False
+2019-05-01 13:50:00,433 #24 Z prev 0.438337 next 0.481741 clip False
+2019-05-01 13:50:00,437 #25 Z prev 0.481741 next 0.526580 clip False
+2019-05-01 13:50:00,440 #26 Z prev 0.526580 next 0.572279 clip False
+2019-05-01 13:50:00,444 #27 Z prev 0.572279 next 0.619573 clip False
+2019-05-01 13:50:00,448 #28 Z prev 0.619573 next 0.668622 clip False
+2019-05-01 13:50:00,453 #29 Z prev 0.668622 next 0.719263 clip False
+2019-05-01 13:50:00,456 #30 Z prev 0.719263 next 0.771319 clip False
+2019-05-01 13:50:00,460 #31 Z prev 0.771319 next 0.824900 clip False
+2019-05-01 13:50:00,578 Final interpolated cLUT resolution 33x33x33
+2019-05-01 13:50:00,584 --------------------------------------------------------------------------------
+2019-05-01 13:50:00,585 Creating matrix from primaries
+2019-05-01 13:50:00,585 Using chromatic adaptation transform matrix: Bradford
+2019-05-01 13:50:00,671 --------------------------------------------------------------------------------
+2019-05-01 13:50:00,671 Generating A2B1 by copying A2B0
+2019-05-01 13:50:00,671 Generating B2A1 table by inverting A2B1 table
+2019-05-01 13:50:00,671 
+2019-05-01 13:50:00,673 Using chromatic adaptation transform matrix: Bradford
+2019-05-01 13:50:00,760 Black XYZ: 0.0010 0.0010 0.0009
+2019-05-01 13:50:00,762 White XYZ: 0.9642 1.0000 0.8249
+2019-05-01 13:50:00,762 R XYZ: 0.4282 0.2235 0.0087
+2019-05-01 13:50:00,762 G XYZ: 0.3957 0.7208 0.1034
+2019-05-01 13:50:00,763 B XYZ: 0.1390 0.0554 0.7089
+2019-05-01 13:50:00,763 Generating input curve PCS values...
+2019-05-01 13:50:00,778 Looking up input curve RGB values...
+2019-05-01 13:50:01,371 Setting curve entry #0 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,371 Setting curve entry #1 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,371 Setting curve entry #2 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,371 Setting curve entry #3 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,371 Setting curve entry #4 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,371 Setting curve entry #5 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,371 Setting curve entry #6 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,371 Setting curve entry #7 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,372 Setting curve entry #8 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,372 Setting curve entry #9 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,372 Setting curve entry #10 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,372 Setting curve entry #11 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,374 Setting curve entry #12 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,374 Setting curve entry #13 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,374 Setting curve entry #14 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,374 Setting curve entry #15 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,374 Setting curve entry #16 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,375 Setting curve entry #17 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,375 Setting curve entry #18 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,375 Setting curve entry #19 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,375 Setting curve entry #20 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,375 Setting curve entry #21 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,375 Setting curve entry #22 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,375 Setting curve entry #23 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,375 Setting curve entry #24 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,375 Setting curve entry #25 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,377 Setting curve entry #26 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,377 Setting curve entry #27 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,377 Setting curve entry #28 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,377 Setting curve entry #29 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,378 Setting curve entry #30 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,378 Setting curve entry #31 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,378 Setting curve entry #32 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,378 Setting curve entry #33 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,378 Setting curve entry #34 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,378 Setting curve entry #35 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,378 Setting curve entry #36 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,378 Setting curve entry #37 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:01,381 Setting curve entry #4095 (1.000000 0.999996 1.000000) to white because it got clipped
+2019-05-01 13:50:01,381 Setting up matrix
+2019-05-01 13:50:01,381 Increasing saturation of actual primaries for PCS candidate to 103%...
+2019-05-01 13:50:01,381 R xy 0.648429 0.338447 -> 0.657511 0.337845
+2019-05-01 13:50:01,382 G xy 0.324394 0.590874 -> 0.323755 0.597844
+2019-05-01 13:50:01,382 B xy 0.153914 0.061315 -> 0.148160 0.052399
+2019-05-01 13:50:01,384 Checking for suitable PCS candidate...
+2019-05-01 13:50:01,384 PCS candidate based on actual primaries fit: 1.01 (area: 94.26%)
+2019-05-01 13:50:01,384 Using primaries: PCS candidate based on actual primaries
+2019-05-01 13:50:01,384 Using R XYZ: 0.4348 0.2234 0.0031
+2019-05-01 13:50:01,384 Using G XYZ: 0.3948 0.7290 0.0956
+2019-05-01 13:50:01,385 Using B XYZ: 0.1346 0.0476 0.7262
+2019-05-01 13:50:01,385 R+G+B XYZ: 0.9642 1.0000 0.8249
+2019-05-01 13:50:01,385 Correction factors: 1.0000 1.0000 1.0000
+2019-05-01 13:50:01,387 Matrix 1:
+2019-05-01 13:50:01,387 [3.1465111147616756, -1.641589457704566, -0.4755443801050324]
+2019-05-01 13:50:01,387 [-0.9719181600183641, 1.8907673036756847, 0.05619612827496844]
+2019-05-01 13:50:01,388 [0.11462809682566882, -0.24194572518290647, 1.3715860276683194]
+2019-05-01 13:50:01,388 Matrix 2:
+2019-05-01 13:50:01,388 [3.1464678482499213, -1.6415668848144735, -0.4755378410699675]
+2019-05-01 13:50:01,388 [-0.9719214190828838, 1.8907736438521396, 0.05619631671347626]
+2019-05-01 13:50:01,388 [0.11462960921541154, -0.24194891738659127, 1.3716041242144277]
+2019-05-01 13:50:01,388 Matrix 3:
+2019-05-01 13:50:01,390 [1.999969482421875, 0, 0]
+2019-05-01 13:50:01,390 [0, 1.999969482421875, 0]
+2019-05-01 13:50:01,390 [0, 0, 1.999969482421875]
+2019-05-01 13:50:01,391 Final matrix:
+2019-05-01 13:50:01,391 [6.292839673921466, -3.283083672983292, -0.9510611698767187]
+2019-05-01 13:50:01,391 [-1.9438131774779293, 3.781489585871886, 0.11239091845146688]
+2019-05-01 13:50:01,391 [0.2292557202127684, -0.48389045107819395, 2.743166390392838]
+2019-05-01 13:50:01,391 Applying matrix to input curve XYZ values...
+2019-05-01 13:50:01,401 Generating input curves...
+2019-05-01 13:50:05,030 100%
+2019-05-01 13:50:05,049 Generating A2B1 table lookup input values...
+2019-05-01 13:50:05,049 cLUT grid res: 33
+2019-05-01 13:50:05,049 Looking up input values through A2B1 table (6 workers)...
+2019-05-01 13:50:05,049 Using CAM Jab for clipping
+2019-05-01 13:50:10,211 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 13:50:11,161 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 13:50:11,348 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 13:50:13,164 Exiting worker process NonDaemonicPoolWorker-4
+2019-05-01 13:50:15,503 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 13:50:16,678 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 13:50:17,111 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 13:50:19,035 Exiting worker process NonDaemonicPoolWorker-4
+2019-05-01 13:50:20,489 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 13:50:20,861 Exiting worker process NonDaemonicPoolWorker-3
+2019-05-01 13:50:21,414 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 13:50:23,053 Exiting worker process NonDaemonicPoolWorker-2
+2019-05-01 13:50:23,450 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 13:50:24,559 Exiting worker process NonDaemonicPoolWorker-4
+2019-05-01 13:50:25,230 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 13:50:25,306 Exiting worker process NonDaemonicPoolWorker-3
+2019-05-01 13:50:25,401 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 13:50:27,769 Exiting worker process NonDaemonicPoolWorker-2
+2019-05-01 13:50:27,878 100%
+2019-05-01 13:50:27,878 Input black XYZ: 0.000970 0.001000 0.000849
+2019-05-01 13:50:27,878 Input white XYZ: 0.964200 1.000000 0.824900
+2019-05-01 13:50:27,907 Output black RGB: 0.0000 0.0000 0.0000
+2019-05-01 13:50:27,907 Output white RGB: 99.9998 100.0000 100.0000
+2019-05-01 13:50:27,918 Filling cLUT...
+2019-05-01 13:50:27,990 100%
+2019-05-01 13:50:28,105 Smoothing B2A1...
+2019-05-01 13:50:28,930 Generating B2A0 table by inverting A2B0 table
+2019-05-01 13:50:28,930 
+2019-05-01 13:50:28,930 Using chromatic adaptation transform matrix: Bradford
+2019-05-01 13:50:29,019 Black XYZ: 0.0010 0.0010 0.0009
+2019-05-01 13:50:29,019 White XYZ: 0.9642 1.0000 0.8249
+2019-05-01 13:50:29,019 R XYZ: 0.4282 0.2235 0.0087
+2019-05-01 13:50:29,019 G XYZ: 0.3957 0.7208 0.1034
+2019-05-01 13:50:29,020 B XYZ: 0.1390 0.0554 0.7089
+2019-05-01 13:50:29,020 Generating input curve PCS values...
+2019-05-01 13:50:29,032 Applying BPC to input curve PCS values...
+2019-05-01 13:50:29,098 Looking up input curve RGB values...
+2019-05-01 13:50:29,556 Setting curve entry #0 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 13:50:29,559 Setting curve entry #4095 (1.000000 0.999996 1.000000) to white because it got clipped
+2019-05-01 13:50:29,559 Applying matrix to input curve XYZ values...
+2019-05-01 13:50:29,569 Generating input curves...
+2019-05-01 13:50:33,295 100%
+2019-05-01 13:50:33,621 --------------------------------------------------------------------------------
+2019-05-01 13:50:33,621 Creating shaper tags in separate step
+2019-05-01 13:50:33,621 Using chromatic adaptation transform matrix: Bradford
+2019-05-01 13:50:33,868 --------------------------------------------------------------------------------
+2019-05-01 13:50:33,868 Adding rTRC from inverse backward B2A0 lookup to U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:50:33,868 Adding gTRC from inverse backward B2A0 lookup to U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:50:33,868 Adding bTRC from inverse backward B2A0 lookup to U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:50:33,871 --------------------------------------------------------------------------------
+2019-05-01 13:50:33,871 Applying black point compensation to rTRC
+2019-05-01 13:50:33,871 Applying black point compensation to gTRC
+2019-05-01 13:50:33,872 Applying black point compensation to bTRC
+2019-05-01 13:50:34,198 --------------------------------------------------------------------------------
+2019-05-01 13:50:34,200 Session log: U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:50:34,200 
+2019-05-01 13:50:34,200 Working directory:
+2019-05-01 13:50:34,200   c:\
+2019-05-01 13:50:34,200    users\
+2019-05-01 13:50:34,200     tang-\
+2019-05-01 13:50:34,200      appdata\
+2019-05-01 13:50:34,200       local\
+2019-05-01 13:50:34,200        temp\
+2019-05-01 13:50:34,201         DisplayCAL-wdlpem\
+2019-05-01 13:50:34,201 
+2019-05-01 13:50:34,201 Command line:
+2019-05-01 13:50:34,201   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\profcheck.exe
+2019-05-01 13:50:34,203     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.ti3"
+2019-05-01 13:50:34,203     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-05-01 13:50:34,203 
+2019-05-01 13:50:34,457 Profile check complete, errors: max. = 1.296428, avg. = 0.085431, RMS = 0.200658
+2019-05-01 13:50:34,459 --------------------------------------------------------------------------------
+2019-05-01 13:50:34,460 Generating gamut views...
+2019-05-01 13:50:35,223 --------------------------------------------------------------------------------
+2019-05-01 13:50:35,224 Session log: U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:50:35,226 
+2019-05-01 13:50:35,229 Working directory:
+2019-05-01 13:50:35,230   c:\
+2019-05-01 13:50:35,233    users\
+2019-05-01 13:50:35,236     tang-\
+2019-05-01 13:50:35,237      appdata\
+2019-05-01 13:50:35,240       local\
+2019-05-01 13:50:35,242        temp\
+2019-05-01 13:50:35,243         DisplayCAL-wdlpem\
+2019-05-01 13:50:35,243 
+2019-05-01 13:50:35,243 Command line:
+2019-05-01 13:50:35,244   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\iccgamut.exe
+2019-05-01 13:50:35,246     -v
+2019-05-01 13:50:35,246     -w
+2019-05-01 13:50:35,246     -ir
+2019-05-01 13:50:35,247     -ff
+2019-05-01 13:50:35,249     -on
+2019-05-01 13:50:35,250     -d10.00
+2019-05-01 13:50:35,250     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-05-01 13:50:35,252 
+2019-05-01 13:50:35,927 Header:
+2019-05-01 13:50:35,927   size         = 715640 bytes
+2019-05-01 13:50:35,927   CMM          = 'argl'
+2019-05-01 13:50:35,927   Version      = 2.2.0
+2019-05-01 13:50:35,927   Device Class = Display
+2019-05-01 13:50:35,927   Color Space  = RGB
+2019-05-01 13:50:35,927   Conn. Space  = XYZ
+2019-05-01 13:50:35,927   Date, Time   = 1 May 2019, 13:49:58
+2019-05-01 13:50:35,927   Platform     = Microsoft
+2019-05-01 13:50:35,927   Flags        = Not Embedded Profile, Use anywhere
+2019-05-01 13:50:35,928   Dev. Mnfctr. = 0x0
+2019-05-01 13:50:35,928   Dev. Model   = 0x0
+2019-05-01 13:50:35,928   Dev. Attrbts = Reflective, Glossy, Positive, Color
+2019-05-01 13:50:35,928   Rndrng Intnt = Perceptual
+2019-05-01 13:50:35,928   Illuminant   = 0.96420288, 1.00000000, 0.82490540    [Lab 100.000000, 0.000000, 0.000000]
+2019-05-01 13:50:35,928   Creator      = 'DCAL'
+2019-05-01 13:50:35,928 
+2019-05-01 13:50:35,928 Total volume of gamut is 800627.383612 cubic colorspace units
+2019-05-01 13:50:37,191 --------------------------------------------------------------------------------
+2019-05-01 13:50:37,193 Command line:
+2019-05-01 13:50:37,193   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\viewgam.exe
+2019-05-01 13:50:37,194     -cw
+2019-05-01 13:50:37,194     -t0
+2019-05-01 13:50:37,194     -w
+2019-05-01 13:50:37,194     "C:\Program Files (x86)\DisplayCAL\ref\sRGB.gam"
+2019-05-01 13:50:37,194     -cn
+2019-05-01 13:50:37,194     -t.3
+2019-05-01 13:50:37,194     -s
+2019-05-01 13:50:37,194     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-05-01 13:50:37,196     -i
+2019-05-01 13:50:37,196     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX vs sRGB.wrl"
+2019-05-01 13:50:37,196 
+2019-05-01 13:50:37,196 Intersecting volume = 794379.9 cubic units
+2019-05-01 13:50:37,196 'C:\Program Files (x86)\DisplayCAL\ref\sRGB.gam' volume = 833675.1 cubic units, intersect = 95.29%
+2019-05-01 13:50:37,196 'U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 800627.4 cubic units, intersect = 99.22%
+2019-05-01 13:50:37,233 --------------------------------------------------------------------------------
+2019-05-01 13:50:37,233 Command line:
+2019-05-01 13:50:37,234   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\viewgam.exe
+2019-05-01 13:50:37,234     -cw
+2019-05-01 13:50:37,234     -t0
+2019-05-01 13:50:37,236     -w
+2019-05-01 13:50:37,236     "C:\Program Files (x86)\DisplayCAL\ref\ClayRGB1998.gam"
+2019-05-01 13:50:37,236     -cn
+2019-05-01 13:50:37,236     -t.3
+2019-05-01 13:50:37,236     -s
+2019-05-01 13:50:37,236     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-05-01 13:50:37,236     -i
+2019-05-01 13:50:37,236     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX vs ClayRGB1998.wrl"
+2019-05-01 13:50:37,237 
+2019-05-01 13:50:37,237 Intersecting volume = 797293.9 cubic units
+2019-05-01 13:50:37,237 'C:\Program Files (x86)\DisplayCAL\ref\ClayRGB1998.gam' volume = 1209985.9 cubic units, intersect = 65.89%
+2019-05-01 13:50:37,237 'U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 800627.4 cubic units, intersect = 99.58%
+2019-05-01 13:50:37,237 --------------------------------------------------------------------------------
+2019-05-01 13:50:37,237 Command line:
+2019-05-01 13:50:37,239   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\viewgam.exe
+2019-05-01 13:50:37,239     -cw
+2019-05-01 13:50:37,239     -t0
+2019-05-01 13:50:37,239     -w
+2019-05-01 13:50:37,240     "C:\Program Files (x86)\DisplayCAL\ref\SMPTE431_P3.gam"
+2019-05-01 13:50:37,240     -cn
+2019-05-01 13:50:37,240     -t.3
+2019-05-01 13:50:37,240     -s
+2019-05-01 13:50:37,240     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-05-01 13:50:37,240     -i
+2019-05-01 13:50:37,240     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX vs SMPTE431_P3.wrl"
+2019-05-01 13:50:37,240 
+2019-05-01 13:50:37,242 Intersecting volume = 800362.6 cubic units
+2019-05-01 13:50:37,242 'C:\Program Files (x86)\DisplayCAL\ref\SMPTE431_P3.gam' volume = 1176953.5 cubic units, intersect = 68.00%
+2019-05-01 13:50:37,242 'U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 800627.4 cubic units, intersect = 99.97%
+2019-05-01 13:50:37,401 --------------------------------------------------------------------------------
+2019-05-01 13:50:38,194 Found display device matching model description at index #0
+2019-05-01 13:50:38,917 --------------------------------------------------------------------------------
+2019-05-01 13:50:38,918 Create 3D LUT...
+2019-05-01 13:50:39,247 DisplayCAL: Applying Rec. 709 TRC to Rec709.icm
+2019-05-01 13:50:39,257 Using whitepoint chromaticity 0.3128 0.3292 for input
+2019-05-01 13:50:39,263 --------------------------------------------------------------------------------
+2019-05-01 13:50:39,263 Session log: U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4Gawn65
+2019-05-01 13:50:39,263 
+2019-05-01 13:50:39,263 Working directory:
+2019-05-01 13:50:39,263   c:\
+2019-05-01 13:50:39,263    users\
+2019-05-01 13:50:39,263     tang-\
+2019-05-01 13:50:39,265      appdata\
+2019-05-01 13:50:39,265       local\
+2019-05-01 13:50:39,265        temp\
+2019-05-01 13:50:39,266         DisplayCAL-l9kg8b\
+2019-05-01 13:50:39,266 
+2019-05-01 13:50:39,266 Command line:
+2019-05-01 13:50:39,266   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\collink.exe
+2019-05-01 13:50:39,266     -v
+2019-05-01 13:50:39,266     -qh
+2019-05-01 13:50:39,267     -G
+2019-05-01 13:50:39,267     -iaw
+2019-05-01 13:50:39,267     -r65
+2019-05-01 13:50:39,267     -n
+2019-05-01 13:50:39,269     -3c
+2019-05-01 13:50:39,269     -en
+2019-05-01 13:50:39,269     -En
+2019-05-01 13:50:39,269     -b
+2019-05-01 13:50:39,269     -IB:0.0:2.4
+2019-05-01 13:50:39,269     -a
+2019-05-01 13:50:39,269     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.cal"
+2019-05-01 13:50:39,269     Rec709.icm
+2019-05-01 13:50:39,270     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-05-01 13:50:39,270     "U2719D #1 2019-05-01 13-38 D6500 2.2 F-S
+2019-05-01 13:50:39,270       XYZLUT+MTX.Rec709.B0.0,2.4Gawn65.icm"
+2019-05-01 13:50:39,270 
+2019-05-01 13:50:39,719 DisplayCAL: Waiting for EOF
+2019-05-01 13:50:39,721 Got options
+2019-05-01 13:50:39,723 Configured options
+2019-05-01 13:50:39,723 Loading input A2B table
+2019-05-01 13:50:39,723 Loading output inverse A2B table
+2019-05-01 13:50:39,723 Gamut mapping mode is 'Mapping inverse A2B'
+2019-05-01 13:50:39,723 Gamut mapping intent is 'aw - Absolute Colorimetric (in Jab) with scaling to fit white point'
+2019-05-01 13:50:39,723 
+2019-05-01 13:50:39,724 Rev cache RAM = 1610 Mbytes
+2019-05-01 13:50:39,724 
+2019-05-01 13:50:39,726 Looks like an XYZ space
+2019-05-01 13:50:39,726 
+2019-05-01 13:50:39,726 Initializing nnrev arrays...
+2019-05-01 13:50:39,726 
+2019-05-01 13:50:39,726 There is 1 rev cache instance with 1610 Mbytes limit
+2019-05-01 13:50:49,654 
+2019-05-01 13:50:49,654 nnrev initialization done
+2019-05-01 13:50:49,717 
+2019-05-01 13:50:49,717 Initializing nnrev arrays...
+2019-05-01 13:50:49,717 
+2019-05-01 13:50:49,719 There are 2 rev cache instances with 805 Mbytes limit
+2019-05-01 13:51:02,413 
+2019-05-01 13:51:02,414 nnrev initialization done
+2019-05-01 13:51:02,418 Set XYZ scale factor to 0.987639
+2019-05-01 13:51:02,434 Output black PCS = 8.329096 -0.431615 -0.405601
+2019-05-01 13:51:02,434 Output black PCS pre lumscale = 8.335071 -0.433711 -0.416285
+2019-05-01 13:51:02,434 Gamma curve target out black rel XYZ = 0.000986 0.001020 0.000856, Lab 0.921146 0.009500 -0.028208
+2019-05-01 13:51:02,436 Proportion of black output offset = 0.000000 (BT.1886)
+2019-05-01 13:51:02,436 Gamma Y input offset = 0.060102
+2019-05-01 13:51:02,440 Gamma Y power = 2.400000
+2019-05-01 13:51:02,440 Gamma Y output scale = 0.869292
+2019-05-01 13:51:02,440 Gamma Y output offset = 0.000000
+2019-05-01 13:51:02,441 bt1886 check input black point rel. XYZ 0.000986 0.001020 0.000856
+2019-05-01 13:51:02,441 BT.1886 overall rendering
+2019-05-01 13:51:02,441  In   0.0% -> XYZ in 0.000000 -> bt.1886 0.001020, log/log 0.000, Lab 0.921146 0.009500 -0.028208
+2019-05-01 13:51:02,441  In   5.0% -> XYZ in 0.050000 -> bt.1886 0.004360, log/log 1.814, Lab 3.938256 0.002757 -0.008187
+2019-05-01 13:51:02,443  In  10.0% -> XYZ in 0.100000 -> bt.1886 0.010708, log/log 1.970, Lab 9.568024 0.000246 -0.000731
+2019-05-01 13:51:02,443  In  15.0% -> XYZ in 0.150000 -> bt.1886 0.020559, log/log 2.048, Lab 15.777809 0.000014 -0.000042
+2019-05-01 13:51:02,444  In  20.0% -> XYZ in 0.200000 -> bt.1886 0.034317, log/log 2.095, Lab 21.695956 0.000001 -0.000002
+2019-05-01 13:51:02,444  In  25.0% -> XYZ in 0.250000 -> bt.1886 0.052333, log/log 2.128, Lab 27.389383 0.000000 -0.000000
+2019-05-01 13:51:02,444  In  30.0% -> XYZ in 0.300000 -> bt.1886 0.074918, log/log 2.152, Lab 32.901284 0.000000 -0.000000
+2019-05-01 13:51:02,444  In  35.0% -> XYZ in 0.350000 -> bt.1886 0.102354, log/log 2.171, Lab 38.261694 0.000000 -0.000000
+2019-05-01 13:51:02,444  In  40.0% -> XYZ in 0.400000 -> bt.1886 0.134901, log/log 2.186, Lab 43.492626 0.000000 -0.000000
+2019-05-01 13:51:02,448  In  45.0% -> XYZ in 0.450000 -> bt.1886 0.172799, log/log 2.199, Lab 48.610852 0.000000 -0.000000
+2019-05-01 13:51:02,450  In  50.0% -> XYZ in 0.500000 -> bt.1886 0.216275, log/log 2.209, Lab 53.629544 0.000000 0.000000
+2019-05-01 13:51:02,450  In  55.0% -> XYZ in 0.550000 -> bt.1886 0.265541, log/log 2.218, Lab 58.559298 0.000000 0.000000
+2019-05-01 13:51:02,450  In  60.0% -> XYZ in 0.600000 -> bt.1886 0.320798, log/log 2.226, Lab 63.408811 0.000000 0.000000
+2019-05-01 13:51:02,450  In  65.0% -> XYZ in 0.650000 -> bt.1886 0.382239, log/log 2.232, Lab 68.185335 0.000000 0.000000
+2019-05-01 13:51:02,450  In  70.0% -> XYZ in 0.700000 -> bt.1886 0.450047, log/log 2.238, Lab 72.895005 0.000000 0.000000
+2019-05-01 13:51:02,450  In  75.0% -> XYZ in 0.750000 -> bt.1886 0.524398, log/log 2.244, Lab 77.543071 0.000000 0.000000
+2019-05-01 13:51:02,450  In  80.0% -> XYZ in 0.800000 -> bt.1886 0.605460, log/log 2.249, Lab 82.134074 0.000000 0.000000
+2019-05-01 13:51:02,451  In  85.0% -> XYZ in 0.850000 -> bt.1886 0.693397, log/log 2.253, Lab 86.671975 0.000000 0.000000
+2019-05-01 13:51:02,451  In  90.0% -> XYZ in 0.900000 -> bt.1886 0.788365, log/log 2.257, Lab 91.160261 0.000000 0.000000
+2019-05-01 13:51:02,451  In  95.0% -> XYZ in 0.950000 -> bt.1886 0.890517, log/log 2.261, Lab 95.602019 0.000000 0.000000
+2019-05-01 13:51:02,451  In 100.0% -> XYZ in 1.000000 -> bt.1886 1.000000, log/log 0.000, Lab 100.000000 0.000000 0.000000
+2019-05-01 13:51:02,453 Creating link profile
+2019-05-01 13:51:02,453 Filling in Lut table
+2019-05-01 13:51:02,453  0%
+2019-05-01 13:51:02,640  0%
+2019-05-01 13:51:02,961  1%
+2019-05-01 13:51:03,256  2%
+2019-05-01 13:51:03,595  3%
+2019-05-01 13:51:03,940  4%
+2019-05-01 13:51:04,361  5%
+2019-05-01 13:51:04,974  6%
+2019-05-01 13:51:05,250  7%
+2019-05-01 13:51:05,484  8%
+2019-05-01 13:51:05,783  9%
+2019-05-01 13:51:06,039 10%
+2019-05-01 13:51:06,289 11%
+2019-05-01 13:51:06,503 12%
+2019-05-01 13:51:06,723 13%
+2019-05-01 13:51:06,948 14%
+2019-05-01 13:51:07,174 15%
+2019-05-01 13:51:07,390 16%
+2019-05-01 13:51:07,647 17%
+2019-05-01 13:51:08,023 18%
+2019-05-01 13:51:08,221 19%
+2019-05-01 13:51:08,421 20%
+2019-05-01 13:51:08,619 21%
+2019-05-01 13:51:08,924 22%
+2019-05-01 13:51:09,131 23%
+2019-05-01 13:51:09,694 24%
+2019-05-01 13:51:09,976 25%
+2019-05-01 13:51:10,177 26%
+2019-05-01 13:51:10,381 27%
+2019-05-01 13:51:10,594 28%
+2019-05-01 13:51:10,961 29%
+2019-05-01 13:51:11,517 30%
+2019-05-01 13:51:11,783 31%
+2019-05-01 13:51:12,016 32%
+2019-05-01 13:51:12,233 33%
+2019-05-01 13:51:12,467 34%
+2019-05-01 13:51:12,881 35%
+2019-05-01 13:51:13,706 36%
+2019-05-01 13:51:13,967 37%
+2019-05-01 13:51:14,177 38%
+2019-05-01 13:51:14,397 39%
+2019-05-01 13:51:14,621 40%
+2019-05-01 13:51:15,085 41%
+2019-05-01 13:51:15,875 42%
+2019-05-01 13:51:16,315 43%
+2019-05-01 13:51:16,671 44%
+2019-05-01 13:51:17,137 45%
+2019-05-01 13:51:17,674 46%
+2019-05-01 13:51:18,374 47%
+2019-05-01 13:51:18,890 48%
+2019-05-01 13:51:19,234 49%
+2019-05-01 13:51:19,562 50%
+2019-05-01 13:51:19,963 51%
+2019-05-01 13:51:20,210 52%
+2019-05-01 13:51:20,426 53%
+2019-05-01 13:51:20,631 54%
+2019-05-01 13:51:20,854 55%
+2019-05-01 13:51:21,094 56%
+2019-05-01 13:51:21,313 57%
+2019-05-01 13:51:21,522 58%
+2019-05-01 13:51:21,717 59%
+2019-05-01 13:51:21,915 60%
+2019-05-01 13:51:22,131 61%
+2019-05-01 13:51:22,359 62%
+2019-05-01 13:51:22,605 63%
+2019-05-01 13:51:22,848 64%
+2019-05-01 13:51:23,071 65%
+2019-05-01 13:51:23,276 66%
+2019-05-01 13:51:23,502 67%
+2019-05-01 13:51:23,736 68%
+2019-05-01 13:51:23,950 69%
+2019-05-01 13:51:24,158 70%
+2019-05-01 13:51:24,349 71%
+2019-05-01 13:51:24,627 72%
+2019-05-01 13:51:24,875 73%
+2019-05-01 13:51:25,099 74%
+2019-05-01 13:51:25,322 75%
+2019-05-01 13:51:25,532 76%
+2019-05-01 13:51:25,719 77%
+2019-05-01 13:51:25,924 78%
+2019-05-01 13:51:26,145 79%
+2019-05-01 13:51:26,388 80%
+2019-05-01 13:51:26,667 81%
+2019-05-01 13:51:27,063 82%
+2019-05-01 13:51:27,374 83%
+2019-05-01 13:51:27,740 84%
+2019-05-01 13:51:28,206 85%
+2019-05-01 13:51:28,520 86%
+2019-05-01 13:51:28,821 87%
+2019-05-01 13:51:29,065 88%
+2019-05-01 13:51:29,259 89%
+2019-05-01 13:51:29,460 90%
+2019-05-01 13:51:29,684 91%
+2019-05-01 13:51:29,940 92%
+2019-05-01 13:51:30,246 93%
+2019-05-01 13:51:30,753 94%
+2019-05-01 13:51:31,161 95%
+2019-05-01 13:51:31,930 96%
+2019-05-01 13:51:32,312 97%
+2019-05-01 13:51:32,894 98%
+2019-05-01 13:51:33,684 99%
+2019-05-01 13:51:34,111 100%
+2019-05-01 13:51:34,114 Writing ICC file 'U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4Gawn65.icm'
+2019-05-01 13:51:34,124 Writing .cube 3dLut 'U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4Gawn65.cube'
+2019-05-01 13:51:34,635 
+2019-05-01 13:51:34,635 There is 1 rev cache instance with 1610 Mbytes limit
+2019-05-01 13:51:34,836 DisplayCAL: Reached EOF (OK)
+2019-05-01 13:51:34,838 Finished creating 3D LUT in 55.5759999752 seconds
+2019-05-01 13:51:40,828 Loading calibration curves from file...
+2019-05-01 13:51:40,828 C:\Users\tang-\AppData\Roaming\DisplayCAL\storage\U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX\U2719D #1 2019-05-01 13-38 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-05-01 13:51:41,141 About to open dispwin object on the display
+2019-05-01 13:51:41,141 About to clear the calibration
+2019-05-01 13:51:41,141 About to set display to given calibration
+2019-05-01 13:51:41,141 Calibration set
+2019-05-01 13:51:41,141 About to destroy dispwin object
+2019-05-01 13:51:41,142 ...ok.
+2019-05-01 13:52:28,871 Loading calibration curves of current display device profile...
+2019-05-01 13:52:28,871 C:\WINDOWS\system32\spool\drivers\color\U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-05-01 13:52:28,996 About to open dispwin object on the display
+2019-05-01 13:52:28,996 About to clear the calibration
+2019-05-01 13:52:28,996 About to set display to given calibration
+2019-05-01 13:52:28,996 Calibration set
+2019-05-01 13:52:28,996 About to destroy dispwin object
+2019-05-01 13:52:28,996 ...ok.
+2019-05-01 13:52:46,901 --------------------------------------------------------------------------------
+2019-05-01 13:52:46,901 Calibrate & profile
+2019-05-01 13:52:46,938 
+2019-05-01 13:52:46,966 Detecting output levels range...
+2019-05-01 13:52:46,973 --------------------------------------------------------------------------------
+2019-05-01 13:52:46,974 Session log: 0_16
+2019-05-01 13:52:46,974 
+2019-05-01 13:52:46,974 Working directory:
+2019-05-01 13:52:46,974   c:\
+2019-05-01 13:52:46,976    users\
+2019-05-01 13:52:46,976     tang-\
+2019-05-01 13:52:46,976      appdata\
+2019-05-01 13:52:46,976       local\
+2019-05-01 13:52:46,976        temp\
+2019-05-01 13:52:46,976         DisplayCAL-b1blfc\
+2019-05-01 13:52:46,977 
+2019-05-01 13:52:46,977 Command line:
+2019-05-01 13:52:46,977   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe
+2019-05-01 13:52:46,979     -v
+2019-05-01 13:52:46,979     -k
+2019-05-01 13:52:46,980     "C:\Program Files (x86)\DisplayCAL\linear.cal"
+2019-05-01 13:52:46,980     -d1
+2019-05-01 13:52:46,980     -c1
+2019-05-01 13:52:46,980     -yn
+2019-05-01 13:52:46,980     "-P0.455185358986,0.582591493571,1.0"
+2019-05-01 13:52:46,980     -Ibw
+2019-05-01 13:52:46,982     0_16
+2019-05-01 13:52:46,982 
+2019-05-01 13:52:47,427 DisplayCAL: Starting interaction with subprocess
+2019-05-01 13:52:47,431 Number of patches = 3
+2019-05-01 13:52:47,434 Setting up the instrument
+2019-05-01 13:52:48,450 Product Name:      i1Display3
+2019-05-01 13:52:48,451 Serial Number:     I1-17.B-02.285149.10
+2019-05-01 13:52:48,451 Firmware Version:  v2.28
+2019-05-01 13:52:48,451 Firmware Date:     29Jan14
+2019-05-01 13:52:48,726 Place instrument on test window.
+2019-05-01 13:52:48,730 DisplayCAL: Waiting for send buffer
+2019-05-01 13:52:50,226 DisplayCAL: Skipping place instrument on screen message...
+2019-05-01 13:52:50,259 DisplayCAL: Sending buffer: ' '
+2019-05-01 13:52:50,263 Hit Esc or Q to give up, any other key to continue:
+2019-05-01 13:52:52,882 Measured display update delay of 61 msec, using delay of 181 msec & 0 msec inst reaction
+2019-05-01 13:53:01,914 Patch 3 of 3
+2019-05-01 13:53:01,914 
+2019-05-01 13:53:01,915 Black drift was 0.000000 DE
+2019-05-01 13:53:01,915 White drift was 0.000000 DE
+2019-05-01 13:53:01,915 The instrument can be removed from the screen.
+2019-05-01 13:53:02,013 Written '0_16.ti3'
+2019-05-01 13:53:02,125 DisplayCAL: Reached EOF (OK)
+2019-05-01 13:53:02,180 RGB level 0 is 0.201861 cd/m2
+2019-05-01 13:53:02,183 RGB level 16 is 0.467897 cd/m2
+2019-05-01 13:53:02,184 Assuming full range output levels
+2019-05-01 13:53:02,194 --------------------------------------------------------------------------------
+2019-05-01 13:53:02,194 Session log: U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 13:53:02,196 
+2019-05-01 13:53:02,196 Working directory:
+2019-05-01 13:53:02,197   c:\
+2019-05-01 13:53:02,197    users\
+2019-05-01 13:53:02,197     tang-\
+2019-05-01 13:53:02,198      appdata\
+2019-05-01 13:53:02,198       local\
+2019-05-01 13:53:02,200        temp\
+2019-05-01 13:53:02,200         DisplayCAL-b1blfc\
+2019-05-01 13:53:02,200 
+2019-05-01 13:53:02,200 Command line:
+2019-05-01 13:53:02,201   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispcal.exe
+2019-05-01 13:53:02,203     -v2
+2019-05-01 13:53:02,203     -d1
+2019-05-01 13:53:02,203     -c1
+2019-05-01 13:53:02,204     -yn
+2019-05-01 13:53:02,204     "-P0.455185358986,0.582591493571,1.0"
+2019-05-01 13:53:02,206     -Ibw
+2019-05-01 13:53:02,206     -ql
+2019-05-01 13:53:02,207     -t6500
+2019-05-01 13:53:02,207     -g2.2
+2019-05-01 13:53:02,207     -f1.0
+2019-05-01 13:53:02,207     -k0
+2019-05-01 13:53:02,209     -A4.0
+2019-05-01 13:53:02,209     -b
+2019-05-01 13:53:02,210     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX"
+2019-05-01 13:53:02,210 
+2019-05-01 13:53:02,655 DisplayCAL: Starting interaction with subprocess
+2019-05-01 13:53:02,660 Setting up the instrument
+2019-05-01 13:53:03,645 Product Name:      i1Display3
+2019-05-01 13:53:03,647 Serial Number:     I1-17.B-02.285149.10
+2019-05-01 13:53:03,647 Firmware Version:  v2.28
+2019-05-01 13:53:03,647 Firmware Date:     29Jan14
+2019-05-01 13:53:03,940 Place instrument on test window.
+2019-05-01 13:53:03,943 DisplayCAL: Waiting for send buffer
+2019-05-01 13:53:05,447 DisplayCAL: Skipping place instrument on screen message...
+2019-05-01 13:53:05,470 DisplayCAL: Sending buffer: ' '
+2019-05-01 13:53:05,480 Hit Esc or Q to give up, any other key to continue:
+2019-05-01 13:53:05,483 Display type is 'n'
+2019-05-01 13:53:05,486 Target white = 6500.000000 degrees kelvin Daylight spectrum
+2019-05-01 13:53:05,486 Target white brightness = native brightness
+2019-05-01 13:53:05,489 Target black brightness = native brightness
+2019-05-01 13:53:05,506 Black point device hack is enabled
+2019-05-01 13:53:05,509 Target advertised gamma = 2.200000
+2019-05-01 13:53:05,510 
+2019-05-01 13:53:05,512 Display adjustment menu:
+2019-05-01 13:53:05,513 Press 1 .. 7
+2019-05-01 13:53:05,513 1) Black level (CRT: Offset/Brightness)
+2019-05-01 13:53:05,515 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-05-01 13:53:05,516 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-05-01 13:53:05,516 4) Black point (R,G,B, Offset/Brightness)
+2019-05-01 13:53:05,516 5) Check all
+2019-05-01 13:53:05,517 6) Measure and set ambient for viewing condition adjustment
+2019-05-01 13:53:05,519 7) Continue on to calibration
+2019-05-01 13:53:05,519 8) Exit
+2019-05-01 13:53:05,525 DisplayCAL: Waiting for send buffer
+2019-05-01 13:53:26,259 DisplayCAL: Sending buffer: '2'
+2019-05-01 13:53:26,259 Doing some initial measurements
+2019-05-01 13:53:28,875 Measured display update delay of 65 msec, using delay of 186 msec & 0 msec inst reaction
+2019-05-01 13:53:32,644 Red   = XYZ 81.466 42.439  0.253
+2019-05-01 13:53:32,645 Green = XYZ 80.258 160.953 17.680
+2019-05-01 13:53:32,647 Blue  = XYZ 39.398 11.909 219.938
+2019-05-01 13:53:33,342 White = XYZ 201.986 215.972 239.424
+2019-05-01 13:53:33,345 
+2019-05-01 13:53:33,345 Adjust R,G & B gain to get target x,y. Press space when done.
+2019-05-01 13:53:33,346    Target Br 215.97, x 0.3128 , y 0.3292
+2019-05-01 13:53:38,946 DisplayCAL: Sending buffer: ' '
+2019-05-01 13:53:39,138 \ Current Br 215.97, x 0.3073+, y 0.3285+  DE  3.8  R++ G-  B+
+2019-05-01 13:53:39,141 
+2019-05-01 13:53:39,141 Press 1 .. 7
+2019-05-01 13:53:39,141 1) Black level (CRT: Offset/Brightness)
+2019-05-01 13:53:39,147 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-05-01 13:53:39,148 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-05-01 13:53:39,148 4) Black point (R,G,B, Offset/Brightness)
+2019-05-01 13:53:39,150 5) Check all
+2019-05-01 13:53:39,151 6) Measure and set ambient for viewing condition adjustment
+2019-05-01 13:53:39,151 7) Continue on to calibration
+2019-05-01 13:53:39,153 8) Exit
+2019-05-01 13:53:39,155 DisplayCAL: Waiting for send buffer
+2019-05-01 13:53:40,276 DisplayCAL: Sending buffer: '7'
+2019-05-01 13:53:40,278 Commencing display calibration
+2019-05-01 13:54:00,670 Patch 9 of 9
+2019-05-01 13:54:00,671 
+2019-05-01 13:54:00,677 Black = XYZ 0.1988 0.2019 0.3583
+2019-05-01 13:54:00,680 Red   = XYZ 81.466 42.439  0.253
+2019-05-01 13:54:00,680 Green = XYZ 80.259 160.953 17.681
+2019-05-01 13:54:00,681 Blue  = XYZ 39.390 11.906 219.938
+2019-05-01 13:54:00,681 White = XYZ 201.986 215.972 239.424
+2019-05-01 13:55:42,631 Patch 48 of 48
+2019-05-01 13:55:42,714 
+2019-05-01 13:55:42,716 Initial native brightness target = 215.972019 cd/m^2
+2019-05-01 13:55:42,716 Had to scale brightness from 215.972019 to 202.986598 to fit within gamut,
+2019-05-01 13:55:42,717 corresponding to aprox. RGB 1.000000 0.960186 0.960820
+2019-05-01 13:55:42,717 Target white value is XYZ 192.872127 202.986598 220.753322 [xy 0.312793 0.329197]
+2019-05-01 13:55:42,717 Adjusted target black XYZ 0.1988 0.2019 0.3583, Lab 0.898 0.141 -0.979
+2019-05-01 13:55:42,717 Target black after min adjust: XYZ 0.1988 0.2019 0.3583, Lab 0.898 0.141 -0.979
+2019-05-01 13:55:42,717 Gamma curve input offset = 0.000000, output offset = 0.000995, power = 2.205173
+2019-05-01 13:55:42,720 Total Iteration 2, Final Samples = 32 Final Repeat threshold = 0.900000
+2019-05-01 13:55:42,720 Creating initial calibration curves...
+2019-05-01 13:55:42,793 
+2019-05-01 13:55:42,795 Doing iteration 1/2 with 16 sample points and repeat threshold of 1.272792 DE
+2019-05-01 13:55:43,285 Patch 1 of 16 DE 1.649088, W.DE 1.649088, Repeat
+2019-05-01 13:55:43,825 Patch 1 of 16 DE 0.935718, W.DE 0.935718, OK ( < 1.272792)
+2019-05-01 13:55:44,346 Patch 2 of 16 DE 2.438169, W.DE 2.438169, Repeat
+2019-05-01 13:55:44,898 Patch 2 of 16 DE 0.291214, W.DE 0.291214, OK ( < 1.272792)
+2019-05-01 13:55:45,411 Patch 3 of 16 DE 2.311467, W.DE 2.311467, Repeat
+2019-05-01 13:55:45,963 Patch 3 of 16 DE 0.359998, W.DE 0.359998, OK ( < 1.272792)
+2019-05-01 13:55:46,477 Patch 4 of 16 DE 2.242719, W.DE 2.242719, Repeat
+2019-05-01 13:55:47,017 Patch 4 of 16 DE 0.407637, W.DE 0.407637, OK ( < 1.272792)
+2019-05-01 13:55:47,528 Patch 5 of 16 DE 2.430374, W.DE 2.430374, Repeat
+2019-05-01 13:55:48,075 Patch 5 of 16 DE 0.636844, W.DE 0.636844, OK ( < 1.272792)
+2019-05-01 13:55:48,599 Patch 6 of 16 DE 2.111075, W.DE 2.111075, Repeat
+2019-05-01 13:55:49,141 Patch 6 of 16 DE 0.397279, W.DE 0.397279, OK ( < 1.272792)
+2019-05-01 13:55:49,878 Patch 7 of 16 DE 1.898960, W.DE 1.898960, Repeat
+2019-05-01 13:55:50,621 Patch 7 of 16 DE 0.195049, W.DE 0.195049, OK ( < 1.272792)
+2019-05-01 13:55:51,391 Patch 8 of 16 DE 1.353275, W.DE 1.353275, Repeat
+2019-05-01 13:55:52,148 Patch 8 of 16 DE 0.435555, W.DE 0.435555, OK ( < 1.272792)
+2019-05-01 13:55:52,993 Patch 9 of 16 DE 0.968936, W.DE 0.968936, OK ( < 1.272792)
+2019-05-01 13:55:53,924 Patch 10 of 16 DE 1.198575, W.DE 1.198575, OK ( < 1.272792)
+2019-05-01 13:55:54,996 Patch 11 of 16 DE 1.080821, W.DE 1.080821, OK ( < 1.272792)
+2019-05-01 13:55:56,611 Patch 12 of 16 DE 2.332608, W.DE 2.332608, Repeat
+2019-05-01 13:55:58,081 Patch 12 of 16 DE 0.815804, W.DE 0.815804, OK ( < 1.272792)
+2019-05-01 13:56:00,631 Patch 13 of 16 DE 2.304074, W.DE 2.304074, Repeat
+2019-05-01 13:56:06,267 Patch 13 of 16 DE 1.216969, W.DE 1.216969, Repeat
+2019-05-01 13:56:08,130 Patch 13 of 16 DE 0.354252, W.DE 0.354252, OK ( < 1.175079)
+2019-05-01 13:56:10,869 Patch 14 of 16 DE 0.699899, W.DE 0.699899, Repeat
+2019-05-01 13:56:21,776 Patch 14 of 16 DE 0.624294, W.DE 0.624294, Repeat
+2019-05-01 13:56:24,440 Patch 14 of 16 DE 0.384140, W.DE 0.384140, Repeat
+2019-05-01 13:56:26,934 Patch 14 of 16 DE 0.371292, W.DE 0.371292, Repeat
+2019-05-01 13:56:29,331 Patch 14 of 16 DE 0.118554, W.DE 0.162233, OK ( < 0.340428)
+2019-05-01 13:56:32,069 Patch 15 of 16 DE 0.061192, W.DE 0.061192, Repeat
+2019-05-01 13:56:42,786 Patch 15 of 16 DE 0.060490, W.DE 0.060490, Repeat
+2019-05-01 13:56:45,532 Patch 15 of 16 DE 0.037091, W.DE 0.037091, OK ( < 0.050000)
+2019-05-01 13:56:48,213 Patch 16 of 16 DE 0.018403, W.DE 18.402635, Repeat
+2019-05-01 13:56:58,987 Patch 16 of 16 DE 0.017796, W.DE 17.796487, Repeat
+2019-05-01 13:57:01,717 Patch 16 of 16 DE 0.018342, W.DE 18.341971, Repeat (got worse)
+2019-05-01 13:57:08,005 Patch 16 of 16 DE 0.019330, W.DE 19.329709, Repeat (got worse)
+2019-05-01 13:57:10,657 Patch 16 of 16 DE 0.019144, W.DE 19.143754, Repeat (got worse)
+2019-05-01 13:57:13,309 Patch 16 of 16 DE 0.018559, W.DE 18.558626, Repeat (got worse)
+2019-05-01 13:57:15,963 Patch 16 of 16 DE 0.013767, W.DE 13.767436, Repeat
+2019-05-01 13:57:18,625 Patch 16 of 16 DE 0.018217, W.DE 18.216986, Repeat (got worse)
+2019-05-01 13:57:21,280 Patch 16 of 16 DE 0.018237, W.DE 18.237012, Repeat (got worse)
+2019-05-01 13:57:23,953 Patch 16 of 16 DE 0.013767, W.DE 13.767436, Fail ( > 0.050000)
+2019-05-01 13:57:23,956 
+2019-05-01 13:57:23,957 Brightness error = 0.356565 cd/m^2 (is 203.343163, should be 202.986598)
+2019-05-01 13:57:23,957 White point error = 0.932706 deltaE
+2019-05-01 13:57:23,964 Maximum neutral error (@ 0.230832) = 1.193875 deltaE
+2019-05-01 13:57:23,967 Average neutral error = 0.516492 deltaE
+2019-05-01 13:57:23,967 Failed to meet target 1.272792 delta E, got worst case 13.767436
+2019-05-01 13:57:23,970 Number of measurements taken = 51
+2019-05-01 13:57:23,970 Computing update to calibration curves...
+2019-05-01 13:57:24,045 
+2019-05-01 13:57:24,046 Doing iteration 2/2 with 32 sample points and repeat threshold of 0.900000 DE
+2019-05-01 13:57:24,733 Patch 1 of 32 DE 0.996858, W.DE 0.996858, peqDE 0.996858, Repeat
+2019-05-01 13:57:25,176 Patch 1 of 32 DE 0.752955, W.DE 0.752955, W.peqDE 0.752955, OK ( < 0.900000)
+2019-05-01 13:57:25,677 Patch 2 of 32 DE 0.555902, W.DE 0.555902, peqDE 1.267900, Repeat
+2019-05-01 13:57:26,111 Patch 2 of 32 DE 0.262685, W.DE 0.262685, peqDE 0.939774, Repeat
+2019-05-01 13:57:26,532 Patch 2 of 32 DE 0.174197, W.DE 0.174197, W.peqDE 0.659487, OK ( < 0.900000)
+2019-05-01 13:57:27,028 Patch 3 of 32 DE 0.298654, W.DE 0.298654, W.peqDE 0.377956, OK ( < 0.900000)
+2019-05-01 13:57:27,525 Patch 4 of 32 DE 0.320256, W.DE 0.320256, W.peqDE 0.452714, OK ( < 0.900000)
+2019-05-01 13:57:28,026 Patch 5 of 32 DE 0.637317, W.DE 0.637317, W.peqDE 0.754747, OK ( < 0.900000)
+2019-05-01 13:57:28,528 Patch 6 of 32 DE 0.403693, W.DE 0.403693, W.peqDE 0.480082, OK ( < 0.900000)
+2019-05-01 13:57:29,025 Patch 7 of 32 DE 0.425706, W.DE 0.425706, W.peqDE 0.318635, OK ( < 0.900000)
+2019-05-01 13:57:29,529 Patch 8 of 32 DE 0.620841, W.DE 0.620841, W.peqDE 0.283573, OK ( < 0.900000)
+2019-05-01 13:57:30,029 Patch 9 of 32 DE 0.680872, W.DE 0.680872, W.peqDE 0.243025, OK ( < 0.900000)
+2019-05-01 13:57:30,526 Patch 10 of 32 DE 0.387548, W.DE 0.387548, W.peqDE 0.289187, OK ( < 0.900000)
+2019-05-01 13:57:31,029 Patch 11 of 32 DE 0.302037, W.DE 0.302037, W.peqDE 0.378654, OK ( < 0.900000)
+2019-05-01 13:57:31,529 Patch 12 of 32 DE 0.379597, W.DE 0.379597, W.peqDE 0.343936, OK ( < 0.900000)
+2019-05-01 13:57:35,654 Patch 13 of 32 DE 0.517619, W.DE 0.517619, W.peqDE 0.501186, OK ( < 0.900000)
+2019-05-01 13:57:36,371 Patch 14 of 32 DE 0.436652, W.DE 0.436652, W.peqDE 0.521376, OK ( < 0.900000)
+2019-05-01 13:57:37,111 Patch 15 of 32 DE 0.545646, W.DE 0.545646, W.peqDE 0.536609, OK ( < 0.900000)
+2019-05-01 13:57:37,868 Patch 16 of 32 DE 0.429913, W.DE 0.429913, W.peqDE 0.498914, OK ( < 0.900000)
+2019-05-01 13:57:38,673 Patch 17 of 32 DE 0.787990, W.DE 0.787990, W.peqDE 0.829131, OK ( < 0.900000)
+2019-05-01 13:57:39,513 Patch 18 of 32 DE 0.832631, W.DE 0.832631, W.peqDE 0.778148, OK ( < 0.900000)
+2019-05-01 13:57:40,387 Patch 19 of 32 DE 0.382147, W.DE 0.382147, W.peqDE 0.298796, OK ( < 0.900000)
+2019-05-01 13:57:41,319 Patch 20 of 32 DE 0.633865, W.DE 0.633865, W.peqDE 0.490470, OK ( < 0.900000)
+2019-05-01 13:57:42,338 Patch 21 of 32 DE 1.110649, W.DE 1.110649, peqDE 0.547186, Repeat
+2019-05-01 13:57:43,321 Patch 21 of 32 DE 0.142239, W.DE 0.142239, W.peqDE 0.704791, OK ( < 0.900000)
+2019-05-01 13:57:44,398 Patch 22 of 32 DE 0.997463, W.DE 0.997463, peqDE 1.015141, Repeat
+2019-05-01 13:57:45,470 Patch 22 of 32 DE 0.505764, W.DE 0.505764, W.peqDE 0.501021, OK ( < 0.900000)
+2019-05-01 13:57:46,812 Patch 23 of 32 DE 1.456011, W.DE 1.456011, peqDE 1.150169, Repeat
+2019-05-01 13:57:48,138 Patch 23 of 32 DE 0.823085, W.DE 0.823085, peqDE 1.220684, Repeat
+2019-05-01 13:57:49,448 Patch 23 of 32 DE 0.618828, W.DE 0.618828, peqDE 1.161741, Repeat
+2019-05-01 13:57:54,717 Patch 23 of 32 DE 0.618828, W.DE 0.618828, peqDE 1.161741, Repeat
+2019-05-01 13:57:56,069 Patch 23 of 32 DE 0.768140, W.DE 0.768140, W.peqDE 0.593492, OK ( < 0.900000)
+2019-05-01 13:57:57,496 Patch 24 of 32 DE 1.020199, W.DE 1.020199, peqDE 0.797650, Repeat
+2019-05-01 13:57:58,944 Patch 24 of 32 DE 0.134182, W.DE 0.134182, W.peqDE 0.884442, OK ( < 0.900000)
+2019-05-01 13:58:04,211 Patch 25 of 32 DE 0.533652, W.DE 0.533652, W.peqDE 0.556796, OK ( < 0.900000)
+2019-05-01 13:58:06,108 Patch 26 of 32 DE 0.441576, W.DE 0.441576, peqDE 0.659344, Repeat
+2019-05-01 13:58:13,464 Patch 26 of 32 DE 0.391655, W.DE 0.391655, W.peqDE 0.199506, OK ( < 0.652497)
+2019-05-01 13:58:15,625 Patch 27 of 32 DE 0.747624, W.DE 0.747624, peqDE 0.755050, Repeat
+2019-05-01 13:58:17,760 Patch 27 of 32 DE 0.135369, W.DE 0.135369, W.peqDE 0.265391, OK ( < 0.394445)
+2019-05-01 13:58:20,289 Patch 28 of 32 DE 0.339430, W.DE 0.339430, peqDE 0.318987, Repeat
+2019-05-01 13:58:22,826 Patch 28 of 32 DE 0.225705, W.DE 0.225705, peqDE 0.199271, Repeat
+2019-05-01 13:58:32,703 Patch 28 of 32 DE 0.225705, W.DE 0.225705, peqDE 0.199271, Repeat
+2019-05-01 13:58:35,252 Patch 28 of 32 DE 0.226805, W.DE 0.226805, peqDE 0.200314, Repeat
+2019-05-01 13:58:37,812 Patch 28 of 32 DE 0.272580, W.DE 0.272580, peqDE 0.334961, Repeat
+2019-05-01 13:58:40,213 Patch 28 of 32 DE 0.129004, W.DE 0.129004, W.peqDE 0.076696, OK ( < 0.210967)
+2019-05-01 13:58:42,953 Patch 29 of 32 DE 0.163021, W.DE 0.163021, peqDE 0.143385, Repeat
+2019-05-01 13:58:53,802 Patch 29 of 32 DE 0.155666, W.DE 0.155666, peqDE 0.114970, Repeat
+2019-05-01 13:59:00,188 Patch 29 of 32 DE 0.156328, W.DE 0.156328, peqDE 0.115734, Repeat (got worse)
+2019-05-01 13:59:02,953 Patch 29 of 32 DE 0.154397, W.DE 0.154397, peqDE 0.115026, Repeat
+2019-05-01 13:59:05,694 Patch 29 of 32 DE 0.059935, W.DE 0.059935, W.peqDE 0.085692, OK ( < 0.092997)
+2019-05-01 13:59:08,391 Patch 30 of 32 DE 0.079821, W.DE 0.079821, peqDE 0.122028, Repeat
+2019-05-01 13:59:11,062 Patch 30 of 32 DE 0.044519, W.DE 0.044519, peqDE 0.084519, Repeat
+2019-05-01 13:59:21,848 Patch 30 of 32 DE 0.043432, W.DE 0.043432, peqDE 0.082523, Repeat
+2019-05-01 13:59:24,607 Patch 30 of 32 DE 0.035237, W.DE 0.035237, peqDE 0.080287, Repeat
+2019-05-01 13:59:27,242 Patch 30 of 32 DE 0.018950, W.DE 0.018950, peqDE 0.054169, Repeat
+2019-05-01 13:59:29,880 Patch 30 of 32 DE 0.019167, W.DE 0.019167, peqDE 0.055863, Repeat (got worse)
+2019-05-01 13:59:32,516 Patch 30 of 32 DE 0.019076, W.DE 0.019076, peqDE 0.057593, Repeat (got worse)
+2019-05-01 13:59:35,167 Patch 30 of 32 DE 0.039341, W.DE 0.039341, peqDE 0.068332, Repeat (got worse)
+2019-05-01 13:59:37,805 Patch 30 of 32 DE 0.018806, W.DE 0.018806, peqDE 0.056485, Repeat (got worse)
+2019-05-01 13:59:40,437 Patch 30 of 32 DE 0.018915, W.DE 0.018915, W.peqDE 0.053759, Fail ( > 0.050000)
+2019-05-01 13:59:43,147 Patch 31 of 32 DE 0.037631, W.DE 9.663304, peqDE 9.663402, Repeat
+2019-05-01 13:59:53,875 Patch 31 of 32 DE 0.036608, W.DE 9.538920, peqDE 9.539018, Repeat
+2019-05-01 13:59:56,625 Patch 31 of 32 DE 0.022522, W.DE 9.246587, peqDE 9.246650, Repeat
+2019-05-01 14:00:02,930 Patch 31 of 32 DE 0.027159, W.DE 0.027159, W.peqDE 0.049120, OK ( < 0.050000)
+2019-05-01 14:00:05,631 Patch 32 of 32 DE 0.000152, W.DE 0.152354, peqDE 0.152354, Repeat
+2019-05-01 14:00:08,308 Patch 32 of 32 DE 0.000037, W.DE 0.000037, W.peqDE 0.000037, OK ( < 0.050000)
+2019-05-01 14:00:08,309 
+2019-05-01 14:00:08,316 Brightness error = 0.429762 cd/m^2 (is 203.416360, should be 202.986598)
+2019-05-01 14:00:08,319 White point error = 0.747970 deltaE
+2019-05-01 14:00:08,319 Maximum neutral error (@ 0.280302) = 0.835239 deltaE
+2019-05-01 14:00:08,322 Average neutral error = 0.398902 deltaE
+2019-05-01 14:00:08,322 Failed to meet target 0.900000 delta E, got worst case 13.767436
+2019-05-01 14:00:08,323 Number of measurements taken = 84
+2019-05-01 14:00:08,325 Computing update to calibration curves...
+2019-05-01 14:00:08,459 Black drift was 0.006044 DE
+2019-05-01 14:00:08,460 White drift was 0.061344 DE
+2019-05-01 14:00:08,460 The instrument can be removed from the screen.
+2019-05-01 14:00:08,559 Written calibration file 'U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.cal'
+2019-05-01 14:00:08,664 DisplayCAL: Reached EOF (OK)
+2019-05-01 14:00:08,828 --------------------------------------------------------------------------------
+2019-05-01 14:00:08,828 Session log: U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 14:00:08,828 
+2019-05-01 14:00:08,828 Working directory:
+2019-05-01 14:00:08,828   c:\
+2019-05-01 14:00:08,829    users\
+2019-05-01 14:00:08,829     tang-\
+2019-05-01 14:00:08,829      appdata\
+2019-05-01 14:00:08,831       local\
+2019-05-01 14:00:08,831        temp\
+2019-05-01 14:00:08,831         DisplayCAL-b1blfc\
+2019-05-01 14:00:08,832 
+2019-05-01 14:00:08,832 Command line:
+2019-05-01 14:00:08,832   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispread.exe
+2019-05-01 14:00:08,832     -v
+2019-05-01 14:00:08,832     -d1
+2019-05-01 14:00:08,832     -c1
+2019-05-01 14:00:08,834     -yn
+2019-05-01 14:00:08,834     "-P0.455185358986,0.582591493571,1.0"
+2019-05-01 14:00:08,835     -Ibw
+2019-05-01 14:00:08,835     -k
+2019-05-01 14:00:08,835     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.cal"
+2019-05-01 14:00:08,835     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX"
+2019-05-01 14:00:08,836 
+2019-05-01 14:00:09,290 DisplayCAL: Starting interaction with subprocess
+2019-05-01 14:00:09,292 Number of patches = 175
+2019-05-01 14:00:09,292 Setting up the instrument
+2019-05-01 14:00:10,282 Product Name:      i1Display3
+2019-05-01 14:00:10,282 Serial Number:     I1-17.B-02.285149.10
+2019-05-01 14:00:10,283 Firmware Version:  v2.28
+2019-05-01 14:00:10,283 Firmware Date:     29Jan14
+2019-05-01 14:00:10,562 Place instrument on test window.
+2019-05-01 14:00:10,563 DisplayCAL: Waiting for send buffer
+2019-05-01 14:00:12,052 DisplayCAL: Skipping place instrument on screen message...
+2019-05-01 14:00:12,094 DisplayCAL: Sending buffer: ' '
+2019-05-01 14:00:12,096 Hit Esc or Q to give up, any other key to continue:
+2019-05-01 14:00:14,710 Measured display update delay of 61 msec, using delay of 181 msec & 0 msec inst reaction
+2019-05-01 14:03:11,887 Patch 175 of 175
+2019-05-01 14:03:11,888 Black drift was 0.001731 DE
+2019-05-01 14:03:11,890 White drift was 0.105336 DE
+2019-05-01 14:03:11,891 The instrument can be removed from the screen.
+2019-05-01 14:03:12,046 Written 'U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.ti3'
+2019-05-01 14:03:12,151 DisplayCAL: Reached EOF (OK)
+2019-05-01 14:03:12,364 Create profile from measurement data...
+2019-05-01 14:03:12,417 -> Preparing ChromaticityType tag from TI3 colorants
+2019-05-01 14:03:12,424 -> Storing settings in TI3
+2019-05-01 14:03:12,483 Applying 0% black point correction to TI3
+2019-05-01 14:03:12,565 Extracting neutrals from c:\users\tang-\appdata\local\temp\DisplayCAL-b1blfc\U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.ti3
+2019-05-01 14:03:12,641 R=G=B (>= 1% luminance) dE*00 avg 0.460509941897 peak 1.19319633224
+2019-05-01 14:03:12,641 Got high quality calibration, using single device to PCS shaper curve for cLUT
+2019-05-01 14:03:12,832 Black relative luminance = 0.000993
+2019-05-01 14:03:12,832 Black output offset = 1.00
+2019-05-01 14:03:12,832 Calibration gamma = 2.20 relative
+2019-05-01 14:03:12,832 Calibration overall transfer function ≈ Gamma 2.21 100% (Δ 0.00%)
+2019-05-01 14:03:12,832 Calibration effective gamma = 2.20
+2019-05-01 14:03:12,868 Transfer function R ≈ Gamma 2.22 100% (Δ 1.04%)
+2019-05-01 14:03:12,868 Effective gamma = 2.21
+2019-05-01 14:03:12,869 Got good match (+-2%)
+2019-05-01 14:03:12,869 Using calibration transfer function
+2019-05-01 14:03:12,923 Transfer function G ≈ Gamma 2.22 100% (Δ 1.04%)
+2019-05-01 14:03:12,924 Effective gamma = 2.21
+2019-05-01 14:03:12,924 Got good match (+-2%)
+2019-05-01 14:03:12,924 Using calibration transfer function
+2019-05-01 14:03:12,960 Transfer function B ≈ Gamma 2.22 100% (Δ 1.04%)
+2019-05-01 14:03:12,960 Effective gamma = 2.21
+2019-05-01 14:03:12,960 Got good match (+-2%)
+2019-05-01 14:03:12,960 Using calibration transfer function
+2019-05-01 14:03:13,007 Using transfer function for R: Gamma 2.21 100%
+2019-05-01 14:03:13,009 Effective gamma = 2.20
+2019-05-01 14:03:13,055 Using transfer function for G: Gamma 2.21 100%
+2019-05-01 14:03:13,055 Effective gamma = 2.20
+2019-05-01 14:03:13,101 Using transfer function for B: Gamma 2.21 100%
+2019-05-01 14:03:13,101 Effective gamma = 2.20
+2019-05-01 14:03:13,105 Initial cLUT resolution 5x5x5
+2019-05-01 14:03:13,105 cLUT input curve segments: 5
+2019-05-01 14:03:13,135 #1 X prev 0.045347 next 0.209100 clip False
+2019-05-01 14:03:13,164 #2 X prev 0.209100 next 0.511280 clip False
+2019-05-01 14:03:13,194 #3 X prev 0.511280 next 0.964200 clip False
+2019-05-01 14:03:13,313 #1 Y prev 0.047031 next 0.216864 clip False
+2019-05-01 14:03:13,342 #2 Y prev 0.216864 next 0.530264 clip False
+2019-05-01 14:03:13,374 #3 Y prev 0.530264 next 1.000000 clip False
+2019-05-01 14:03:13,490 #1 Z prev 0.038796 next 0.178891 clip False
+2019-05-01 14:03:13,520 #2 Z prev 0.178891 next 0.437415 clip False
+2019-05-01 14:03:13,551 #3 Z prev 0.437415 next 0.824900 clip False
+2019-05-01 14:03:14,354 cLUT input curve segments: 33
+2019-05-01 14:03:14,358 #1 X prev 0.000463 next 0.002133 clip False
+2019-05-01 14:03:14,361 #2 X prev 0.002133 next 0.005215 clip False
+2019-05-01 14:03:14,365 #3 X prev 0.005215 next 0.009835 clip False
+2019-05-01 14:03:14,371 #4 X prev 0.009835 next 0.016086 clip False
+2019-05-01 14:03:14,374 #5 X prev 0.016086 next 0.024046 clip False
+2019-05-01 14:03:14,378 #6 X prev 0.024046 next 0.033781 clip False
+2019-05-01 14:03:14,381 #7 X prev 0.033781 next 0.045347 clip False
+2019-05-01 14:03:14,384 #8 X prev 0.045347 next 0.058796 clip False
+2019-05-01 14:03:14,388 #9 X prev 0.058796 next 0.074173 clip False
+2019-05-01 14:03:14,392 #10 X prev 0.074173 next 0.091521 clip False
+2019-05-01 14:03:14,397 #11 X prev 0.091521 next 0.110879 clip False
+2019-05-01 14:03:14,400 #12 X prev 0.110879 next 0.132283 clip False
+2019-05-01 14:03:14,404 #13 X prev 0.132283 next 0.155767 clip False
+2019-05-01 14:03:14,407 #14 X prev 0.155767 next 0.181362 clip False
+2019-05-01 14:03:14,411 #15 X prev 0.181362 next 0.209100 clip False
+2019-05-01 14:03:14,415 #16 X prev 0.209100 next 0.239008 clip False
+2019-05-01 14:03:14,418 #17 X prev 0.239008 next 0.271114 clip False
+2019-05-01 14:03:14,423 #18 X prev 0.271114 next 0.305444 clip False
+2019-05-01 14:03:14,427 #19 X prev 0.305444 next 0.342022 clip False
+2019-05-01 14:03:14,430 #20 X prev 0.342022 next 0.380872 clip False
+2019-05-01 14:03:14,434 #21 X prev 0.380872 next 0.422017 clip False
+2019-05-01 14:03:14,438 #22 X prev 0.422017 next 0.465480 clip False
+2019-05-01 14:03:14,443 #23 X prev 0.465480 next 0.511280 clip False
+2019-05-01 14:03:14,447 #24 X prev 0.511280 next 0.559440 clip False
+2019-05-01 14:03:14,450 #25 X prev 0.559440 next 0.609978 clip False
+2019-05-01 14:03:14,456 #26 X prev 0.609978 next 0.662915 clip False
+2019-05-01 14:03:14,459 #27 X prev 0.662915 next 0.718268 clip False
+2019-05-01 14:03:14,463 #28 X prev 0.718268 next 0.776055 clip False
+2019-05-01 14:03:14,467 #29 X prev 0.776055 next 0.836295 clip False
+2019-05-01 14:03:14,470 #30 X prev 0.836295 next 0.899005 clip False
+2019-05-01 14:03:14,473 #31 X prev 0.899005 next 0.964200 clip False
+2019-05-01 14:03:14,542 #1 Y prev 0.000480 next 0.002212 clip False
+2019-05-01 14:03:14,546 #2 Y prev 0.002212 next 0.005409 clip False
+2019-05-01 14:03:14,549 #3 Y prev 0.005409 next 0.010200 clip False
+2019-05-01 14:03:14,552 #4 Y prev 0.010200 next 0.016683 clip False
+2019-05-01 14:03:14,556 #5 Y prev 0.016683 next 0.024939 clip False
+2019-05-01 14:03:14,561 #6 Y prev 0.024939 next 0.035035 clip False
+2019-05-01 14:03:14,565 #7 Y prev 0.035035 next 0.047031 clip False
+2019-05-01 14:03:14,568 #8 Y prev 0.047031 next 0.060979 clip False
+2019-05-01 14:03:14,572 #9 Y prev 0.060979 next 0.076927 clip False
+2019-05-01 14:03:14,576 #10 Y prev 0.076927 next 0.094919 clip False
+2019-05-01 14:03:14,581 #11 Y prev 0.094919 next 0.114996 clip False
+2019-05-01 14:03:14,585 #12 Y prev 0.114996 next 0.137194 clip False
+2019-05-01 14:03:14,588 #13 Y prev 0.137194 next 0.161550 clip False
+2019-05-01 14:03:14,592 #14 Y prev 0.161550 next 0.188096 clip False
+2019-05-01 14:03:14,596 #15 Y prev 0.188096 next 0.216864 clip False
+2019-05-01 14:03:14,599 #16 Y prev 0.216864 next 0.247882 clip False
+2019-05-01 14:03:14,605 #17 Y prev 0.247882 next 0.281180 clip False
+2019-05-01 14:03:14,609 #18 Y prev 0.281180 next 0.316784 clip False
+2019-05-01 14:03:14,614 #19 Y prev 0.316784 next 0.354721 clip False
+2019-05-01 14:03:14,618 #20 Y prev 0.354721 next 0.395013 clip False
+2019-05-01 14:03:14,621 #21 Y prev 0.395013 next 0.437686 clip False
+2019-05-01 14:03:14,625 #22 Y prev 0.437686 next 0.482762 clip False
+2019-05-01 14:03:14,630 #23 Y prev 0.482762 next 0.530264 clip False
+2019-05-01 14:03:14,632 #24 Y prev 0.530264 next 0.580212 clip False
+2019-05-01 14:03:14,637 #25 Y prev 0.580212 next 0.632626 clip False
+2019-05-01 14:03:14,641 #26 Y prev 0.632626 next 0.687528 clip False
+2019-05-01 14:03:14,644 #27 Y prev 0.687528 next 0.744936 clip False
+2019-05-01 14:03:14,648 #28 Y prev 0.744936 next 0.804870 clip False
+2019-05-01 14:03:14,651 #29 Y prev 0.804870 next 0.867346 clip False
+2019-05-01 14:03:14,654 #30 Y prev 0.867346 next 0.932384 clip False
+2019-05-01 14:03:14,660 #31 Y prev 0.932384 next 1.000000 clip False
+2019-05-01 14:03:14,726 #1 Z prev 0.000396 next 0.001825 clip False
+2019-05-01 14:03:14,730 #2 Z prev 0.001825 next 0.004462 clip False
+2019-05-01 14:03:14,733 #3 Z prev 0.004462 next 0.008414 clip False
+2019-05-01 14:03:14,736 #4 Z prev 0.008414 next 0.013762 clip False
+2019-05-01 14:03:14,740 #5 Z prev 0.013762 next 0.020572 clip False
+2019-05-01 14:03:14,744 #6 Z prev 0.020572 next 0.028901 clip False
+2019-05-01 14:03:14,747 #7 Z prev 0.028901 next 0.038796 clip False
+2019-05-01 14:03:14,752 #8 Z prev 0.038796 next 0.050301 clip False
+2019-05-01 14:03:14,756 #9 Z prev 0.050301 next 0.063457 clip False
+2019-05-01 14:03:14,762 #10 Z prev 0.063457 next 0.078299 clip False
+2019-05-01 14:03:14,766 #11 Z prev 0.078299 next 0.094860 clip False
+2019-05-01 14:03:14,769 #12 Z prev 0.094860 next 0.113172 clip False
+2019-05-01 14:03:14,773 #13 Z prev 0.113172 next 0.133263 clip False
+2019-05-01 14:03:14,776 #14 Z prev 0.133263 next 0.155161 clip False
+2019-05-01 14:03:14,780 #15 Z prev 0.155161 next 0.178891 clip False
+2019-05-01 14:03:14,783 #16 Z prev 0.178891 next 0.204478 clip False
+2019-05-01 14:03:14,788 #17 Z prev 0.204478 next 0.231946 clip False
+2019-05-01 14:03:14,792 #18 Z prev 0.231946 next 0.261316 clip False
+2019-05-01 14:03:14,795 #19 Z prev 0.261316 next 0.292609 clip False
+2019-05-01 14:03:14,799 #20 Z prev 0.292609 next 0.325846 clip False
+2019-05-01 14:03:14,802 #21 Z prev 0.325846 next 0.361047 clip False
+2019-05-01 14:03:14,808 #22 Z prev 0.361047 next 0.398231 clip False
+2019-05-01 14:03:14,812 #23 Z prev 0.398231 next 0.437415 clip False
+2019-05-01 14:03:14,815 #24 Z prev 0.437415 next 0.478617 clip False
+2019-05-01 14:03:14,819 #25 Z prev 0.478617 next 0.521854 clip False
+2019-05-01 14:03:14,822 #26 Z prev 0.521854 next 0.567142 clip False
+2019-05-01 14:03:14,826 #27 Z prev 0.567142 next 0.614498 clip False
+2019-05-01 14:03:14,829 #28 Z prev 0.614498 next 0.663937 clip False
+2019-05-01 14:03:14,834 #29 Z prev 0.663937 next 0.715474 clip False
+2019-05-01 14:03:14,839 #30 Z prev 0.715474 next 0.769124 clip False
+2019-05-01 14:03:14,842 #31 Z prev 0.769124 next 0.824900 clip False
+2019-05-01 14:03:14,957 Final interpolated cLUT resolution 33x33x33
+2019-05-01 14:03:14,961 --------------------------------------------------------------------------------
+2019-05-01 14:03:14,963 Creating matrix from primaries
+2019-05-01 14:03:14,963 Using chromatic adaptation transform matrix: Bradford
+2019-05-01 14:03:15,049 --------------------------------------------------------------------------------
+2019-05-01 14:03:15,049 Generating A2B1 by copying A2B0
+2019-05-01 14:03:15,049 Generating B2A1 table by inverting A2B1 table
+2019-05-01 14:03:15,049 
+2019-05-01 14:03:15,049 Using chromatic adaptation transform matrix: Bradford
+2019-05-01 14:03:15,140 Black XYZ: 0.0009 0.0010 0.0008
+2019-05-01 14:03:15,140 White XYZ: 0.9642 1.0000 0.8249
+2019-05-01 14:03:15,141 R XYZ: 0.4253 0.2188 0.0004
+2019-05-01 14:03:15,141 G XYZ: 0.3976 0.7349 0.0683
+2019-05-01 14:03:15,141 B XYZ: 0.1389 0.0424 0.7527
+2019-05-01 14:03:15,141 Generating input curve PCS values...
+2019-05-01 14:03:15,157 Looking up input curve RGB values...
+2019-05-01 14:03:15,757 Setting curve entry #0 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,757 Setting curve entry #1 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,759 Setting curve entry #2 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,759 Setting curve entry #3 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,759 Setting curve entry #4 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,759 Setting curve entry #5 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,759 Setting curve entry #6 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,759 Setting curve entry #7 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,759 Setting curve entry #8 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,759 Setting curve entry #9 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,759 Setting curve entry #10 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,760 Setting curve entry #11 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,760 Setting curve entry #12 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,760 Setting curve entry #13 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,760 Setting curve entry #14 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,762 Setting curve entry #15 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,762 Setting curve entry #16 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,762 Setting curve entry #17 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,762 Setting curve entry #18 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,762 Setting curve entry #19 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,763 Setting curve entry #20 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,763 Setting curve entry #21 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,763 Setting curve entry #22 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,763 Setting curve entry #23 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,763 Setting curve entry #24 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,763 Setting curve entry #25 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,763 Setting curve entry #26 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,763 Setting curve entry #27 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,765 Setting curve entry #28 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,765 Setting curve entry #29 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,765 Setting curve entry #30 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,765 Setting curve entry #31 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,765 Setting curve entry #32 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,766 Setting curve entry #33 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,766 Setting curve entry #34 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,766 Setting curve entry #35 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,766 Setting curve entry #36 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,766 Setting curve entry #37 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:15,767 Setting curve entry #4095 (1.000000 0.999996 1.000000) to white because it got clipped
+2019-05-01 14:03:15,767 Setting up matrix
+2019-05-01 14:03:15,769 Increasing saturation of actual primaries for PCS candidate to 102%...
+2019-05-01 14:03:15,769 R xy 0.659973 0.339458 -> 0.666259 0.339077
+2019-05-01 14:03:15,769 G xy 0.331105 0.612037 -> 0.330813 0.617107
+2019-05-01 14:03:15,769 B xy 0.148688 0.045358 -> 0.144748 0.039094
+2019-05-01 14:03:15,769 Checking for suitable PCS candidate...
+2019-05-01 14:03:15,770 PCS candidate based on actual primaries fit: 1.01 (area: 96.12%)
+2019-05-01 14:03:15,770 Using primaries: PCS candidate based on actual primaries
+2019-05-01 14:03:15,772 Using R XYZ: 0.4291 0.2184 -0.0034
+2019-05-01 14:03:15,772 Using G XYZ: 0.3993 0.7450 0.0629
+2019-05-01 14:03:15,773 Using B XYZ: 0.1358 0.0367 0.7655
+2019-05-01 14:03:15,773 R+G+B XYZ: 0.9642 1.0000 0.8249
+2019-05-01 14:03:15,773 Correction factors: 1.0000 1.0000 1.0000
+2019-05-01 14:03:15,775 Matrix 1:
+2019-05-01 14:03:15,775 [3.171003888844116, -1.6591276396884813, -0.48291224382957365]
+2019-05-01 14:03:15,775 [-0.9340241073078218, 1.8365062381556474, 0.07768190824409542]
+2019-05-01 14:03:15,776 [0.09094775199408453, -0.1582832606529194, 1.2978439061464704]
+2019-05-01 14:03:15,776 Matrix 2:
+2019-05-01 14:03:15,776 [3.1709598315094323, -1.659104588079506, -0.4829055343372189]
+2019-05-01 14:03:15,776 [-0.9340273352437539, 1.8365125850201767, 0.07768217670849688]
+2019-05-01 14:03:15,776 [0.09094889202129203, -0.15828524472860764, 1.2978601745789675]
+2019-05-01 14:03:15,776 Matrix 3:
+2019-05-01 14:03:15,778 [1.999969482421875, 0, 0]
+2019-05-01 14:03:15,778 [0, 1.999969482421875, 0]
+2019-05-01 14:03:15,779 [0, 0, 1.999969482421875]
+2019-05-01 14:03:15,779 Final matrix:
+2019-05-01 14:03:15,779 [6.341822893004475, -3.3181585443051276, -0.9657963315670667]
+2019-05-01 14:03:15,779 [-1.8680261662353337, 3.6729691241240623, 0.15536198274509713]
+2019-05-01 14:03:15,779 [0.1818950085026664, -0.31656565897489325, 2.595680741608662]
+2019-05-01 14:03:15,779 Applying matrix to input curve XYZ values...
+2019-05-01 14:03:15,790 Generating input curves...
+2019-05-01 14:03:20,020 100%
+2019-05-01 14:03:20,022 Generating A2B1 table lookup input values...
+2019-05-01 14:03:20,022 cLUT grid res: 33
+2019-05-01 14:03:20,022 Looking up input values through A2B1 table (6 workers)...
+2019-05-01 14:03:20,023 Using CAM Jab for clipping
+2019-05-01 14:03:24,608 Exiting worker process NonDaemonicPoolWorker-14
+2019-05-01 14:03:25,187 Exiting worker process NonDaemonicPoolWorker-12
+2019-05-01 14:03:25,392 Exiting worker process NonDaemonicPoolWorker-11
+2019-05-01 14:03:25,601 Exiting worker process NonDaemonicPoolWorker-13
+2019-05-01 14:03:29,667 Exiting worker process NonDaemonicPoolWorker-14
+2019-05-01 14:03:30,359 Exiting worker process NonDaemonicPoolWorker-12
+2019-05-01 14:03:30,480 Exiting worker process NonDaemonicPoolWorker-11
+2019-05-01 14:03:30,719 Exiting worker process NonDaemonicPoolWorker-13
+2019-05-01 14:03:33,641 Exiting worker process NonDaemonicPoolWorker-12
+2019-05-01 14:03:34,273 Exiting worker process NonDaemonicPoolWorker-10
+2019-05-01 14:03:34,951 Exiting worker process NonDaemonicPoolWorker-14
+2019-05-01 14:03:35,869 Exiting worker process NonDaemonicPoolWorker-11
+2019-05-01 14:03:36,253 Exiting worker process NonDaemonicPoolWorker-13
+2019-05-01 14:03:37,334 Exiting worker process NonDaemonicPoolWorker-9
+2019-05-01 14:03:37,898 Exiting worker process NonDaemonicPoolWorker-12
+2019-05-01 14:03:38,141 Exiting worker process NonDaemonicPoolWorker-10
+2019-05-01 14:03:38,313 Exiting worker process NonDaemonicPoolWorker-14
+2019-05-01 14:03:40,789 Exiting worker process NonDaemonicPoolWorker-11
+2019-05-01 14:03:40,917 100%
+2019-05-01 14:03:40,917 Input black XYZ: 0.000939 0.001000 0.000818
+2019-05-01 14:03:40,918 Input white XYZ: 0.964200 1.000000 0.824900
+2019-05-01 14:03:40,953 Output black RGB: 0.0000 0.0000 0.0000
+2019-05-01 14:03:40,953 Output white RGB: 99.9998 100.0000 100.0000
+2019-05-01 14:03:40,964 Filling cLUT...
+2019-05-01 14:03:41,065 100%
+2019-05-01 14:03:41,176 Smoothing B2A1...
+2019-05-01 14:03:41,842 Generating B2A0 table by inverting A2B0 table
+2019-05-01 14:03:41,842 
+2019-05-01 14:03:41,842 Using chromatic adaptation transform matrix: Bradford
+2019-05-01 14:03:41,931 Black XYZ: 0.0009 0.0010 0.0008
+2019-05-01 14:03:41,933 White XYZ: 0.9642 1.0000 0.8249
+2019-05-01 14:03:41,933 R XYZ: 0.4253 0.2188 0.0004
+2019-05-01 14:03:41,934 G XYZ: 0.3976 0.7349 0.0683
+2019-05-01 14:03:41,934 B XYZ: 0.1389 0.0424 0.7527
+2019-05-01 14:03:41,934 Generating input curve PCS values...
+2019-05-01 14:03:41,947 Applying BPC to input curve PCS values...
+2019-05-01 14:03:42,005 Looking up input curve RGB values...
+2019-05-01 14:03:42,503 Setting curve entry #0 (0.000000 0.000000 0.000000) to black because it got clipped
+2019-05-01 14:03:42,505 Setting curve entry #4095 (1.000000 0.999996 1.000000) to white because it got clipped
+2019-05-01 14:03:42,506 Applying matrix to input curve XYZ values...
+2019-05-01 14:03:42,516 Generating input curves...
+2019-05-01 14:03:46,694 100%
+2019-05-01 14:03:46,697 --------------------------------------------------------------------------------
+2019-05-01 14:03:46,697 Creating shaper tags in separate step
+2019-05-01 14:03:46,697 Using chromatic adaptation transform matrix: Bradford
+2019-05-01 14:03:46,717 Extracting neutrals from c:\users\tang-\appdata\local\temp\DisplayCAL-b1blfc\U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.ti3
+2019-05-01 14:03:46,726 NUMBER_OF_FIELDS 7
+2019-05-01 14:03:46,726 BEGIN_DATA_FORMAT
+2019-05-01 14:03:46,726 SAMPLE_ID RGB_R RGB_G RGB_B XYZ_X XYZ_Y XYZ_Z
+2019-05-01 14:03:46,726 END_DATA_FORMAT
+2019-05-01 14:03:46,726 
+2019-05-01 14:03:46,726 NUMBER_OF_SETS 52
+2019-05-01 14:03:46,726 BEGIN_DATA
+2019-05-01 14:03:46,726 1 0.0000000 0.0000000 0.0000000 0.0978227 0.0992396 0.1763270
+2019-05-01 14:03:46,727 2 1.9608000 1.9608000 1.9608000 0.1056160 0.1073730 0.1843530
+2019-05-01 14:03:46,727 3 3.9216000 3.9216000 3.9216000 0.1643040 0.1697570 0.2512960
+2019-05-01 14:03:46,727 4 5.8824000 5.8824000 5.8824000 0.2532310 0.2608000 0.3525160
+2019-05-01 14:03:46,727 5 7.8431000 7.8431000 7.8431000 0.4425720 0.4586150 0.5682040
+2019-05-01 14:03:46,727 6 9.8039000 9.8039000 9.8039000 0.6377440 0.6650460 0.7843460
+2019-05-01 14:03:46,727 7 11.765000 11.765000 11.765000 0.9416470 0.9871100 1.1219970
+2019-05-01 14:03:46,727 8 13.726000 13.726000 13.726000 1.3007700 1.3678340 1.5178760
+2019-05-01 14:03:46,727 9 15.686000 15.686000 15.686000 1.6387080 1.7278720 1.8924520
+2019-05-01 14:03:46,727 10 17.647000 17.647000 17.647000 2.1576570 2.2598210 2.5508880
+2019-05-01 14:03:46,727 11 19.608000 19.608000 19.608000 2.7098140 2.8460280 3.1650020
+2019-05-01 14:03:46,727 12 21.569000 21.569000 21.569000 3.3262700 3.4977560 3.8591130
+2019-05-01 14:03:46,727 13 23.529000 23.529000 23.529000 3.9234400 4.1707430 4.5664080
+2019-05-01 14:03:46,727 14 25.490000 25.490000 25.490000 4.6571880 4.9791100 5.2682300
+2019-05-01 14:03:46,727 15 27.451000 27.451000 27.451000 5.4127520 5.7136660 6.1889350
+2019-05-01 14:03:46,727 16 29.412000 29.412000 29.412000 6.2646940 6.6157650 7.1358790
+2019-05-01 14:03:46,727 17 31.373000 31.373000 31.373000 7.1804270 7.6019500 8.1800370
+2019-05-01 14:03:46,727 18 33.333000 33.333000 33.333000 8.2275170 8.6559710 9.4912350
+2019-05-01 14:03:46,729 19 35.294000 35.294000 35.294000 9.2438940 9.7621220 10.675700
+2019-05-01 14:03:46,729 20 37.255000 37.255000 37.255000 10.614680 11.128950 12.277920
+2019-05-01 14:03:46,729 21 39.216000 39.216000 39.216000 11.899970 12.571500 13.652150
+2019-05-01 14:03:46,729 22 41.176000 41.176000 41.176000 13.229580 13.920890 15.271340
+2019-05-01 14:03:46,729 23 43.137000 43.137000 43.137000 14.546720 15.306750 16.749200
+2019-05-01 14:03:46,729 24 45.098000 45.098000 45.098000 16.224870 17.105940 18.687720
+2019-05-01 14:03:46,729 25 47.059000 47.059000 47.059000 17.723500 18.698500 20.400620
+2019-05-01 14:03:46,729 26 49.020000 49.020000 49.020000 19.663990 20.760070 22.662480
+2019-05-01 14:03:46,729 27 50.980000 50.980000 50.980000 21.377780 22.539600 24.640260
+2019-05-01 14:03:46,729 28 52.941000 52.941000 52.941000 23.136970 24.452240 26.715050
+2019-05-01 14:03:46,729 29 54.902000 54.902000 54.902000 25.251530 26.657660 28.788770
+2019-05-01 14:03:46,729 30 56.863000 56.863000 56.863000 27.328720 28.850600 31.238510
+2019-05-01 14:03:46,729 31 58.824000 58.824000 58.824000 29.373710 31.047280 33.877020
+2019-05-01 14:03:46,729 32 60.784000 60.784000 60.784000 31.556410 33.439510 35.861280
+2019-05-01 14:03:46,729 33 62.745000 62.745000 62.745000 33.737310 35.652010 38.589850
+2019-05-01 14:03:46,729 34 64.706000 64.706000 64.706000 36.257610 38.350900 41.512240
+2019-05-01 14:03:46,729 35 66.667000 66.667000 66.667000 38.604480 40.612310 44.049620
+2019-05-01 14:03:46,730 36 68.627000 68.627000 68.627000 41.232230 43.525040 47.538940
+2019-05-01 14:03:46,730 37 70.588000 70.588000 70.588000 43.590250 45.934430 49.799680
+2019-05-01 14:03:46,730 38 72.549000 72.549000 72.549000 46.483400 48.989280 53.191730
+2019-05-01 14:03:46,730 39 74.510000 74.510000 74.510000 49.209590 51.797020 56.156540
+2019-05-01 14:03:46,730 40 76.471000 76.471000 76.471000 51.996290 54.836230 59.600070
+2019-05-01 14:03:46,730 41 78.431000 78.431000 78.431000 54.950800 57.830580 62.894240
+2019-05-01 14:03:46,730 42 80.392000 80.392000 80.392000 58.187650 61.298170 66.665020
+2019-05-01 14:03:46,730 43 82.353000 82.353000 82.353000 61.008490 64.214170 69.491640
+2019-05-01 14:03:46,730 44 84.314000 84.314000 84.314000 64.518750 67.944510 73.638170
+2019-05-01 14:03:46,730 45 86.275000 86.275000 86.275000 68.165710 71.806230 77.972570
+2019-05-01 14:03:46,730 46 88.235000 88.235000 88.235000 71.654650 75.304790 81.830250
+2019-05-01 14:03:46,730 47 90.196000 90.196000 90.196000 75.024620 79.118660 86.171770
+2019-05-01 14:03:46,730 48 92.157000 92.157000 92.157000 79.066380 83.274490 90.691540
+2019-05-01 14:03:46,730 49 94.118000 94.118000 94.118000 82.417280 86.794060 94.366700
+2019-05-01 14:03:46,730 50 96.078000 96.078000 96.078000 86.644170 91.267410 98.891660
+2019-05-01 14:03:46,730 51 98.039000 98.039000 98.039000 90.876940 95.898220 103.79720
+2019-05-01 14:03:46,730 52 100.00000 100.00000 100.00000 94.745510 100.00000 108.13280
+2019-05-01 14:03:46,730 END_DATA
+2019-05-01 14:03:46,733 --------------------------------------------------------------------------------
+2019-05-01 14:03:46,923 Black relative luminance = 0.000982
+2019-05-01 14:03:46,924 Black output offset = 1.00
+2019-05-01 14:03:46,924 Calibration gamma = 2.20 relative
+2019-05-01 14:03:46,924 Calibration overall transfer function ≈ Gamma 2.21 100% (Δ 0.00%)
+2019-05-01 14:03:46,924 Calibration effective gamma = 2.20
+2019-05-01 14:03:46,961 Transfer function R ≈ Gamma 2.22 100% (Δ 1.04%)
+2019-05-01 14:03:46,963 Effective gamma = 2.21
+2019-05-01 14:03:46,963 Got good match (+-2%)
+2019-05-01 14:03:46,963 Using calibration transfer function
+2019-05-01 14:03:47,000 Transfer function G ≈ Gamma 2.22 100% (Δ 1.04%)
+2019-05-01 14:03:47,000 Effective gamma = 2.21
+2019-05-01 14:03:47,000 Got good match (+-2%)
+2019-05-01 14:03:47,000 Using calibration transfer function
+2019-05-01 14:03:47,039 Transfer function B ≈ Gamma 2.22 100% (Δ 1.04%)
+2019-05-01 14:03:47,039 Effective gamma = 2.21
+2019-05-01 14:03:47,039 Got good match (+-2%)
+2019-05-01 14:03:47,039 Using calibration transfer function
+2019-05-01 14:03:47,040 Using transfer function for R: Gamma 2.20
+2019-05-01 14:03:47,040 Effective gamma = 2.19
+2019-05-01 14:03:47,040 Using transfer function for G: Gamma 2.20
+2019-05-01 14:03:47,040 Effective gamma = 2.19
+2019-05-01 14:03:47,042 Using transfer function for B: Gamma 2.20
+2019-05-01 14:03:47,042 Effective gamma = 2.19
+2019-05-01 14:03:47,042 Adding rTRC from interpolation to U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 14:03:47,042 Adding gTRC from interpolation to U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 14:03:47,042 Adding bTRC from interpolation to U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 14:03:47,365 --------------------------------------------------------------------------------
+2019-05-01 14:03:47,365 Session log: U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 14:03:47,367 
+2019-05-01 14:03:47,367 Working directory:
+2019-05-01 14:03:47,367   c:\
+2019-05-01 14:03:47,367    users\
+2019-05-01 14:03:47,368     tang-\
+2019-05-01 14:03:47,368      appdata\
+2019-05-01 14:03:47,368       local\
+2019-05-01 14:03:47,368        temp\
+2019-05-01 14:03:47,368         DisplayCAL-b1blfc\
+2019-05-01 14:03:47,368 
+2019-05-01 14:03:47,368 Command line:
+2019-05-01 14:03:47,368   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\profcheck.exe
+2019-05-01 14:03:47,368     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.ti3"
+2019-05-01 14:03:47,369     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-05-01 14:03:47,369 
+2019-05-01 14:03:47,411 Profile check complete, errors: max. = 1.450857, avg. = 0.191852, RMS = 0.382068
+2019-05-01 14:03:47,413 --------------------------------------------------------------------------------
+2019-05-01 14:03:47,413 Generating gamut views...
+2019-05-01 14:03:48,168 --------------------------------------------------------------------------------
+2019-05-01 14:03:48,170 Session log: U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX
+2019-05-01 14:03:48,170 
+2019-05-01 14:03:48,171 Working directory:
+2019-05-01 14:03:48,171   c:\
+2019-05-01 14:03:48,171    users\
+2019-05-01 14:03:48,171     tang-\
+2019-05-01 14:03:48,173      appdata\
+2019-05-01 14:03:48,173       local\
+2019-05-01 14:03:48,174        temp\
+2019-05-01 14:03:48,174         DisplayCAL-b1blfc\
+2019-05-01 14:03:48,174 
+2019-05-01 14:03:48,174 Command line:
+2019-05-01 14:03:48,176   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\iccgamut.exe
+2019-05-01 14:03:48,177     -v
+2019-05-01 14:03:48,177     -w
+2019-05-01 14:03:48,177     -ir
+2019-05-01 14:03:48,178     -ff
+2019-05-01 14:03:48,178     -on
+2019-05-01 14:03:48,180     -d10.00
+2019-05-01 14:03:48,180     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-05-01 14:03:48,180 
+2019-05-01 14:03:48,680 Header:
+2019-05-01 14:03:48,680   size         = 714084 bytes
+2019-05-01 14:03:48,680   CMM          = 'argl'
+2019-05-01 14:03:48,680   Version      = 2.2.0
+2019-05-01 14:03:48,680   Device Class = Display
+2019-05-01 14:03:48,680   Color Space  = RGB
+2019-05-01 14:03:48,680   Conn. Space  = XYZ
+2019-05-01 14:03:48,680   Date, Time   = 1 May 2019, 14:03:12
+2019-05-01 14:03:48,680   Platform     = Microsoft
+2019-05-01 14:03:48,680   Flags        = Not Embedded Profile, Use anywhere
+2019-05-01 14:03:48,680   Dev. Mnfctr. = 0x0
+2019-05-01 14:03:48,680   Dev. Model   = 0x0
+2019-05-01 14:03:48,680   Dev. Attrbts = Reflective, Glossy, Positive, Color
+2019-05-01 14:03:48,680   Rndrng Intnt = Perceptual
+2019-05-01 14:03:48,680   Illuminant   = 0.96420288, 1.00000000, 0.82490540    [Lab 100.000000, 0.000000, 0.000000]
+2019-05-01 14:03:48,680   Creator      = 'DCAL'
+2019-05-01 14:03:48,680 
+2019-05-01 14:03:48,680 Total volume of gamut is 929370.338099 cubic colorspace units
+2019-05-01 14:03:50,091 --------------------------------------------------------------------------------
+2019-05-01 14:03:50,092 Command line:
+2019-05-01 14:03:50,092   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\viewgam.exe
+2019-05-01 14:03:50,092     -cw
+2019-05-01 14:03:50,092     -t0
+2019-05-01 14:03:50,092     -w
+2019-05-01 14:03:50,092     "C:\Program Files (x86)\DisplayCAL\ref\sRGB.gam"
+2019-05-01 14:03:50,092     -cn
+2019-05-01 14:03:50,094     -t.3
+2019-05-01 14:03:50,094     -s
+2019-05-01 14:03:50,094     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-05-01 14:03:50,094     -i
+2019-05-01 14:03:50,094     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX vs sRGB.wrl"
+2019-05-01 14:03:50,095 
+2019-05-01 14:03:50,095 Intersecting volume = 814261.9 cubic units
+2019-05-01 14:03:50,095 'C:\Program Files (x86)\DisplayCAL\ref\sRGB.gam' volume = 833675.1 cubic units, intersect = 97.67%
+2019-05-01 14:03:50,095 'U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 929370.3 cubic units, intersect = 87.61%
+2019-05-01 14:03:50,319 --------------------------------------------------------------------------------
+2019-05-01 14:03:50,319 Command line:
+2019-05-01 14:03:50,321   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\viewgam.exe
+2019-05-01 14:03:50,322     -cw
+2019-05-01 14:03:50,322     -t0
+2019-05-01 14:03:50,322     -w
+2019-05-01 14:03:50,322     "C:\Program Files (x86)\DisplayCAL\ref\ClayRGB1998.gam"
+2019-05-01 14:03:50,322     -cn
+2019-05-01 14:03:50,322     -t.3
+2019-05-01 14:03:50,322     -s
+2019-05-01 14:03:50,322     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-05-01 14:03:50,323     -i
+2019-05-01 14:03:50,323     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX vs ClayRGB1998.wrl"
+2019-05-01 14:03:50,323 
+2019-05-01 14:03:50,323 Intersecting volume = 863285.9 cubic units
+2019-05-01 14:03:50,323 'C:\Program Files (x86)\DisplayCAL\ref\ClayRGB1998.gam' volume = 1209985.9 cubic units, intersect = 71.35%
+2019-05-01 14:03:50,323 'U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 929370.3 cubic units, intersect = 92.89%
+2019-05-01 14:03:50,325 --------------------------------------------------------------------------------
+2019-05-01 14:03:50,325 Command line:
+2019-05-01 14:03:50,325   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\viewgam.exe
+2019-05-01 14:03:50,325     -cw
+2019-05-01 14:03:50,325     -t0
+2019-05-01 14:03:50,325     -w
+2019-05-01 14:03:50,325     "C:\Program Files (x86)\DisplayCAL\ref\SMPTE431_P3.gam"
+2019-05-01 14:03:50,325     -cn
+2019-05-01 14:03:50,326     -t.3
+2019-05-01 14:03:50,326     -s
+2019-05-01 14:03:50,326     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.gam"
+2019-05-01 14:03:50,326     -i
+2019-05-01 14:03:50,328     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX vs SMPTE431_P3.wrl"
+2019-05-01 14:03:50,328 
+2019-05-01 14:03:50,328 Intersecting volume = 915937.0 cubic units
+2019-05-01 14:03:50,328 'C:\Program Files (x86)\DisplayCAL\ref\SMPTE431_P3.gam' volume = 1176953.5 cubic units, intersect = 77.82%
+2019-05-01 14:03:50,328 'U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.gam' volume = 929370.3 cubic units, intersect = 98.55%
+2019-05-01 14:03:50,490 --------------------------------------------------------------------------------
+2019-05-01 14:03:51,266 Found display device matching model description at index #0
+2019-05-01 14:03:51,917 --------------------------------------------------------------------------------
+2019-05-01 14:03:51,917 Create 3D LUT...
+2019-05-01 14:03:52,084 DisplayCAL: Applying Rec. 709 TRC to Rec709.icm
+2019-05-01 14:03:52,092 Using whitepoint chromaticity 0.3128 0.3292 for input
+2019-05-01 14:03:52,096 --------------------------------------------------------------------------------
+2019-05-01 14:03:52,096 Session log: U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4Gawn65
+2019-05-01 14:03:52,096 
+2019-05-01 14:03:52,098 Working directory:
+2019-05-01 14:03:52,098   c:\
+2019-05-01 14:03:52,098    users\
+2019-05-01 14:03:52,098     tang-\
+2019-05-01 14:03:52,098      appdata\
+2019-05-01 14:03:52,098       local\
+2019-05-01 14:03:52,098        temp\
+2019-05-01 14:03:52,099         DisplayCAL-8k7mq3\
+2019-05-01 14:03:52,099 
+2019-05-01 14:03:52,099 Command line:
+2019-05-01 14:03:52,099   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\collink.exe
+2019-05-01 14:03:52,101     -v
+2019-05-01 14:03:52,101     -qh
+2019-05-01 14:03:52,101     -G
+2019-05-01 14:03:52,102     -iaw
+2019-05-01 14:03:52,102     -r65
+2019-05-01 14:03:52,102     -n
+2019-05-01 14:03:52,104     -3c
+2019-05-01 14:03:52,104     -en
+2019-05-01 14:03:52,104     -En
+2019-05-01 14:03:52,104     -b
+2019-05-01 14:03:52,105     -IB:0.0:2.4
+2019-05-01 14:03:52,105     -a
+2019-05-01 14:03:52,105     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.cal"
+2019-05-01 14:03:52,105     Rec709.icm
+2019-05-01 14:03:52,105     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.icm"
+2019-05-01 14:03:52,105     "U2719D #1 2019-05-01 13-52 D6500 2.2 F-S
+2019-05-01 14:03:52,105       XYZLUT+MTX.Rec709.B0.0,2.4Gawn65.icm"
+2019-05-01 14:03:52,105 
+2019-05-01 14:03:52,553 DisplayCAL: Waiting for EOF
+2019-05-01 14:03:52,556 Got options
+2019-05-01 14:03:52,556 Configured options
+2019-05-01 14:03:52,558 Loading input A2B table
+2019-05-01 14:03:52,558 Loading output inverse A2B table
+2019-05-01 14:03:52,558 Gamut mapping mode is 'Mapping inverse A2B'
+2019-05-01 14:03:52,559 Gamut mapping intent is 'aw - Absolute Colorimetric (in Jab) with scaling to fit white point'
+2019-05-01 14:03:52,559 
+2019-05-01 14:03:52,559 Rev cache RAM = 1610 Mbytes
+2019-05-01 14:03:52,559 
+2019-05-01 14:03:52,559 Looks like an XYZ space
+2019-05-01 14:03:52,559 
+2019-05-01 14:03:52,559 Initializing nnrev arrays...
+2019-05-01 14:03:52,559 
+2019-05-01 14:03:52,559 There is 1 rev cache instance with 1610 Mbytes limit
+2019-05-01 14:04:01,391 
+2019-05-01 14:04:01,391 nnrev initialization done
+2019-05-01 14:04:01,457 
+2019-05-01 14:04:01,457 Initializing nnrev arrays...
+2019-05-01 14:04:01,457 
+2019-05-01 14:04:01,457 There are 2 rev cache instances with 805 Mbytes limit
+2019-05-01 14:04:14,328 
+2019-05-01 14:04:14,328 nnrev initialization done
+2019-05-01 14:04:14,334 Set XYZ scale factor to 0.993494
+2019-05-01 14:04:14,348 Output black PCS = 8.329257 -0.625769 -0.277996
+2019-05-01 14:04:14,349 Output black PCS pre lumscale = 8.332340 -0.628319 -0.282832
+2019-05-01 14:04:14,349 Gamma curve target out black rel XYZ = 0.000950 0.001014 0.000825, Lab 0.915704 -0.112001 0.021923
+2019-05-01 14:04:14,354 Proportion of black output offset = 0.000000 (BT.1886)
+2019-05-01 14:04:14,355 Gamma Y input offset = 0.059945
+2019-05-01 14:04:14,355 Gamma Y power = 2.400000
+2019-05-01 14:04:14,355 Gamma Y output scale = 0.869601
+2019-05-01 14:04:14,355 Gamma Y output offset = 0.000000
+2019-05-01 14:04:14,355 bt1886 check input black point rel. XYZ 0.000950 0.001014 0.000825
+2019-05-01 14:04:14,355 BT.1886 overall rendering
+2019-05-01 14:04:14,355  In   0.0% -> XYZ in 0.000000 -> bt.1886 0.001014, log/log 0.000, Lab 0.915704 -0.112001 0.021923
+2019-05-01 14:04:14,357  In   5.0% -> XYZ in 0.050000 -> bt.1886 0.004347, log/log 1.815, Lab 3.926180 -0.032601 0.006381
+2019-05-01 14:04:14,357  In  10.0% -> XYZ in 0.100000 -> bt.1886 0.010687, log/log 1.971, Lab 9.550982 -0.002919 0.000571
+2019-05-01 14:04:14,357  In  15.0% -> XYZ in 0.150000 -> bt.1886 0.020529, log/log 2.048, Lab 15.762565 -0.000170 0.000033
+2019-05-01 14:04:14,357  In  20.0% -> XYZ in 0.200000 -> bt.1886 0.034280, log/log 2.096, Lab 21.682209 -0.000009 0.000002
+2019-05-01 14:04:14,358  In  25.0% -> XYZ in 0.250000 -> bt.1886 0.052288, log/log 2.129, Lab 27.376941 -0.000000 0.000000
+2019-05-01 14:04:14,358  In  30.0% -> XYZ in 0.300000 -> bt.1886 0.074866, log/log 2.153, Lab 32.890013 -0.000000 0.000000
+2019-05-01 14:04:14,358  In  35.0% -> XYZ in 0.350000 -> bt.1886 0.102297, log/log 2.172, Lab 38.251497 -0.000000 0.000000
+2019-05-01 14:04:14,358  In  40.0% -> XYZ in 0.400000 -> bt.1886 0.134839, log/log 2.187, Lab 43.483428 -0.000000 0.000000
+2019-05-01 14:04:14,358  In  45.0% -> XYZ in 0.450000 -> bt.1886 0.172733, log/log 2.199, Lab 48.602592 -0.000000 0.000000
+2019-05-01 14:04:14,361  In  50.0% -> XYZ in 0.500000 -> bt.1886 0.216207, log/log 2.210, Lab 53.622174 0.000000 0.000000
+2019-05-01 14:04:14,362  In  55.0% -> XYZ in 0.550000 -> bt.1886 0.265471, log/log 2.218, Lab 58.552778 0.000000 0.000000
+2019-05-01 14:04:14,362  In  60.0% -> XYZ in 0.600000 -> bt.1886 0.320729, log/log 2.226, Lab 63.403106 0.000000 0.000000
+2019-05-01 14:04:14,362  In  65.0% -> XYZ in 0.650000 -> bt.1886 0.382172, log/log 2.233, Lab 68.180416 0.000000 -0.000000
+2019-05-01 14:04:14,362  In  70.0% -> XYZ in 0.700000 -> bt.1886 0.449984, log/log 2.239, Lab 72.890845 0.000000 0.000000
+2019-05-01 14:04:14,364  In  75.0% -> XYZ in 0.750000 -> bt.1886 0.524340, log/log 2.244, Lab 77.539648 0.000000 0.000000
+2019-05-01 14:04:14,364  In  80.0% -> XYZ in 0.800000 -> bt.1886 0.605410, log/log 2.249, Lab 82.131368 0.000000 0.000000
+2019-05-01 14:04:14,364  In  85.0% -> XYZ in 0.850000 -> bt.1886 0.693356, log/log 2.253, Lab 86.669969 0.000000 0.000000
+2019-05-01 14:04:14,365  In  90.0% -> XYZ in 0.900000 -> bt.1886 0.788336, log/log 2.257, Lab 91.158938 0.000000 0.000000
+2019-05-01 14:04:14,365  In  95.0% -> XYZ in 0.950000 -> bt.1886 0.890501, log/log 2.261, Lab 95.601364 -0.000000 0.000000
+2019-05-01 14:04:14,365  In 100.0% -> XYZ in 1.000000 -> bt.1886 1.000000, log/log 0.000, Lab 100.000000 0.000000 -0.000000
+2019-05-01 14:04:14,365 Creating link profile
+2019-05-01 14:04:14,365 Filling in Lut table
+2019-05-01 14:04:14,365  0%
+2019-05-01 14:04:14,503  0%
+2019-05-01 14:04:14,742  1%
+2019-05-01 14:04:14,974  2%
+2019-05-01 14:04:15,223  3%
+2019-05-01 14:04:15,464  4%
+2019-05-01 14:04:15,779  5%
+2019-05-01 14:04:16,328  6%
+2019-05-01 14:04:16,596  7%
+2019-05-01 14:04:16,822  8%
+2019-05-01 14:04:17,059  9%
+2019-05-01 14:04:17,286 10%
+2019-05-01 14:04:17,520 11%
+2019-05-01 14:04:17,730 12%
+2019-05-01 14:04:17,950 13%
+2019-05-01 14:04:18,171 14%
+2019-05-01 14:04:18,381 15%
+2019-05-01 14:04:18,595 16%
+2019-05-01 14:04:18,934 17%
+2019-05-01 14:04:19,280 18%
+2019-05-01 14:04:19,476 19%
+2019-05-01 14:04:19,673 20%
+2019-05-01 14:04:19,869 21%
+2019-05-01 14:04:20,078 22%
+2019-05-01 14:04:20,286 23%
+2019-05-01 14:04:20,846 24%
+2019-05-01 14:04:21,134 25%
+2019-05-01 14:04:21,329 26%
+2019-05-01 14:04:21,539 27%
+2019-05-01 14:04:21,752 28%
+2019-05-01 14:04:22,121 29%
+2019-05-01 14:04:22,674 30%
+2019-05-01 14:04:22,934 31%
+2019-05-01 14:04:23,165 32%
+2019-05-01 14:04:23,387 33%
+2019-05-01 14:04:23,612 34%
+2019-05-01 14:04:24,010 35%
+2019-05-01 14:04:24,765 36%
+2019-05-01 14:04:25,016 37%
+2019-05-01 14:04:25,226 38%
+2019-05-01 14:04:25,438 39%
+2019-05-01 14:04:25,658 40%
+2019-05-01 14:04:26,098 41%
+2019-05-01 14:04:26,811 42%
+2019-05-01 14:04:27,055 43%
+2019-05-01 14:04:27,296 44%
+2019-05-01 14:04:27,516 45%
+2019-05-01 14:04:27,769 46%
+2019-05-01 14:04:28,326 47%
+2019-05-01 14:04:28,674 48%
+2019-05-01 14:04:28,927 49%
+2019-05-01 14:04:29,155 50%
+2019-05-01 14:04:29,404 51%
+2019-05-01 14:04:29,634 52%
+2019-05-01 14:04:29,855 53%
+2019-05-01 14:04:30,056 54%
+2019-05-01 14:04:30,276 55%
+2019-05-01 14:04:30,512 56%
+2019-05-01 14:04:30,729 57%
+2019-05-01 14:04:30,930 58%
+2019-05-01 14:04:31,115 59%
+2019-05-01 14:04:31,315 60%
+2019-05-01 14:04:31,530 61%
+2019-05-01 14:04:31,765 62%
+2019-05-01 14:04:32,006 63%
+2019-05-01 14:04:32,247 64%
+2019-05-01 14:04:32,470 65%
+2019-05-01 14:04:32,674 66%
+2019-05-01 14:04:32,898 67%
+2019-05-01 14:04:33,134 68%
+2019-05-01 14:04:33,349 69%
+2019-05-01 14:04:33,555 70%
+2019-05-01 14:04:33,746 71%
+2019-05-01 14:04:33,930 72%
+2019-05-01 14:04:34,138 73%
+2019-05-01 14:04:34,364 74%
+2019-05-01 14:04:34,582 75%
+2019-05-01 14:04:34,790 76%
+2019-05-01 14:04:34,973 77%
+2019-05-01 14:04:35,174 78%
+2019-05-01 14:04:35,391 79%
+2019-05-01 14:04:35,628 80%
+2019-05-01 14:04:35,867 81%
+2019-05-01 14:04:36,088 82%
+2019-05-01 14:04:36,290 83%
+2019-05-01 14:04:36,479 84%
+2019-05-01 14:04:36,688 85%
+2019-05-01 14:04:36,920 86%
+2019-05-01 14:04:37,151 87%
+2019-05-01 14:04:37,361 88%
+2019-05-01 14:04:37,548 89%
+2019-05-01 14:04:37,740 90%
+2019-05-01 14:04:37,957 91%
+2019-05-01 14:04:38,194 92%
+2019-05-01 14:04:38,433 93%
+2019-05-01 14:04:38,709 94%
+2019-05-01 14:04:39,058 95%
+2019-05-01 14:04:39,862 96%
+2019-05-01 14:04:40,250 97%
+2019-05-01 14:04:40,710 98%
+2019-05-01 14:04:40,953 99%
+2019-05-01 14:04:41,099 100%
+2019-05-01 14:04:41,101 Writing ICC file 'U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4Gawn65.icm'
+2019-05-01 14:04:41,109 Writing .cube 3dLut 'U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.Rec709.B0.0,2.4Gawn65.cube'
+2019-05-01 14:04:41,585 
+2019-05-01 14:04:41,585 There is 1 rev cache instance with 1610 Mbytes limit
+2019-05-01 14:04:41,747 DisplayCAL: Reached EOF (OK)
+2019-05-01 14:04:41,750 Finished creating 3D LUT in 49.6549999714 seconds
+2019-05-01 14:04:47,719 Loading calibration curves from file...
+2019-05-01 14:04:47,719 C:\Users\tang-\AppData\Roaming\DisplayCAL\storage\U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX\U2719D #1 2019-05-01 13-52 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-05-01 14:04:47,816 About to open dispwin object on the display
+2019-05-01 14:04:47,816 About to clear the calibration
+2019-05-01 14:04:47,816 About to set display to given calibration
+2019-05-01 14:04:47,816 Calibration set
+2019-05-01 14:04:47,816 About to destroy dispwin object
+2019-05-01 14:04:47,819 ...ok.
+2019-05-01 14:05:12,625 Loading calibration curves of current display device profile...
+2019-05-01 14:05:12,625 C:\WINDOWS\system32\spool\drivers\color\U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX.icm
+2019-05-01 14:05:12,739 About to open dispwin object on the display
+2019-05-01 14:05:12,739 About to clear the calibration
+2019-05-01 14:05:12,739 About to set display to given calibration
+2019-05-01 14:05:12,739 Calibration set
+2019-05-01 14:05:12,739 About to destroy dispwin object
+2019-05-01 14:05:12,740 ...ok.
+2019-05-01 14:06:25,355 Executing BaseApp.OnExit()
+2019-05-01 14:06:25,355 Running application exit handlers
+2019-05-01 14:06:25,355 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-05-01 14:06:25,503 ScriptingHost.ConnectionHandler exited
+2019-05-01 14:06:25,506 Exiting DisplayCAL
+2019-05-01 14:06:25,730 Ran application exit handlers
+2019-05-01 18:30:03,882 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 18:30:04,502 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 18:30:05,134 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 18:30:09,638 Exiting worker process NonDaemonicPoolWorker-4
+2019-05-01 18:30:10,717 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 18:30:11,802 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 18:30:12,585 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 18:30:16,279 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 18:30:17,160 Exiting worker process NonDaemonicPoolWorker-4
+2019-05-01 18:30:17,608 Exiting worker process NonDaemonicPoolWorker-3
+2019-05-01 18:30:18,198 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 18:30:19,726 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 18:30:20,020 Exiting worker process NonDaemonicPoolWorker-2
+2019-05-01 18:30:23,052 Exiting worker process NonDaemonicPoolWorker-5
+2019-05-01 18:30:23,743 Exiting worker process NonDaemonicPoolWorker-7
+2019-05-01 18:30:23,839 Exiting worker process NonDaemonicPoolWorker-4
+2019-05-01 18:30:23,881 Exiting worker process NonDaemonicPoolWorker-3
+2019-05-01 18:30:27,572 Exiting worker process NonDaemonicPoolWorker-6
+2019-05-01 18:31:07,676 Max iterations 25 dI avg 0.0061 max 0.0120 dC avg 0.0388 max 0.0679
+2019-05-01 18:31:07,677 Exiting worker process NonDaemonicPoolWorker-9
+2019-05-01 18:31:07,834 Max iterations 26 dI avg 0.0062 max 0.0122 dC avg 0.0402 max 0.0707
+2019-05-01 18:31:07,834 Exiting worker process NonDaemonicPoolWorker-10
+2019-05-01 18:31:07,980 Max iterations 27 dI avg 0.0064 max 0.0125 dC avg 0.0416 max 0.0724
+2019-05-01 18:31:07,980 Exiting worker process NonDaemonicPoolWorker-11
+2019-05-01 18:31:08,164 Max iterations 28 dI avg 0.0067 max 0.0126 dC avg 0.0436 max 0.0750
+2019-05-01 18:31:08,165 Exiting worker process NonDaemonicPoolWorker-12
+2019-05-01 18:31:08,326 Max iterations 29 dI avg 0.0070 max 0.0130 dC avg 0.0449 max 0.0783
+2019-05-01 18:31:08,328 Exiting worker process NonDaemonicPoolWorker-13
+2019-05-01 18:31:08,494 Max iterations 30 dI avg 0.0072 max 0.0135 dC avg 0.0460 max 0.0807
+2019-05-01 18:31:08,494 Exiting worker process NonDaemonicPoolWorker-14
+2019-05-01 18:31:08,706 Max iterations 31 dI avg 0.0073 max 0.0137 dC avg 0.0473 max 0.0846
+2019-05-01 18:31:08,706 Exiting worker process NonDaemonicPoolWorker-15
+2019-05-01 18:31:08,750 Max iterations 32 dI avg 0.0075 max 0.0141 dC avg 0.0495 max 0.0868
+2019-05-01 18:31:08,752 Exiting worker process NonDaemonicPoolWorker-9
+2019-05-01 18:31:08,778 Max iterations 34 dI avg 0.0076 max 0.0147 dC avg 0.0513 max 0.0886
+2019-05-01 18:31:08,779 Exiting worker process NonDaemonicPoolWorker-10
+2019-05-01 18:31:08,874 Max iterations 36 dI avg 0.0076 max 0.0151 dC avg 0.0535 max 0.0908
+2019-05-01 18:31:08,875 Exiting worker process NonDaemonicPoolWorker-11
+2019-05-01 18:31:08,937 Max iterations 39 dI avg 0.0077 max 0.0156 dC avg 0.0560 max 0.0946
+2019-05-01 18:31:08,938 Exiting worker process NonDaemonicPoolWorker-12
+2019-05-01 18:31:09,130 Max iterations 42 dI avg 0.0078 max 0.0151 dC avg 0.0590 max 0.0985
+2019-05-01 18:31:09,130 Exiting worker process NonDaemonicPoolWorker-13
+2019-05-01 18:31:09,338 Max iterations 45 dI avg 0.0079 max 0.0158 dC avg 0.0623 max 0.1034
+2019-05-01 18:31:09,338 Exiting worker process NonDaemonicPoolWorker-14
+2019-05-01 18:31:09,625 Max iterations 49 dI avg 0.0081 max 0.0159 dC avg 0.0656 max 0.1104
+2019-05-01 18:31:09,625 Exiting worker process NonDaemonicPoolWorker-15
+2019-05-01 18:31:09,698 Max iterations 54 dI avg 0.0081 max 0.0159 dC avg 0.0685 max 0.1166
+2019-05-01 18:31:09,700 Exiting worker process NonDaemonicPoolWorker-9
+2019-05-01 18:31:09,834 Max iterations 60 dI avg 0.0082 max 0.0157 dC avg 0.0712 max 0.1239
+2019-05-01 18:31:09,834 Exiting worker process NonDaemonicPoolWorker-10
+2019-05-01 18:31:10,032 Max iterations 67 dI avg 0.0082 max 0.0153 dC avg 0.0736 max 0.1336
+2019-05-01 18:31:10,033 Exiting worker process NonDaemonicPoolWorker-11
+2019-05-01 18:31:10,180 Max iterations 75 dI avg 0.0080 max 0.0149 dC avg 0.0744 max 0.1398
+2019-05-01 18:31:10,180 Exiting worker process NonDaemonicPoolWorker-12
+2019-05-01 18:31:10,459 Max iterations 84 dI avg 0.0079 max 0.0142 dC avg 0.0750 max 0.1429
+2019-05-01 18:31:10,460 Exiting worker process NonDaemonicPoolWorker-13
+2019-05-01 18:31:10,730 Max iterations 93 dI avg 0.0075 max 0.0137 dC avg 0.0749 max 0.1425
+2019-05-01 18:31:10,730 Exiting worker process NonDaemonicPoolWorker-14
+2019-05-01 18:31:11,055 Max iterations 103 dI avg 0.0072 max 0.0129 dC avg 0.0745 max 0.1378
+2019-05-01 18:31:11,055 Exiting worker process NonDaemonicPoolWorker-15
+2019-05-01 18:31:11,180 Max iterations 114 dI avg 0.0069 max 0.0120 dC avg 0.0732 max 0.1326
+2019-05-01 18:31:11,181 Exiting worker process NonDaemonicPoolWorker-9
+2019-05-01 18:31:11,259 Max iterations 124 dI avg 0.0065 max 0.0111 dC avg 0.0731 max 0.1273
+2019-05-01 18:31:11,260 Exiting worker process NonDaemonicPoolWorker-10
+2019-05-01 18:31:11,503 Max iterations 125 dI avg 0.0058 max 0.0102 dC avg 0.0704 max 0.1211
+2019-05-01 18:31:11,503 Exiting worker process NonDaemonicPoolWorker-11
+2019-05-01 18:31:11,706 Max iterations 136 dI avg 0.0050 max 0.0093 dC avg 0.0678 max 0.1161
+2019-05-01 18:31:11,706 Exiting worker process NonDaemonicPoolWorker-12
+2019-05-01 18:31:12,052 Max iterations 147 dI avg 0.0044 max 0.0083 dC avg 0.0659 max 0.1154
+2019-05-01 18:31:12,053 Exiting worker process NonDaemonicPoolWorker-13
+2019-05-01 18:31:12,275 Max iterations 158 dI avg 0.0038 max 0.0074 dC avg 0.0618 max 0.1093
+2019-05-01 18:31:12,275 Exiting worker process NonDaemonicPoolWorker-14
+2019-05-01 18:31:12,628 Max iterations 169 dI avg 0.0028 max 0.0068 dC avg 0.0524 max 0.1035
+2019-05-01 18:31:12,628 Exiting worker process NonDaemonicPoolWorker-15
+2019-05-01 18:31:12,789 Max iterations 180 dI avg 0.0021 max 0.0064 dC avg 0.0490 max 0.0969
+2019-05-01 18:31:12,789 Exiting worker process NonDaemonicPoolWorker-9
+2019-05-01 18:31:12,884 Max iterations 192 dI avg 0.0017 max 0.0057 dC avg 0.0478 max 0.0895
+2019-05-01 18:31:12,884 Exiting worker process NonDaemonicPoolWorker-10
+2019-05-01 18:31:13,223 Max iterations 204 dI avg 0.0013 max 0.0047 dC avg 0.0463 max 0.0806
+2019-05-01 18:31:13,224 Exiting worker process NonDaemonicPoolWorker-11
+2019-05-01 18:31:13,450 Max iterations 222 dI avg 0.0011 max 0.0036 dC avg 0.0437 max 0.0705
+2019-05-01 18:31:13,451 Exiting worker process NonDaemonicPoolWorker-12
+2019-05-01 18:31:13,855 Max iterations 251 dI avg 0.0008 max 0.0026 dC avg 0.0398 max 0.0658
+2019-05-01 18:31:13,855 Exiting worker process NonDaemonicPoolWorker-13
+2019-05-01 18:31:13,983 Max iterations 263 dI avg 0.0007 max 0.0017 dC avg 0.0342 max 0.0566
+2019-05-01 18:31:13,984 Exiting worker process NonDaemonicPoolWorker-14
+2019-05-01 18:31:14,217 Max iterations 200 dI avg 0.0005 max 0.0012 dC avg 0.0280 max 0.0456
+2019-05-01 18:31:14,217 Exiting worker process NonDaemonicPoolWorker-15
+2019-05-01 18:31:39,377 Exiting worker process NonDaemonicPoolWorker-22
+2019-05-01 18:31:40,165 Exiting worker process NonDaemonicPoolWorker-20
+2019-05-01 18:31:40,904 Exiting worker process NonDaemonicPoolWorker-19
+2019-05-01 18:31:41,030 Exiting worker process NonDaemonicPoolWorker-21
+2019-05-01 18:31:42,134 Exiting worker process NonDaemonicPoolWorker-18
+2019-05-01 18:31:43,934 Exiting worker process NonDaemonicPoolWorker-17
+2019-05-01 18:31:52,831 Exiting worker process NonDaemonicPoolWorker-18
+2019-05-01 18:31:55,996 Exiting worker process NonDaemonicPoolWorker-21
+2019-05-01 18:31:56,029 Exiting worker process NonDaemonicPoolWorker-19
+2019-05-01 18:31:56,344 Exiting worker process NonDaemonicPoolWorker-17
+2019-05-01 18:31:56,479 Exiting worker process NonDaemonicPoolWorker-20
+2019-05-01 18:31:58,377 Exiting worker process NonDaemonicPoolWorker-22
+2019-05-01 18:32:06,644 Exiting worker process NonDaemonicPoolWorker-18
+2019-05-01 18:32:11,246 Exiting worker process NonDaemonicPoolWorker-21
+2019-05-01 18:32:11,299 Exiting worker process NonDaemonicPoolWorker-19
+2019-05-01 18:32:11,779 Exiting worker process NonDaemonicPoolWorker-17
+2019-05-01 18:32:12,240 Exiting worker process NonDaemonicPoolWorker-20
+2019-05-01 18:32:14,338 Exiting worker process NonDaemonicPoolWorker-22
+2019-05-01 18:32:30,365 Exiting worker process NonDaemonicPoolWorker-24
+2019-05-01 18:32:30,490 Exiting worker process NonDaemonicPoolWorker-25
+2019-05-01 18:32:30,661 Exiting worker process NonDaemonicPoolWorker-26
+2019-05-01 18:32:30,823 Exiting worker process NonDaemonicPoolWorker-27
+2019-05-01 18:32:30,997 Exiting worker process NonDaemonicPoolWorker-28
+2019-05-01 18:32:31,186 Exiting worker process NonDaemonicPoolWorker-29
+2019-05-01 18:32:31,312 Exiting worker process NonDaemonicPoolWorker-30
+2019-05-01 18:32:31,506 Exiting worker process NonDaemonicPoolWorker-31
+2019-05-01 18:32:49,723 Exiting worker process NonDaemonicPoolWorker-33
+2019-05-01 18:32:49,851 Exiting worker process NonDaemonicPoolWorker-34

@@ -1,0 +1,86 @@
+2019-05-01 14:09:15,802 --------------------------------------------------------------------------------
+2019-05-01 14:09:16,450 Connected to madVR version 0.92.17.0 (F:\MPC\Essentials\madVR\madHcNet32.dll)
+2019-05-01 14:09:16,562 Output levels: 0-255
+2019-05-01 14:09:16,565 Pattern area: 100%
+2019-05-01 14:09:16,565 Background level: 30%
+2019-05-01 14:09:16,565 Background mode: APL linear
+2019-05-01 14:09:16,565 Border width: 20 pixels
+2019-05-01 14:09:16,565 
+2019-05-01 14:09:16,566 Working directory:
+2019-05-01 14:09:16,566   c:\
+2019-05-01 14:09:16,566    users\
+2019-05-01 14:09:16,568     tang-\
+2019-05-01 14:09:16,568      appdata\
+2019-05-01 14:09:16,568       local\
+2019-05-01 14:09:16,569        temp\
+2019-05-01 14:09:16,569         DisplayCAL-ugdurr\
+2019-05-01 14:09:16,569 
+2019-05-01 14:09:16,569 Command line:
+2019-05-01 14:09:16,569   C:\Users\tang-\AppData\Roaming\DisplayCAL\dl\Argyll_V2.1.0_mod\bin\dispcal.exe
+2019-05-01 14:09:16,569     "-P0.5,0.5,10.000000"
+2019-05-01 14:09:16,571     -v2
+2019-05-01 14:09:16,571     -dmadvr
+2019-05-01 14:09:16,571     -c1
+2019-05-01 14:09:16,572     -yn
+2019-05-01 14:09:16,572     -Ibw
+2019-05-01 14:09:16,572     "-w0.3127,0.329"
+2019-05-01 14:09:16,572     -b
+2019-05-01 14:09:16,572     "madVR 2019-05-01 14-08 0.3127x 0.329y S XYZLUT+MTX"
+2019-05-01 14:09:16,572 
+2019-05-01 14:09:17,065 DisplayCAL: Starting interaction with subprocess
+2019-05-01 14:09:17,066 Setting up the instrument
+2019-05-01 14:09:18,075 Product Name:      i1Display3
+2019-05-01 14:09:18,075 Serial Number:     I1-17.B-02.285149.10
+2019-05-01 14:09:18,075 Firmware Version:  v2.28
+2019-05-01 14:09:18,075 Firmware Date:     29Jan14
+2019-05-01 14:09:18,183 Created MadVR window
+2019-05-01 14:09:19,039 Place instrument on test window.
+2019-05-01 14:09:19,039 DisplayCAL: Waiting for send buffer
+2019-05-01 14:09:20,539 DisplayCAL: Skipping place instrument on screen message...
+2019-05-01 14:09:20,553 DisplayCAL: Sending buffer: ' '
+2019-05-01 14:09:20,565 Hit Esc or Q to give up, any other key to continue:
+2019-05-01 14:09:20,565 Display type is 'n'
+2019-05-01 14:09:20,568 Target white = xy 0.312700 0.329000
+2019-05-01 14:09:20,569 Target white brightness = native brightness
+2019-05-01 14:09:20,588 Target black brightness = native brightness
+2019-05-01 14:09:20,591 Black point device hack is enabled
+2019-05-01 14:09:20,594 Target advertised gamma = 2.400000
+2019-05-01 14:09:20,595 
+2019-05-01 14:09:20,598 Display adjustment menu:
+2019-05-01 14:09:20,598 Press 1 .. 7
+2019-05-01 14:09:20,601 1) Black level (CRT: Offset/Brightness)
+2019-05-01 14:09:20,601 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-05-01 14:09:20,602 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-05-01 14:09:20,604 4) Black point (R,G,B, Offset/Brightness)
+2019-05-01 14:09:20,605 5) Check all
+2019-05-01 14:09:20,605 6) Measure and set ambient for viewing condition adjustment
+2019-05-01 14:09:20,607 7) Continue on to calibration
+2019-05-01 14:09:20,608 8) Exit
+2019-05-01 14:09:20,612 DisplayCAL: Waiting for send buffer
+2019-05-01 14:10:14,802 DisplayCAL: Sending buffer: '2'
+2019-05-01 14:10:14,803 Doing some initial measurements
+2019-05-01 14:10:17,993 Measured display update delay of 0 msec, using delay of 100 msec & 0 msec inst reaction
+2019-05-01 14:10:23,230 Red   = XYZ 81.377 42.402  0.257
+2019-05-01 14:10:23,233 Green = XYZ 80.262 160.953 17.697
+2019-05-01 14:10:23,233 Blue  = XYZ 39.429 11.955 220.320
+2019-05-01 14:10:24,403 White = XYZ 201.975 215.939 239.804
+2019-05-01 14:10:24,403 
+2019-05-01 14:10:24,404 Adjust R,G & B gain to get target x,y. Press space when done.
+2019-05-01 14:10:24,404    Target Br 215.94, x 0.3127 , y 0.3290
+2019-05-01 14:10:29,670 DisplayCAL: Sending buffer: ' '
+2019-05-01 14:10:30,382 \ Current Br 215.94, x 0.3071+, y 0.3283+  DE  3.8  R++ G-  B+
+2019-05-01 14:10:30,391 
+2019-05-01 14:10:30,394 Press 1 .. 7
+2019-05-01 14:10:30,394 1) Black level (CRT: Offset/Brightness)
+2019-05-01 14:10:30,394 2) White point (Color temperature, R,G,B, Gain/Contrast)
+2019-05-01 14:10:30,397 3) White level (CRT: Gain/Contrast, LCD: Brightness/Backlight)
+2019-05-01 14:10:30,398 4) Black point (R,G,B, Offset/Brightness)
+2019-05-01 14:10:30,398 5) Check all
+2019-05-01 14:10:30,400 6) Measure and set ambient for viewing condition adjustment
+2019-05-01 14:10:30,401 7) Continue on to calibration
+2019-05-01 14:10:30,403 8) Exit
+2019-05-01 14:10:30,410 DisplayCAL: Waiting for send buffer
+2019-05-01 14:10:32,023 DisplayCAL: Sending buffer: '8'
+2019-05-01 14:10:32,025 Exiting
+2019-05-01 14:10:32,026 The instrument can be removed from the screen.
+2019-05-01 14:10:32,177 DisplayCAL: Reached EOF (OK)

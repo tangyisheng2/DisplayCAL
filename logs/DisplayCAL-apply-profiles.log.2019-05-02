@@ -1,0 +1,108 @@
+2019-05-02 00:41:19,019 Detected madVR. Calibration loading disabled.
+2019-05-02 00:43:45,236 No longer detecting madVR. Calibration loading enabled.
+2019-05-02 00:46:32,028 Detected madVR. Calibration loading disabled.
+2019-05-02 00:47:35,502 No longer detecting madVR. Calibration loading enabled.
+2019-05-02 00:47:54,081 TaskBarIcon.on_left_down: Waiting to acquire lock...
+2019-05-02 00:47:54,095 TaskBarIcon.on_left_down: Acquired lock
+2019-05-02 00:47:54,095 TaskBarIcon.on_left_down: Releasing lock
+2019-05-02 00:48:03,601 TaskBarIcon.on_left_down: Waiting to acquire lock...
+2019-05-02 00:48:03,622 TaskBarIcon.on_left_down: Acquired lock
+2019-05-02 00:48:03,624 TaskBarIcon.on_left_down: Releasing lock
+2019-05-02 00:48:03,770 Loading calibration curves of current display device profile...
+2019-05-02 00:48:03,770 1. DELL U2719D @ 0, 0, 2560x1440 (Primary): U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-02 00:48:03,805 ...ok.
+2019-05-02 00:48:05,013 Loading calibration curves of current display device profile...
+2019-05-02 00:48:05,013 1. DELL U2719D @ 0, 0, 2560x1440 (Primary): U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-02 00:48:05,039 ...ok.
+2019-05-02 00:48:11,285 Detected DisplayCAL. Calibration loading disabled.
+2019-05-02 00:57:30,161 Scripting client 127.0.0.1:62543 connected
+2019-05-02 00:57:30,165 Received scripting request from 127.0.0.1:62543: getappname
+2019-05-02 00:57:30,168 Received scripting request from 127.0.0.1:62543: getcfg profile.load_on_login
+2019-05-02 00:57:30,170 Scripting client 127.0.0.1:62543 disconnected
+2019-05-02 00:57:37,549 Scripting client 127.0.0.1:62571 connected
+2019-05-02 00:57:37,549 Received scripting request from 127.0.0.1:62571: getappname
+2019-05-02 00:57:37,549 Received scripting request from 127.0.0.1:62571: getcfg profile.load_on_login
+2019-05-02 00:57:37,549 Scripting client 127.0.0.1:62571 disconnected
+2019-05-02 00:57:46,357 Scripting client 127.0.0.1:62602 connected
+2019-05-02 00:57:46,357 Received scripting request from 127.0.0.1:62602: getappname
+2019-05-02 00:57:46,358 Received scripting request from 127.0.0.1:62602: getcfg profile.load_on_login
+2019-05-02 00:57:46,358 Scripting client 127.0.0.1:62602 disconnected
+2019-05-02 01:56:27,482 Received query to end session
+2019-05-02 01:56:27,490 Can veto
+2019-05-02 01:56:27,494 Trying to close main top-level application window...
+2019-05-02 01:56:27,496 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x056F4D50>)
+2019-05-02 01:56:28,920 Main top-level application window processed close event
+2019-05-02 01:56:28,921 Executing BaseApp.OnExit()
+2019-05-02 01:56:28,921 Running application exit handlers
+2019-05-02 01:56:28,923 Shutting down profile loader
+2019-05-02 01:56:28,963 Waiting for thread DisplayConfigurationMonitoring to exit
+2019-05-02 01:56:28,967 Display configuration monitoring thread finished
+2019-05-02 01:56:28,971 DisplayConfigurationMonitoring exited
+2019-05-02 01:56:28,973 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-05-02 01:56:29,109 ScriptingHost.ConnectionHandler exited
+2019-05-02 01:56:29,115 Exiting DisplayCAL-apply-profiles
+2019-05-02 01:56:29,128 Ran application exit handlers
+2019-05-02 10:19:10,035 ================================================================================
+2019-05-02 10:19:10,035 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-05-02 10:19:10,283 Windows 10 Pro for Workstations Version 1903 Build 18362.86 x86_64
+2019-05-02 10:19:10,299 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-05-02 10:19:10,299 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-02 10:19:10,956 Faulthandler 3.0
+2019-05-02 10:19:18,530 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-05-02 10:19:18,535 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-05-02 10:19:18,559 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-05-02 10:19:18,559 Encoding: cp936
+2019-05-02 10:19:18,559 File system encoding: mbcs
+2019-05-02 10:19:18,622 Installing SIGINT handler
+2019-05-02 10:19:18,691 Setting up scripting host at 127.0.0.1:15411
+2019-05-02 10:19:18,709 --------------------------------------------------------------------------------
+2019-05-02 10:19:18,721 Enumerating display adapters and devices:
+2019-05-02 10:19:18,733 
+2019-05-02 10:19:18,855 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-02 10:19:18,914 NVIDIA GeForce GTX 1070
+2019-05-02 10:19:18,914   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-02 10:19:18,983 Caching gamma ramps for profile U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-02 10:19:19,000 Loading calibration curves of current display device profile...
+2019-05-02 10:19:19,013 1. DELL U2719D @ 0, 0, 2560x1440 (Primary): U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-02 10:19:19,045 ...ok.
+2019-05-02 10:30:04,878 TaskBarIcon.on_left_down: Waiting to acquire lock...
+2019-05-02 10:30:04,898 TaskBarIcon.on_left_down: Acquired lock
+2019-05-02 10:30:04,900 TaskBarIcon.on_left_down: Releasing lock
+2019-05-02 11:55:42,734 Received query to end session
+2019-05-02 11:55:42,739 Can veto
+2019-05-02 11:55:42,739 Trying to close main top-level application window...
+2019-05-02 11:55:42,740 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x05781BC0>)
+2019-05-02 11:55:42,815 Main top-level application window processed close event
+2019-05-02 11:55:42,818 Ending session
+2019-05-02 11:55:42,818 Executing BaseApp.OnExit()
+2019-05-02 11:55:42,818 Running application exit handlers
+2019-05-02 11:55:42,818 Shutting down profile loader
+2019-05-02 11:55:42,825 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-05-02 11:55:42,851 Display configuration monitoring thread finished
+2019-05-02 11:55:43,015 ScriptingHost.ConnectionHandler exited
+2019-05-02 11:55:43,023 Exiting DisplayCAL-apply-profiles
+2019-05-02 11:55:43,023 Calling sys.exit(0)
+2019-05-02 11:55:43,025 Ran application exit handlers
+2019-05-02 23:02:40,979 ================================================================================
+2019-05-02 23:02:41,213 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-05-02 23:02:41,229 Windows 10 Pro for Workstations Version 1903 Build 18362.86 x86_64
+2019-05-02 23:02:41,229 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-05-02 23:02:41,229 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-02 23:02:41,229 Faulthandler 3.0
+2019-05-02 23:02:51,558 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-05-02 23:02:51,572 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-05-02 23:02:51,619 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-05-02 23:02:51,619 Encoding: cp936
+2019-05-02 23:02:51,651 File system encoding: mbcs
+2019-05-02 23:02:51,947 Installing SIGINT handler
+2019-05-02 23:02:52,213 Setting up scripting host at 127.0.0.1:15411
+2019-05-02 23:02:52,260 --------------------------------------------------------------------------------
+2019-05-02 23:02:52,276 Enumerating display adapters and devices:
+2019-05-02 23:02:52,276 
+2019-05-02 23:02:52,463 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-02 23:02:52,588 NVIDIA GeForce GTX 1070
+2019-05-02 23:02:52,619   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-02 23:02:53,119 Caching gamma ramps for profile U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-02 23:02:53,157 Loading calibration curves of current display device profile...
+2019-05-02 23:02:53,157 1. DELL U2719D @ 0, 0, 2560x1440 (Primary): U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-02 23:02:56,377 ...failed!

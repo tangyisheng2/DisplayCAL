@@ -1,0 +1,149 @@
+2019-05-03 00:47:29,049 Received query to end session
+2019-05-03 00:47:29,085 Can veto
+2019-05-03 00:47:29,088 Trying to close main top-level application window...
+2019-05-03 00:47:29,089 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x05959670>)
+2019-05-03 00:47:29,266 Main top-level application window processed close event
+2019-05-03 00:47:29,267 Executing BaseApp.OnExit()
+2019-05-03 00:47:29,267 Running application exit handlers
+2019-05-03 00:47:29,269 Shutting down profile loader
+2019-05-03 00:47:29,296 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-05-03 00:47:29,302 Display configuration monitoring thread finished
+2019-05-03 00:47:29,357 ScriptingHost.ConnectionHandler exited
+2019-05-03 00:47:29,375 Exiting DisplayCAL-apply-profiles
+2019-05-03 00:47:29,380 Ran application exit handlers
+2019-05-03 11:26:46,588 ================================================================================
+2019-05-03 11:26:46,664 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-05-03 11:26:46,703 Windows 10 Pro for Workstations Version 1903 Build 18362.86 x86_64
+2019-05-03 11:26:46,709 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-05-03 11:26:46,723 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-03 11:26:46,729 Faulthandler 3.0
+2019-05-03 11:26:48,667 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-05-03 11:26:48,667 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-05-03 11:26:48,683 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-05-03 11:26:48,683 Encoding: cp936
+2019-05-03 11:26:48,683 File system encoding: mbcs
+2019-05-03 11:26:48,713 Installing SIGINT handler
+2019-05-03 11:26:48,744 Setting up scripting host at 127.0.0.1:15411
+2019-05-03 11:26:48,760 --------------------------------------------------------------------------------
+2019-05-03 11:26:48,760 Enumerating display adapters and devices:
+2019-05-03 11:26:48,760 
+2019-05-03 11:26:49,072 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-03 11:26:49,119 NVIDIA GeForce GTX 1070
+2019-05-03 11:26:49,151   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-03 11:26:49,260 Caching gamma ramps for profile U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-03 11:26:49,276 Loading calibration curves of current display device profile...
+2019-05-03 11:26:49,276 1. DELL U2719D @ 0, 0, 2560x1440 (Primary): U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-03 11:26:49,667 ...failed!
+2019-05-03 14:42:08,032 <wx._core.DisplayChangedEvent object at 0x05827350>
+2019-05-03 14:42:08,055 ProcessDisplayChangedEvent: Acquired lock
+2019-05-03 14:42:08,055 --------------------------------------------------------------------------------
+2019-05-03 14:42:08,056 Enumerating display adapters and devices:
+2019-05-03 14:42:08,056 
+2019-05-03 14:42:08,079 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-03 14:42:08,085 EnumDisplayDevices('\\\\.\\DISPLAY1', 0) failed: [Windows Error 6] EnumDisplayDevices: The handle is invalid.
+2019-05-03 14:42:08,086 ProcessDisplayChangedEvent: Releasing lock
+2019-05-03 14:42:08,276 A profile change has been detected
+2019-05-03 14:42:08,276 1. Unknown @ 0, 0, 2560x1440 [PRIMARY] -> ?
+2019-05-03 14:42:12,464 A profile change has been detected
+2019-05-03 14:42:12,466 1. Unknown @ 0, 0, 2560x1440 [PRIMARY] -> U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-03 14:42:12,601 Caching gamma ramps for profile U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-03 14:42:12,637 Loading calibration curves of current display device profile...
+2019-05-03 14:42:12,637 1. Unknown @ 0, 0, 2560x1440 (Primary): U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-03 14:42:12,648 ...failed!
+2019-05-03 17:37:16,598 Received query to end session
+2019-05-03 17:37:16,602 Can veto
+2019-05-03 17:37:16,602 Trying to close main top-level application window...
+2019-05-03 17:37:16,604 Executing ProfileLoader.exit(<wx._core.CloseEvent object at 0x058ACE90>)
+2019-05-03 17:37:17,204 Main top-level application window processed close event
+2019-05-03 17:37:17,207 Ending session
+2019-05-03 17:37:17,207 Display configuration monitoring thread finished
+2019-05-03 17:37:17,209 Shutting down profile loader
+2019-05-03 17:37:17,209 Executing BaseApp.OnExit()
+2019-05-03 17:37:17,210 Running application exit handlers
+2019-05-03 17:37:17,210 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2019-05-03 17:37:17,256 ScriptingHost.ConnectionHandler exited
+2019-05-03 17:37:17,257 Exiting DisplayCAL-apply-profiles
+2019-05-03 17:37:17,260 Calling sys.exit(0)
+2019-05-03 17:37:17,263 Ran application exit handlers
+2019-05-03 17:38:15,459 ================================================================================
+2019-05-03 17:38:15,474 DisplayCAL-apply-profiles.exe 3.8.0.0 2019-04-26T01:30:42.446Z
+2019-05-03 17:38:15,522 Windows 10 Pro for Workstations Version 1903 Build 18362.86 x86_64
+2019-05-03 17:38:15,536 Python 2.7.15 (v2.7.15:ca079a3ea3, Apr 30 2018, 16:22:17) [MSC v.1500 32 bit (Intel)]
+2019-05-03 17:38:15,536 CA file C:\Program Files (x86)\DisplayCAL\cacert.pem
+2019-05-03 17:38:15,536 Faulthandler 3.0
+2019-05-03 17:38:18,989 Imported existing <module 'comtypes.gen' from 'C:\Program Files (x86)\DisplayCAL\lib\library.zip\comtypes\gen\__init__.pyc'>
+2019-05-03 17:38:18,993 Using writeable comtypes cache directory: 'c:\users\tang-\appdata\local\temp\comtypes_cache\DisplayCAL-apply-profiles-27'
+2019-05-03 17:38:19,006 wxPython 4.0.3 msw (phoenix) wxWidgets 3.0.5
+2019-05-03 17:38:19,006 Encoding: cp936
+2019-05-03 17:38:19,006 File system encoding: mbcs
+2019-05-03 17:38:19,117 Installing SIGINT handler
+2019-05-03 17:38:19,296 Setting up scripting host at 127.0.0.1:15411
+2019-05-03 17:38:19,326 --------------------------------------------------------------------------------
+2019-05-03 17:38:19,328 Enumerating display adapters and devices:
+2019-05-03 17:38:19,328 
+2019-05-03 17:38:19,414 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-03 17:38:19,486 NVIDIA GeForce GTX 1070
+2019-05-03 17:38:19,486   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-03 17:38:19,559 Caching gamma ramps for profile U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-03 17:38:19,575 Loading calibration curves of current display device profile...
+2019-05-03 17:38:19,578 1. DELL U2719D @ 0, 0, 2560x1440 (Primary): U2719D #1 2019-05-01 13-11 D6500 2.2 F-S XYZLUT+MTX
+2019-05-03 17:38:19,624 ...ok.
+2019-05-03 17:39:34,723 Detected madVR. Calibration loading disabled.
+2019-05-03 17:39:34,724 madVR did not reset gamma ramps for 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY], preserve calibration state
+2019-05-03 17:39:37,773 madVR did reset gamma ramps for 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY], do not preserve calibration state
+2019-05-03 17:42:04,046 No longer detecting madVR. Calibration loading enabled.
+2019-05-03 19:10:41,082 <wx._core.DisplayChangedEvent object at 0x058B1CB0>
+2019-05-03 19:10:41,086 ProcessDisplayChangedEvent: Acquired lock
+2019-05-03 19:10:41,086 --------------------------------------------------------------------------------
+2019-05-03 19:10:41,086 Enumerating display adapters and devices:
+2019-05-03 19:10:41,086 
+2019-05-03 19:10:41,144 DisplayConfigurationMonitoringThread: Waiting to acquire lock...
+2019-05-03 19:10:41,276 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-03 19:10:41,403 NVIDIA GeForce GTX 1070
+2019-05-03 19:10:41,404   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-03 19:10:41,404 ProcessDisplayChangedEvent: Releasing lock
+2019-05-03 19:10:41,404 DisplayConfigurationMonitoringThread: Acquired lock
+2019-05-03 19:10:41,421 A profile change has been detected
+2019-05-03 19:10:41,421 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY] -> DELL U2715H Color Profile, D65 (DELL U2715H.icm)
+2019-05-03 19:10:41,523 Caching implicit linear gamma ramps for profile DELL U2715H Color Profile, D65 (DELL U2715H.icm)
+2019-05-03 19:10:41,601 Loading calibration curves of current display device profile...
+2019-05-03 19:10:41,602 1. DELL U2719D @ 0, 0, 2560x1440 (Primary): DELL U2715H Color Profile, D65 (DELL U2715H.icm)
+2019-05-03 19:10:41,621 ...ok.
+2019-05-03 19:10:41,621 DisplayConfigurationMonitoringThread: Releasing lock
+2019-05-03 19:10:41,621 DisplayConfigurationMonitoringThread: Released lock
+2019-05-03 20:49:32,529 <wx._core.DisplayChangedEvent object at 0x0580F3F0>
+2019-05-03 20:49:32,535 ProcessDisplayChangedEvent: Acquired lock
+2019-05-03 20:49:32,536 --------------------------------------------------------------------------------
+2019-05-03 20:49:32,536 Enumerating display adapters and devices:
+2019-05-03 20:49:32,536 
+2019-05-03 20:49:32,555 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-03 20:49:32,558 EnumDisplayDevices('\\\\.\\DISPLAY1', 0) failed: [Windows Error 6] EnumDisplayDevices: The handle is invalid.
+2019-05-03 20:49:32,559 ProcessDisplayChangedEvent: Releasing lock
+2019-05-03 20:49:32,594 A change in the display device configuration has been detected.
+2019-05-03 20:49:32,594 --------------------------------------------------------------------------------
+2019-05-03 20:49:32,594 Enumerating display adapters and devices:
+2019-05-03 20:49:32,594 
+2019-05-03 20:49:32,605 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-03 20:49:32,608 EnumDisplayDevices('\\\\.\\DISPLAY1', 0) failed: [Windows Error 6] EnumDisplayDevices: The handle is invalid.
+2019-05-03 20:49:32,611 A profile change has been detected
+2019-05-03 20:49:32,611 1. Unknown @ 0, 0, 1024x768 [PRIMARY] -> ?
+2019-05-03 22:15:29,553 <wx._core.DisplayChangedEvent object at 0x0580F350>
+2019-05-03 22:15:29,555 ProcessDisplayChangedEvent: Acquired lock
+2019-05-03 22:15:29,555 --------------------------------------------------------------------------------
+2019-05-03 22:15:29,555 Enumerating display adapters and devices:
+2019-05-03 22:15:29,558 
+2019-05-03 22:15:29,627 DisplayConfigurationMonitoringThread: Waiting to acquire lock...
+2019-05-03 22:15:29,836 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-03 22:15:29,971 NVIDIA GeForce GTX 1070
+2019-05-03 22:15:29,971   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-03 22:15:29,971 ProcessDisplayChangedEvent: Releasing lock
+2019-05-03 22:15:29,971 DisplayConfigurationMonitoringThread: Acquired lock
+2019-05-03 22:15:29,973 A change in the display device configuration has been detected.
+2019-05-03 22:15:29,973 --------------------------------------------------------------------------------
+2019-05-03 22:15:29,973 Enumerating display adapters and devices:
+2019-05-03 22:15:29,973 
+2019-05-03 22:15:30,026 Buggy video driver detected: NVIDIA GeForce GTX 1070. Gamma ramp hack activated.
+2019-05-03 22:15:30,206 NVIDIA GeForce GTX 1070
+2019-05-03 22:15:30,207   |- 1. DELL U2719D @ 0, 0, 2560x1440 [PRIMARY]
+2019-05-03 22:15:30,414 DisplayConfigurationMonitoringThread: Releasing lock
+2019-05-03 22:15:30,414 DisplayConfigurationMonitoringThread: Released lock
